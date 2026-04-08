@@ -106,7 +106,7 @@ python generate_data.py
 
 ## API Documentation
 
-Full interactive docs available at `http://localhost:8000/docs` (Swagger UI).
+Full interactive docs available at `http://localhost:8080/docs` (Swagger UI) when running natively, or `http://localhost:8000/docs` via Docker Compose.
 
 ### Endpoints
 
