@@ -22,23 +22,8 @@ services:
         type: SECRET
         value: ""
 
-  - name: frontend
-    source_dir: /frontend
-    github:
-      repo: your-org/AI-Infra
-      branch: main
-      deploy_on_push: true
-    build_command: npm install && npm run build
-    output_dir: dist
-    environment_slug: node-js
-    instance_size_slug: basic-xxs
-    instance_count: 1
-    envs:
-      - key: VITE_API_URL
-        value: ${backend.PUBLIC_URL}
-
 static_sites:
-  - name: frontend-static
+  - name: frontend
     source_dir: /frontend
     github:
       repo: your-org/AI-Infra
