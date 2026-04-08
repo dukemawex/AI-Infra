@@ -118,7 +118,7 @@ export default function Dashboard() {
         {/* Right Decision Panel */}
         <div
           className="flex-shrink-0 overflow-hidden transition-all duration-300"
-          style={{ width: panelOpen || !selectedAsset ? (selectedAsset ? '380px' : '0px') : '0px' }}
+          style={{ width: selectedAsset && panelOpen ? '380px' : '0px' }}
         >
           {selectedAsset && (
             <AssetPanel asset={selectedAsset} />

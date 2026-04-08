@@ -149,7 +149,7 @@ export default function AssetPanel({ asset }: Props) {
           </div>
         ) : risk ? (
           <p className="text-sm leading-relaxed" style={{ color: 'rgba(255,255,255,0.65)' }}>
-            {risk.recommendation}
+            {risk.disclaimer}
           </p>
         ) : (
           <p className="text-xs" style={{ color: 'rgba(255,255,255,0.25)' }}>
