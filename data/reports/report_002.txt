@@ -1,0 +1,66 @@
+NGO FIELD REPORT - SOLAR ENERGY ACCESS INITIATIVE
+Report ID: RPT-002
+Date: 2023-09-22
+Organization: SolarAfrica Foundation
+Author: Technical Assessor Grace Nakamura
+
+EXECUTIVE SUMMARY
+=================
+Quarterly assessment of solar infrastructure across Uganda covering
+Kampala, Entebbe, and surrounding districts. 12 sites visited over 14 days.
+
+SITE ASSESSMENTS
+================
+
+Site 1: Kampala East Solar Array (ASSET-0112)
+Location: Kampala, 0.3476, 32.5825
+Type: Solar System
+Capacity: 30.0 kW
+Current Status: operational
+Last Maintenance: 2023-06-01
+Installation Date: 2018-04-12
+Condition Notes: System performing at 95% efficiency. Battery bank recently
+replaced. Monitoring system online. This installation serves as a model for
+the region.
+
+Site 2: Entebbe Solar Health Clinic System (ASSET-0156)
+Location: Entebbe, 0.0512, 32.4632
+Type: Solar System
+Capacity: 22.8 kW
+Current Status: operational
+Last Maintenance: 2023-02-28
+Condition Notes: Health clinic solar system functioning well. Minor dust
+accumulation on panels. Recommend cleaning every 3 months. Inverter showing
+occasional error codes - monitoring advised.
+
+Site 3: Jinja Rural Solar Station (ASSET-0198)
+Location: Jinja, 0.4478, 33.2026
+Type: Solar System
+Capacity: 8.5 kW
+Current Status: offline
+Last Maintenance: 2022-04-15
+Condition Notes: System completely offline since July 2023 due to theft of
+inverter unit and battery storage system. Police report filed. Community has
+no electricity access. Replacement cost estimated at USD 14,000. Security
+measures needed before reinstallation.
+
+Site 4: Kampala North Borehole Pump (ASSET-0203)
+Location: Kampala, 0.3736, 32.5694
+Type: Borehole
+Depth: 72 meters
+Current Status: degraded
+Last Maintenance: 2022-09-10
+Condition Notes: Electric pump showing reduced output. Likely worn impeller.
+Water quality acceptable. Serving approximately 1,800 households. Maintenance
+scheduled for October 2023.
+
+SUMMARY STATISTICS
+==================
+- Sites visited: 12
+- Operational: 7 (58%)
+- Degraded: 3 (25%)
+- Critical: 1 (8%)
+- Offline: 1 (8%)
+
+Total maintenance budget required: USD 47,200
+Priority interventions: ASSET-0198 (replacement), ASSET-0203 (repair)

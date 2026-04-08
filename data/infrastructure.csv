@@ -1,0 +1,421 @@
+id,type,lat,lon,install_date,last_maintenance,status,usage_level,region,depth_m,capacity_kw
+ASSET-0001,borehole,9.83101,29.897837,2008-02-18,2010-07-06,degraded,high,Nairobi,31,
+ASSET-0002,solar_system,-4.404056,29.372759,2016-05-02,2023-03-02,operational,low,Kampala,,33.02
+ASSET-0003,solar_system,3.984181,30.563814,2005-02-23,2022-04-01,critical,medium,Harare,,18.0
+ASSET-0004,borehole,14.144261,31.731891,2007-01-30,2015-09-07,operational,high,Lusaka,97,
+ASSET-0005,solar_system,9.594636,35.724562,2013-06-28,2014-06-15,degraded,high,Kampala,,31.5
+ASSET-0006,solar_system,-1.154228,26.391103,2019-11-01,2021-03-11,critical,high,Kisumu,,42.98
+ASSET-0007,borehole,0.559472,37.713689,2013-03-08,2015-02-02,operational,low,Djibouti City,54,
+ASSET-0008,borehole,7.699566,35.682798,2010-06-29,2014-03-28,operational,low,Mombasa,101,
+ASSET-0009,borehole,11.857038,40.519998,2010-02-20,2010-12-09,critical,medium,Bujumbura,28,
+ASSET-0010,borehole,12.527353,31.293558,2019-09-14,2022-08-01,operational,high,Kisumu,78,
+ASSET-0011,borehole,-2.207394,39.89978,2017-02-02,2020-02-13,degraded,medium,Lilongwe,94,
+ASSET-0012,solar_system,-0.613585,44.950752,2016-06-06,2022-01-17,operational,low,Asmara,,6.82
+ASSET-0013,borehole,6.928181,32.695346,2018-05-14,2021-01-26,degraded,high,Mogadishu,21,
+ASSET-0014,borehole,10.017556,40.371975,2012-08-18,2015-03-19,operational,low,Mwanza,20,
+ASSET-0015,solar_system,10.239244,35.153633,2007-05-22,2021-06-29,operational,medium,Entebbe,,31.04
+ASSET-0016,borehole,10.250216,35.787581,2022-06-19,2022-07-19,degraded,medium,Asmara,34,
+ASSET-0017,solar_system,-0.210954,29.817432,2017-09-22,2018-09-09,operational,medium,Maputo,,4.86
+ASSET-0018,borehole,8.195016,43.936974,2008-09-14,2014-09-24,degraded,medium,Addis Ababa,47,
+ASSET-0019,borehole,2.979846,38.433739,2013-05-18,2018-05-16,critical,medium,Maputo,51,
+ASSET-0020,borehole,1.761711,36.766174,2010-03-01,2023-06-11,operational,low,Dar es Salaam,100,
+ASSET-0021,borehole,-3.651993,25.628259,2012-05-30,2014-01-30,degraded,low,Harare,82,
+ASSET-0022,borehole,-2.353763,43.710285,2017-10-22,2023-03-11,operational,medium,Mwanza,72,
+ASSET-0023,borehole,-3.061384,33.621024,2014-07-02,2019-03-11,operational,medium,Kigali,106,
+ASSET-0024,borehole,3.052426,31.786052,2007-06-15,2013-02-09,operational,medium,Kampala,37,
+ASSET-0025,solar_system,0.570903,29.996129,2006-09-10,2016-09-17,critical,high,Juba,,6.25
+ASSET-0026,borehole,13.52734,41.973915,2008-09-24,2017-12-05,operational,low,Dar es Salaam,71,
+ASSET-0027,borehole,2.579462,44.706177,2010-12-13,2021-03-27,operational,medium,Juba,113,
+ASSET-0028,solar_system,-1.202043,29.354018,2006-04-25,2019-05-21,degraded,low,Addis Ababa,,16.71
+ASSET-0029,borehole,4.53577,43.387743,2016-11-29,2018-10-04,operational,medium,Kisumu,43,
+ASSET-0030,borehole,-3.640783,42.236384,2014-01-21,2015-06-26,offline,medium,Mombasa,94,
+ASSET-0031,borehole,-3.360332,38.147463,2017-09-05,2023-08-16,operational,low,Mombasa,105,
+ASSET-0032,solar_system,0.31229,27.617566,2019-06-24,2021-03-29,operational,high,Harare,,46.88
+ASSET-0033,borehole,7.423185,36.259873,2007-03-31,2008-12-20,degraded,medium,Antananarivo,36,
+ASSET-0034,solar_system,12.585405,32.390542,2008-07-16,2018-06-13,critical,medium,Dar es Salaam,,31.17
+ASSET-0035,borehole,0.987575,38.267774,2008-01-06,2014-01-10,operational,low,Mwanza,90,
+ASSET-0036,borehole,0.635125,29.212593,2012-09-09,2017-05-03,degraded,high,Lilongwe,84,
+ASSET-0037,solar_system,13.10673,41.922074,2007-01-27,2021-05-19,operational,low,Lilongwe,,1.67
+ASSET-0038,borehole,-1.76836,33.83671,2020-10-29,2023-04-22,degraded,low,Lilongwe,108,
+ASSET-0039,borehole,-4.279437,32.38432,2017-05-24,2019-02-19,operational,low,Mwanza,66,
+ASSET-0040,borehole,-0.798469,29.990595,2007-04-23,2015-04-28,critical,high,Asmara,72,
+ASSET-0041,borehole,12.292114,44.524121,2008-12-21,2018-04-20,operational,medium,Harare,62,
+ASSET-0042,solar_system,0.336114,40.74749,2007-06-05,2016-02-01,critical,high,Harare,,12.29
+ASSET-0043,solar_system,1.103817,40.90691,2010-02-08,2015-03-10,operational,low,Asmara,,17.42
+ASSET-0044,borehole,2.022923,35.188114,2020-03-29,2023-05-01,operational,low,Lilongwe,53,
+ASSET-0045,borehole,14.250686,30.309327,2007-06-08,2020-11-23,operational,medium,Kisumu,60,
+ASSET-0046,solar_system,14.684717,27.312916,2017-12-07,2020-02-23,operational,medium,Mombasa,,1.58
+ASSET-0047,borehole,3.625948,43.97749,2012-05-28,2019-07-12,degraded,low,Asmara,58,
+ASSET-0048,solar_system,1.523658,38.944168,2017-06-08,2018-12-11,operational,medium,Mogadishu,,19.89
+ASSET-0049,borehole,6.382105,33.121503,2005-01-04,2011-11-28,operational,medium,Mombasa,94,
+ASSET-0050,solar_system,3.83572,38.512545,2016-06-19,2021-11-08,critical,high,Antananarivo,,37.19
+ASSET-0051,borehole,5.30904,37.658817,2012-07-08,2014-09-11,critical,high,Maputo,106,
+ASSET-0052,solar_system,11.131258,27.947079,2006-01-14,2011-08-11,offline,medium,Harare,,38.77
+ASSET-0053,solar_system,12.722738,36.513418,2021-02-10,2023-05-07,operational,low,Mogadishu,,33.32
+ASSET-0054,borehole,10.568408,29.376823,2020-08-10,2023-08-05,operational,medium,Kigali,35,
+ASSET-0055,solar_system,11.028332,38.351555,2017-07-15,2021-03-05,offline,high,Addis Ababa,,31.21
+ASSET-0056,solar_system,3.918272,28.183158,2015-08-25,2020-10-10,operational,low,Mwanza,,32.43
+ASSET-0057,solar_system,0.491949,26.549667,2011-05-30,2016-09-30,operational,medium,Harare,,27.7
+ASSET-0058,borehole,-0.37477,38.878996,2020-11-04,2022-02-15,operational,medium,Addis Ababa,89,
+ASSET-0059,solar_system,-3.754686,41.657823,2013-09-26,2023-12-19,critical,high,Mogadishu,,2.45
+ASSET-0060,solar_system,-4.882078,32.035176,2021-11-25,2023-01-28,critical,high,Dodoma,,21.82
+ASSET-0061,borehole,-0.611567,33.71672,2005-08-26,2014-06-15,operational,medium,Dodoma,71,
+ASSET-0062,borehole,13.390832,44.61444,2016-12-24,2017-05-13,offline,medium,Antananarivo,104,
+ASSET-0063,borehole,7.854993,27.71399,2015-05-11,2017-06-23,operational,medium,Dar es Salaam,47,
+ASSET-0064,solar_system,1.750011,42.5928,2011-03-30,2020-10-11,operational,low,Bujumbura,,2.44
+ASSET-0065,borehole,-0.515557,26.372367,2019-08-15,2019-12-05,critical,high,Asmara,45,
+ASSET-0066,borehole,-1.952353,27.524419,2020-01-07,2020-09-27,degraded,low,Mombasa,109,
+ASSET-0067,solar_system,-1.644217,37.14495,2021-10-11,2023-11-15,operational,high,Asmara,,48.29
+ASSET-0068,borehole,-4.486431,31.239145,2020-03-11,2022-05-18,operational,medium,Kisumu,29,
+ASSET-0069,borehole,8.94386,31.031654,2020-05-07,2023-10-18,critical,high,Kigali,92,
+ASSET-0070,borehole,5.654905,38.230427,2006-07-19,2017-12-22,degraded,low,Asmara,73,
+ASSET-0071,solar_system,3.670468,32.243761,2015-04-25,2023-04-30,operational,low,Kigali,,26.8
+ASSET-0072,solar_system,11.163984,35.763458,2015-11-05,2021-02-20,operational,medium,Mombasa,,14.52
+ASSET-0073,borehole,0.578565,34.01604,2021-10-31,2023-03-20,degraded,medium,Dar es Salaam,63,
+ASSET-0074,borehole,12.019057,28.636797,2009-10-04,2017-10-18,critical,medium,Dodoma,96,
+ASSET-0075,solar_system,-4.796978,43.961252,2006-12-03,2012-06-01,degraded,medium,Mwanza,,38.27
+ASSET-0076,solar_system,3.963491,25.344865,2011-08-08,2016-08-26,operational,low,Dodoma,,33.7
+ASSET-0077,solar_system,6.069459,31.875148,2021-09-24,2023-05-10,operational,medium,Dodoma,,14.64
+ASSET-0078,solar_system,-2.586882,28.851686,2007-09-07,2019-10-13,offline,medium,Harare,,10.79
+ASSET-0079,solar_system,9.4917,44.53214,2016-10-07,2023-07-17,operational,low,Lilongwe,,10.91
+ASSET-0080,borehole,-1.411169,25.282967,2016-12-24,2018-06-25,operational,high,Asmara,90,
+ASSET-0081,solar_system,7.757393,40.055844,2007-04-21,2007-08-29,degraded,medium,Addis Ababa,,22.86
+ASSET-0082,borehole,0.049568,42.234459,2007-07-24,2009-02-08,operational,low,Kampala,100,
+ASSET-0083,borehole,-2.016048,36.256792,2011-10-26,2013-10-22,offline,low,Addis Ababa,117,
+ASSET-0084,solar_system,6.922537,37.368367,2022-05-26,2023-12-12,operational,high,Mombasa,,15.92
+ASSET-0085,solar_system,6.372589,26.204606,2021-08-07,2021-12-16,offline,low,Maputo,,11.73
+ASSET-0086,borehole,-0.202696,36.039845,2008-07-06,2008-08-26,operational,medium,Juba,80,
+ASSET-0087,solar_system,-0.370475,39.139117,2020-10-07,2023-05-24,operational,low,Kampala,,14.33
+ASSET-0088,borehole,-2.704474,29.496189,2008-05-05,2014-05-20,critical,low,Mogadishu,41,
+ASSET-0089,solar_system,9.979154,36.384141,2011-06-23,2021-05-28,operational,medium,Mombasa,,35.44
+ASSET-0090,solar_system,5.799631,33.755177,2018-06-01,2018-09-20,critical,medium,Entebbe,,30.78
+ASSET-0091,borehole,-0.421512,38.485967,2017-11-26,2018-03-20,offline,medium,Dar es Salaam,54,
+ASSET-0092,borehole,4.410016,38.03019,2011-03-29,2015-05-23,offline,medium,Juba,82,
+ASSET-0093,borehole,1.959221,31.666168,2020-01-12,2020-09-12,critical,medium,Dodoma,108,
+ASSET-0094,solar_system,8.251671,33.009045,2022-01-22,2023-09-07,operational,low,Maputo,,13.74
+ASSET-0095,borehole,12.298212,41.498544,2005-01-10,2019-11-10,critical,medium,Djibouti City,26,
+ASSET-0096,borehole,2.235587,40.128863,2019-01-11,2021-08-03,critical,low,Entebbe,90,
+ASSET-0097,borehole,3.762322,38.965001,2007-09-22,2008-06-14,offline,medium,Maputo,50,
+ASSET-0098,borehole,6.01678,36.045028,2007-02-03,2012-03-18,offline,high,Maputo,79,
+ASSET-0099,borehole,4.96751,39.332067,2016-05-31,2019-07-24,operational,medium,Addis Ababa,80,
+ASSET-0100,borehole,6.025302,32.67172,2018-06-12,2021-05-17,degraded,low,Antananarivo,28,
+ASSET-0101,solar_system,1.797505,40.754348,2010-12-29,2011-02-18,operational,low,Mogadishu,,29.97
+ASSET-0102,solar_system,3.930948,34.686828,2012-06-16,2020-12-31,operational,medium,Addis Ababa,,10.65
+ASSET-0103,borehole,2.659417,42.12026,2014-03-20,2014-10-14,operational,medium,Kisumu,68,
+ASSET-0104,solar_system,4.906573,25.740392,2016-04-07,2022-12-19,operational,low,Addis Ababa,,42.48
+ASSET-0105,borehole,13.208834,25.306952,2008-03-26,2017-07-05,critical,high,Entebbe,29,
+ASSET-0106,solar_system,1.771225,38.854092,2019-07-30,2020-02-09,critical,high,Lilongwe,,43.18
+ASSET-0107,solar_system,7.535984,42.748774,2015-12-12,2022-02-04,operational,low,Bujumbura,,32.11
+ASSET-0108,solar_system,9.935327,33.679429,2007-03-18,2021-07-03,degraded,low,Harare,,9.57
+ASSET-0109,solar_system,-4.080181,40.922869,2011-08-01,2019-09-14,operational,low,Nairobi,,27.26
+ASSET-0110,borehole,-1.498613,37.189836,2013-07-31,2020-08-11,degraded,medium,Juba,94,
+ASSET-0111,borehole,4.222998,30.079547,2010-09-23,2011-01-07,critical,medium,Harare,56,
+ASSET-0112,borehole,3.834596,31.911312,2018-03-07,2021-08-13,degraded,medium,Dar es Salaam,52,
+ASSET-0113,solar_system,-1.01566,32.693865,2015-11-03,2017-02-11,operational,medium,Maputo,,29.38
+ASSET-0114,solar_system,14.55889,38.164596,2011-02-27,2011-06-03,degraded,medium,Nairobi,,37.62
+ASSET-0115,borehole,9.903443,41.656778,2011-06-03,2016-08-30,degraded,medium,Mombasa,101,
+ASSET-0116,borehole,0.012536,40.111546,2022-03-20,2022-09-06,degraded,high,Mombasa,102,
+ASSET-0117,borehole,10.77221,25.667291,2013-03-08,2021-06-23,operational,high,Maputo,61,
+ASSET-0118,solar_system,-0.984104,40.730256,2013-03-17,2019-03-30,degraded,low,Juba,,9.48
+ASSET-0119,solar_system,9.931187,31.774305,2007-08-02,2018-03-03,offline,low,Maputo,,48.38
+ASSET-0120,solar_system,2.315501,40.813639,2005-04-25,2011-04-30,degraded,medium,Mwanza,,34.13
+ASSET-0121,solar_system,2.62051,37.770985,2013-05-02,2014-08-18,degraded,medium,Kisumu,,31.55
+ASSET-0122,solar_system,-0.572656,26.264341,2015-06-01,2023-05-11,operational,medium,Mombasa,,8.28
+ASSET-0123,borehole,14.918547,27.32241,2010-04-08,2022-05-28,operational,medium,Maputo,105,
+ASSET-0124,solar_system,9.84538,28.090458,2014-04-22,2021-09-24,operational,medium,Kisumu,,21.29
+ASSET-0125,solar_system,8.805613,29.345394,2014-12-22,2017-09-14,critical,low,Kampala,,34.76
+ASSET-0126,solar_system,2.962793,28.796171,2007-09-28,2018-01-08,operational,low,Kampala,,32.52
+ASSET-0127,borehole,10.735892,29.871378,2007-10-29,2020-07-27,operational,high,Kampala,90,
+ASSET-0128,borehole,-0.680973,42.393909,2012-05-15,2015-10-05,critical,medium,Kisumu,55,
+ASSET-0129,borehole,5.804309,40.970276,2007-06-20,2022-05-17,critical,low,Addis Ababa,65,
+ASSET-0130,borehole,1.475429,28.484924,2006-03-06,2009-02-06,degraded,medium,Kisumu,115,
+ASSET-0131,borehole,3.965504,32.240779,2018-04-26,2019-01-04,operational,low,Dodoma,98,
+ASSET-0132,borehole,1.032607,37.866814,2005-09-13,2007-02-23,offline,high,Entebbe,74,
+ASSET-0133,borehole,9.248026,33.871247,2006-10-24,2014-02-12,degraded,low,Dodoma,55,
+ASSET-0134,solar_system,14.892555,35.611137,2015-03-06,2020-12-04,degraded,low,Djibouti City,,35.54
+ASSET-0135,borehole,4.031098,29.569871,2012-08-08,2022-11-09,operational,medium,Mogadishu,60,
+ASSET-0136,solar_system,8.302157,32.48602,2008-06-04,2023-11-29,offline,low,Bujumbura,,41.84
+ASSET-0137,borehole,-3.068711,39.77592,2007-12-02,2020-06-23,operational,high,Mogadishu,91,
+ASSET-0138,solar_system,3.216173,42.472147,2021-10-30,2023-02-05,critical,medium,Kigali,,48.47
+ASSET-0139,solar_system,-2.927989,35.148251,2008-06-21,2023-04-13,operational,high,Asmara,,18.48
+ASSET-0140,solar_system,10.252113,36.482,2014-08-17,2020-12-30,offline,high,Kigali,,31.26
+ASSET-0141,borehole,13.581686,41.589216,2010-12-31,2011-09-24,operational,medium,Mombasa,59,
+ASSET-0142,solar_system,-4.877884,42.397254,2017-09-14,2022-04-12,operational,medium,Asmara,,48.63
+ASSET-0143,borehole,-0.697342,33.39665,2012-08-24,2016-04-04,operational,medium,Entebbe,119,
+ASSET-0144,borehole,-1.888402,40.088718,2006-02-12,2021-04-25,operational,medium,Kampala,74,
+ASSET-0145,solar_system,3.840884,30.463337,2021-12-07,2023-06-14,operational,medium,Mombasa,,15.24
+ASSET-0146,solar_system,8.342651,25.908347,2013-11-12,2020-08-31,operational,low,Entebbe,,47.35
+ASSET-0147,borehole,0.788943,27.399687,2016-02-27,2021-01-24,operational,medium,Lilongwe,110,
+ASSET-0148,borehole,6.174471,38.360963,2012-12-11,2013-11-01,operational,medium,Entebbe,75,
+ASSET-0149,borehole,13.423249,42.2422,2017-11-30,2022-10-23,degraded,medium,Antananarivo,73,
+ASSET-0150,solar_system,3.100646,44.323994,2008-11-08,2022-10-19,operational,medium,Kigali,,19.05
+ASSET-0151,solar_system,-0.133671,36.777426,2016-10-02,2017-09-19,operational,medium,Kigali,,17.97
+ASSET-0152,solar_system,-3.472412,37.664493,2016-11-25,2022-09-13,operational,high,Juba,,18.53
+ASSET-0153,borehole,-2.943909,30.119364,2008-11-22,2022-06-26,operational,high,Harare,29,
+ASSET-0154,borehole,4.279061,36.27471,2017-12-31,2023-02-11,degraded,high,Dodoma,102,
+ASSET-0155,solar_system,-1.980852,26.365725,2014-12-02,2022-01-30,operational,low,Bujumbura,,4.22
+ASSET-0156,borehole,4.23485,25.752145,2013-04-09,2022-09-05,operational,medium,Maputo,31,
+ASSET-0157,solar_system,6.606588,44.08463,2021-07-29,2021-10-09,operational,high,Antananarivo,,33.11
+ASSET-0158,solar_system,4.512581,28.017222,2006-05-22,2016-07-28,operational,high,Mombasa,,18.16
+ASSET-0159,borehole,7.922542,25.782843,2020-11-14,2023-05-29,offline,medium,Entebbe,98,
+ASSET-0160,borehole,2.45704,30.657872,2014-03-03,2022-12-08,operational,medium,Asmara,100,
+ASSET-0161,solar_system,1.593815,36.159264,2013-09-02,2016-12-08,operational,high,Dar es Salaam,,48.27
+ASSET-0162,borehole,-3.36996,38.272242,2012-11-05,2016-05-28,offline,medium,Bujumbura,70,
+ASSET-0163,borehole,9.17668,26.69438,2017-07-15,2021-11-03,degraded,medium,Mombasa,36,
+ASSET-0164,borehole,5.16977,25.364611,2011-12-06,2016-01-20,offline,medium,Mogadishu,118,
+ASSET-0165,solar_system,-0.469139,27.751307,2006-09-25,2013-06-13,critical,low,Lusaka,,38.89
+ASSET-0166,borehole,12.527855,37.360629,2018-05-25,2020-08-03,operational,low,Bujumbura,108,
+ASSET-0167,borehole,-4.126151,32.285988,2021-02-20,2021-11-20,offline,medium,Antananarivo,116,
+ASSET-0168,solar_system,5.680223,31.189358,2022-08-05,2023-05-02,offline,low,Harare,,34.4
+ASSET-0169,solar_system,10.388771,40.562481,2016-04-12,2022-04-11,operational,low,Antananarivo,,11.19
+ASSET-0170,borehole,-3.956404,34.611813,2013-04-29,2019-08-17,offline,medium,Lilongwe,86,
+ASSET-0171,borehole,-3.322497,28.206247,2015-01-29,2020-11-30,operational,medium,Maputo,48,
+ASSET-0172,solar_system,13.609439,33.297938,2013-11-22,2019-08-09,operational,medium,Asmara,,5.46
+ASSET-0173,borehole,1.373698,26.981662,2021-01-11,2022-12-28,critical,low,Nairobi,56,
+ASSET-0174,solar_system,10.176823,34.382203,2018-10-20,2018-11-29,offline,low,Addis Ababa,,11.96
+ASSET-0175,borehole,13.804519,37.177602,2014-06-30,2015-10-28,critical,low,Mwanza,35,
+ASSET-0176,borehole,3.396511,40.877982,2015-04-03,2016-01-15,operational,high,Harare,96,
+ASSET-0177,borehole,6.500949,39.370887,2011-07-15,2021-03-30,operational,medium,Entebbe,93,
+ASSET-0178,solar_system,8.287426,26.712279,2013-02-02,2013-12-06,offline,medium,Juba,,39.64
+ASSET-0179,borehole,12.466629,25.870689,2013-09-05,2017-12-12,operational,low,Djibouti City,120,
+ASSET-0180,borehole,-0.177482,38.142088,2007-04-30,2020-06-16,degraded,medium,Asmara,25,
+ASSET-0181,solar_system,1.770945,37.855912,2022-06-23,2023-11-10,offline,medium,Mwanza,,10.34
+ASSET-0182,borehole,9.320901,43.872103,2005-10-30,2012-06-28,operational,high,Dar es Salaam,25,
+ASSET-0183,solar_system,5.307672,44.782454,2017-03-07,2022-07-28,operational,high,Maputo,,10.77
+ASSET-0184,solar_system,12.315966,31.638494,2007-10-17,2016-02-16,operational,medium,Kampala,,22.83
+ASSET-0185,solar_system,14.474472,34.924065,2016-02-28,2020-05-11,offline,medium,Bujumbura,,40.36
+ASSET-0186,solar_system,3.612143,44.901963,2009-01-18,2021-05-13,operational,low,Dar es Salaam,,17.4
+ASSET-0187,solar_system,3.918315,39.353258,2008-09-27,2018-10-11,operational,low,Maputo,,43.7
+ASSET-0188,solar_system,14.963012,30.491107,2022-10-02,2022-11-30,operational,medium,Mombasa,,19.12
+ASSET-0189,borehole,-2.144411,37.151458,2022-07-11,2023-03-22,operational,low,Nairobi,119,
+ASSET-0190,solar_system,2.657088,36.344893,2018-07-28,2019-07-07,degraded,high,Asmara,,19.54
+ASSET-0191,borehole,-2.246098,32.338999,2012-01-20,2018-05-21,operational,low,Kisumu,114,
+ASSET-0192,borehole,5.354905,43.27085,2007-08-23,2013-08-05,critical,medium,Dodoma,47,
+ASSET-0193,solar_system,-0.996433,27.714568,2006-08-30,2016-11-18,operational,medium,Dodoma,,49.87
+ASSET-0194,solar_system,9.19081,35.999943,2011-07-07,2018-04-28,critical,medium,Asmara,,46.48
+ASSET-0195,borehole,5.175115,27.427249,2009-07-05,2012-09-14,operational,medium,Asmara,66,
+ASSET-0196,solar_system,11.073235,36.032939,2018-09-23,2023-10-07,operational,medium,Antananarivo,,49.98
+ASSET-0197,solar_system,3.215902,33.188671,2017-11-23,2018-10-21,operational,medium,Entebbe,,5.1
+ASSET-0198,solar_system,1.890296,42.559203,2022-07-02,2023-02-03,critical,low,Entebbe,,25.89
+ASSET-0199,borehole,5.362043,31.082491,2008-08-19,2015-12-14,offline,low,Kigali,86,
+ASSET-0200,solar_system,0.012106,37.701142,2017-05-10,2020-07-07,operational,medium,Dar es Salaam,,27.37
+ASSET-0201,borehole,13.83214,28.083885,2019-10-11,2023-05-11,degraded,medium,Kisumu,92,
+ASSET-0202,borehole,-3.375543,43.970937,2022-04-18,2023-12-29,operational,low,Nairobi,93,
+ASSET-0203,solar_system,7.779824,34.960761,2019-01-25,2022-03-17,operational,high,Mombasa,,24.92
+ASSET-0204,solar_system,4.070883,38.772271,2008-07-18,2018-06-27,operational,medium,Maputo,,18.0
+ASSET-0205,borehole,12.229702,31.386328,2012-09-30,2023-10-08,operational,high,Bujumbura,85,
+ASSET-0206,borehole,-0.165243,27.450438,2015-02-01,2017-12-12,operational,low,Bujumbura,69,
+ASSET-0207,solar_system,14.253717,43.046217,2012-05-06,2019-06-10,operational,low,Harare,,49.8
+ASSET-0208,solar_system,12.581513,34.947405,2007-01-08,2015-12-03,degraded,high,Dodoma,,11.93
+ASSET-0209,solar_system,-3.989192,34.897884,2019-09-04,2023-07-12,operational,medium,Kampala,,42.59
+ASSET-0210,solar_system,12.649115,39.550161,2022-02-18,2023-05-06,operational,medium,Addis Ababa,,29.16
+ASSET-0211,borehole,6.064459,26.470635,2016-04-23,2021-06-10,critical,low,Asmara,99,
+ASSET-0212,borehole,14.501656,32.878074,2022-10-30,2023-05-21,degraded,medium,Addis Ababa,38,
+ASSET-0213,borehole,5.18245,35.001558,2006-01-07,2006-12-21,operational,medium,Mombasa,80,
+ASSET-0214,solar_system,7.12521,35.310115,2012-05-10,2019-08-01,operational,high,Addis Ababa,,37.36
+ASSET-0215,solar_system,1.727469,41.565788,2016-12-09,2022-07-07,degraded,low,Kisumu,,41.06
+ASSET-0216,solar_system,8.476128,44.597961,2018-02-03,2021-08-16,critical,medium,Bujumbura,,34.87
+ASSET-0217,borehole,4.491804,44.341414,2022-07-24,2023-09-24,degraded,low,Mombasa,26,
+ASSET-0218,solar_system,5.484647,39.423657,2022-05-17,2023-07-10,operational,medium,Juba,,3.03
+ASSET-0219,borehole,-4.621253,31.27385,2008-05-25,2017-09-27,degraded,medium,Lusaka,119,
+ASSET-0220,solar_system,9.115505,35.373664,2017-07-31,2021-04-22,offline,medium,Kampala,,19.78
+ASSET-0221,borehole,13.242483,31.84654,2012-12-12,2020-08-10,critical,medium,Antananarivo,102,
+ASSET-0222,solar_system,4.683602,44.146748,2011-04-05,2023-11-09,operational,high,Mombasa,,49.14
+ASSET-0223,solar_system,8.804798,34.780062,2015-10-06,2019-10-03,degraded,high,Lusaka,,36.5
+ASSET-0224,solar_system,6.469536,35.863818,2013-11-07,2023-02-10,operational,high,Kigali,,8.6
+ASSET-0225,borehole,14.106274,26.580589,2014-12-03,2022-05-11,operational,medium,Maputo,45,
+ASSET-0226,solar_system,8.923426,27.745459,2018-10-23,2023-01-17,degraded,low,Mwanza,,33.99
+ASSET-0227,borehole,-3.950178,33.266027,2021-02-02,2023-10-27,operational,high,Harare,20,
+ASSET-0228,borehole,8.057856,42.612949,2015-09-02,2021-02-07,degraded,high,Mogadishu,56,
+ASSET-0229,solar_system,7.917958,43.158739,2007-01-03,2021-09-19,degraded,medium,Maputo,,36.57
+ASSET-0230,borehole,3.3577,41.752098,2005-10-25,2014-10-20,critical,low,Juba,115,
+ASSET-0231,solar_system,-4.814657,36.359237,2007-05-30,2015-01-02,operational,high,Kampala,,27.85
+ASSET-0232,solar_system,12.021195,34.360415,2009-04-29,2011-12-07,operational,medium,Addis Ababa,,32.94
+ASSET-0233,borehole,9.732358,40.815353,2017-09-26,2019-12-26,operational,high,Nairobi,71,
+ASSET-0234,solar_system,1.558533,33.016665,2007-02-21,2011-05-14,offline,medium,Entebbe,,46.89
+ASSET-0235,borehole,2.671488,33.93471,2010-12-28,2018-06-19,operational,medium,Lilongwe,21,
+ASSET-0236,solar_system,8.855372,26.242487,2007-08-27,2018-03-04,operational,medium,Asmara,,25.87
+ASSET-0237,solar_system,7.774227,43.812712,2013-03-30,2020-03-20,operational,high,Kigali,,24.69
+ASSET-0238,solar_system,2.472497,39.038815,2015-07-25,2021-09-02,critical,high,Mombasa,,38.45
+ASSET-0239,borehole,3.93496,39.075323,2006-10-02,2019-06-27,operational,high,Entebbe,84,
+ASSET-0240,borehole,5.733203,28.290743,2016-09-02,2021-09-15,operational,low,Kisumu,94,
+ASSET-0241,solar_system,12.977787,33.909654,2006-04-01,2016-07-01,operational,medium,Dar es Salaam,,28.85
+ASSET-0242,solar_system,9.465602,32.918974,2005-01-25,2021-11-16,operational,low,Maputo,,22.05
+ASSET-0243,borehole,14.882473,43.691656,2006-07-20,2017-03-21,operational,medium,Mwanza,118,
+ASSET-0244,borehole,2.489218,42.826672,2015-01-23,2019-05-18,operational,medium,Mogadishu,104,
+ASSET-0245,borehole,-2.627337,44.856936,2013-10-25,2019-10-30,operational,high,Asmara,20,
+ASSET-0246,borehole,4.260078,39.38188,2014-07-07,2020-07-23,operational,low,Maputo,78,
+ASSET-0247,solar_system,0.512995,43.748207,2021-04-06,2023-06-28,operational,high,Addis Ababa,,21.83
+ASSET-0248,borehole,-0.878368,27.017934,2005-10-03,2015-11-07,degraded,medium,Harare,26,
+ASSET-0249,borehole,3.045307,29.686786,2009-11-15,2011-03-22,operational,high,Kampala,49,
+ASSET-0250,solar_system,6.958353,38.450638,2012-03-11,2017-08-02,operational,low,Kisumu,,33.52
+ASSET-0251,borehole,1.010019,26.219153,2018-04-09,2020-04-25,degraded,medium,Mogadishu,83,
+ASSET-0252,borehole,13.831728,38.42685,2022-08-17,2023-06-11,operational,medium,Asmara,39,
+ASSET-0253,solar_system,-1.32242,35.758565,2010-05-29,2015-07-18,operational,medium,Djibouti City,,40.58
+ASSET-0254,borehole,3.25355,33.330157,2016-11-20,2018-06-22,operational,low,Mwanza,62,
+ASSET-0255,borehole,11.942668,26.84928,2021-04-02,2023-08-29,operational,low,Antananarivo,106,
+ASSET-0256,borehole,-1.236734,40.233928,2021-03-31,2023-03-18,degraded,medium,Dar es Salaam,62,
+ASSET-0257,solar_system,-0.763845,28.800474,2021-08-19,2022-01-16,degraded,high,Nairobi,,45.85
+ASSET-0258,borehole,13.302529,36.041586,2022-05-25,2023-04-09,operational,medium,Djibouti City,65,
+ASSET-0259,solar_system,2.192892,42.656239,2015-06-15,2016-08-21,critical,medium,Lilongwe,,38.44
+ASSET-0260,solar_system,2.414098,33.278603,2017-08-14,2020-03-07,degraded,low,Lusaka,,28.34
+ASSET-0261,solar_system,-1.951772,31.597306,2013-07-09,2019-12-28,critical,medium,Maputo,,33.25
+ASSET-0262,solar_system,10.267213,34.772422,2021-03-25,2023-02-10,degraded,medium,Lilongwe,,37.04
+ASSET-0263,solar_system,-2.200829,35.930927,2009-02-16,2021-05-15,offline,high,Juba,,26.91
+ASSET-0264,borehole,10.286777,33.247844,2019-02-23,2020-07-10,operational,low,Kampala,47,
+ASSET-0265,solar_system,-3.790998,37.754572,2018-10-30,2021-08-14,degraded,low,Asmara,,27.31
+ASSET-0266,solar_system,-4.665477,39.443854,2017-01-06,2020-04-24,operational,high,Nairobi,,34.19
+ASSET-0267,borehole,13.360977,35.487708,2010-05-29,2014-10-17,degraded,low,Kigali,65,
+ASSET-0268,solar_system,-3.419615,44.185956,2015-04-19,2021-09-18,operational,medium,Djibouti City,,16.05
+ASSET-0269,borehole,-3.12999,32.58528,2017-05-25,2022-10-25,operational,low,Kampala,41,
+ASSET-0270,borehole,11.906596,37.898145,2012-06-06,2014-08-26,critical,high,Dodoma,49,
+ASSET-0271,borehole,4.510006,25.931239,2006-09-02,2022-02-06,offline,high,Kisumu,92,
+ASSET-0272,borehole,13.575327,31.289694,2009-08-25,2022-11-23,operational,high,Juba,70,
+ASSET-0273,borehole,-1.750995,29.809444,2013-09-23,2021-05-27,critical,medium,Maputo,116,
+ASSET-0274,borehole,5.015857,44.486467,2006-03-16,2008-06-23,operational,high,Dar es Salaam,63,
+ASSET-0275,solar_system,-4.407487,30.466541,2015-02-08,2020-09-08,operational,medium,Bujumbura,,19.71
+ASSET-0276,borehole,8.213438,26.713882,2018-11-16,2020-08-11,critical,medium,Kisumu,30,
+ASSET-0277,solar_system,2.6,40.677806,2008-06-17,2017-04-12,operational,low,Addis Ababa,,1.75
+ASSET-0278,solar_system,2.19835,30.395329,2007-12-22,2010-01-05,operational,medium,Antananarivo,,28.4
+ASSET-0279,solar_system,-4.474762,32.078286,2007-02-02,2020-07-23,degraded,medium,Kigali,,20.18
+ASSET-0280,solar_system,2.755991,26.69399,2017-07-20,2020-05-09,degraded,low,Mogadishu,,19.97
+ASSET-0281,borehole,1.022625,34.862479,2006-06-03,2010-04-02,operational,medium,Lilongwe,81,
+ASSET-0282,borehole,0.033995,29.931801,2019-01-08,2021-11-18,degraded,low,Asmara,33,
+ASSET-0283,borehole,-4.864653,32.91384,2018-11-29,2021-02-14,critical,medium,Maputo,62,
+ASSET-0284,solar_system,-2.277511,31.413303,2020-08-05,2021-10-20,operational,low,Mombasa,,20.81
+ASSET-0285,solar_system,9.697487,37.658049,2017-12-01,2020-09-18,operational,low,Maputo,,39.61
+ASSET-0286,solar_system,13.641343,28.996001,2017-03-28,2019-05-03,degraded,medium,Kigali,,47.72
+ASSET-0287,solar_system,3.769099,30.826624,2020-07-16,2021-01-03,critical,high,Lusaka,,21.34
+ASSET-0288,solar_system,7.666721,29.840423,2019-10-10,2020-09-19,degraded,high,Addis Ababa,,5.09
+ASSET-0289,solar_system,3.016102,35.132253,2020-07-07,2022-12-10,degraded,high,Kisumu,,18.94
+ASSET-0290,borehole,10.379081,38.152033,2012-12-18,2014-11-29,degraded,low,Kigali,102,
+ASSET-0291,solar_system,14.314336,33.609111,2005-03-28,2007-07-13,operational,medium,Bujumbura,,26.66
+ASSET-0292,borehole,2.482391,34.261264,2020-03-29,2023-08-16,degraded,low,Antananarivo,23,
+ASSET-0293,solar_system,0.908644,43.410951,2006-12-05,2009-08-11,critical,medium,Kigali,,18.39
+ASSET-0294,solar_system,10.6854,35.422297,2012-10-24,2018-03-27,operational,medium,Antananarivo,,23.44
+ASSET-0295,borehole,-4.106339,39.21558,2005-07-05,2013-04-14,degraded,medium,Maputo,41,
+ASSET-0296,borehole,-1.510935,28.202714,2017-07-23,2022-06-03,offline,low,Entebbe,71,
+ASSET-0297,borehole,7.809578,33.642689,2005-08-28,2022-04-11,degraded,low,Juba,95,
+ASSET-0298,solar_system,-4.910999,29.295922,2011-03-31,2012-09-23,degraded,high,Djibouti City,,27.54
+ASSET-0299,solar_system,-1.058514,27.279099,2020-01-17,2022-11-14,degraded,medium,Bujumbura,,30.45
+ASSET-0300,solar_system,-2.715359,32.039698,2015-04-09,2022-04-10,operational,medium,Kisumu,,40.33
+ASSET-0301,borehole,1.263715,29.771455,2007-08-17,2011-10-24,operational,low,Addis Ababa,69,
+ASSET-0302,solar_system,-2.242654,32.674199,2009-03-02,2020-02-29,degraded,medium,Mombasa,,32.8
+ASSET-0303,borehole,-1.66269,30.776695,2009-03-13,2016-05-02,critical,medium,Mwanza,65,
+ASSET-0304,borehole,-2.269306,41.304319,2017-08-06,2023-05-07,degraded,medium,Dodoma,82,
+ASSET-0305,solar_system,4.77399,26.653413,2005-09-10,2023-08-16,critical,low,Antananarivo,,14.83
+ASSET-0306,solar_system,10.614804,36.313009,2022-04-30,2023-10-19,degraded,low,Juba,,7.04
+ASSET-0307,solar_system,11.452219,25.83221,2021-02-15,2022-06-11,degraded,high,Mwanza,,6.47
+ASSET-0308,borehole,12.496197,25.644608,2010-11-23,2018-10-17,critical,low,Maputo,35,
+ASSET-0309,borehole,11.214054,36.758478,2012-11-12,2022-08-08,degraded,medium,Lusaka,41,
+ASSET-0310,borehole,11.270597,41.10881,2017-10-15,2021-10-20,degraded,medium,Lusaka,41,
+ASSET-0311,solar_system,0.786665,30.346861,2016-07-16,2017-09-09,operational,high,Maputo,,21.46
+ASSET-0312,borehole,12.340952,27.537763,2007-12-24,2013-08-29,operational,medium,Lilongwe,51,
+ASSET-0313,solar_system,-2.156567,37.64804,2019-01-31,2021-06-27,operational,low,Dodoma,,40.04
+ASSET-0314,borehole,5.312269,30.564514,2013-04-12,2018-06-17,offline,medium,Djibouti City,20,
+ASSET-0315,borehole,7.696811,38.94578,2006-06-03,2018-06-28,operational,high,Antananarivo,47,
+ASSET-0316,solar_system,1.457303,30.671862,2017-04-11,2023-11-03,operational,high,Lilongwe,,39.73
+ASSET-0317,borehole,-3.008505,40.677795,2015-04-23,2015-07-28,operational,high,Kampala,76,
+ASSET-0318,solar_system,14.836765,33.555986,2020-06-11,2021-04-07,critical,medium,Nairobi,,43.91
+ASSET-0319,solar_system,8.091759,30.007786,2013-05-05,2020-11-15,offline,low,Dar es Salaam,,20.72
+ASSET-0320,solar_system,3.584619,26.823984,2007-02-19,2007-03-29,operational,low,Harare,,30.29
+ASSET-0321,solar_system,-4.838749,31.871483,2007-09-15,2017-04-04,degraded,medium,Nairobi,,12.6
+ASSET-0322,borehole,-2.935969,32.351234,2011-09-18,2014-11-14,operational,high,Kigali,37,
+ASSET-0323,borehole,5.610166,25.169495,2019-07-31,2020-07-31,operational,medium,Dar es Salaam,100,
+ASSET-0324,borehole,7.32152,33.847677,2009-11-15,2011-11-25,critical,low,Mogadishu,35,
+ASSET-0325,solar_system,14.264974,31.290073,2008-02-20,2013-10-10,operational,low,Asmara,,28.34
+ASSET-0326,solar_system,11.957842,38.168107,2011-10-08,2016-06-16,degraded,medium,Nairobi,,37.77
+ASSET-0327,solar_system,10.676032,40.875561,2010-05-15,2021-07-20,operational,low,Kampala,,32.45
+ASSET-0328,borehole,12.774491,25.24134,2013-02-06,2023-08-28,operational,medium,Entebbe,92,
+ASSET-0329,solar_system,5.927124,28.455406,2015-07-26,2016-06-18,operational,low,Asmara,,14.22
+ASSET-0330,borehole,13.9736,32.9595,2011-06-05,2022-09-29,critical,medium,Kampala,71,
+ASSET-0331,borehole,5.753107,28.053609,2006-11-16,2013-11-27,operational,high,Mwanza,39,
+ASSET-0332,solar_system,6.728743,40.264483,2019-07-30,2023-06-23,degraded,medium,Djibouti City,,22.72
+ASSET-0333,borehole,-0.110405,43.492555,2007-08-09,2017-11-08,degraded,low,Kampala,105,
+ASSET-0334,borehole,-4.746701,27.744236,2005-04-03,2009-01-04,operational,medium,Kigali,86,
+ASSET-0335,solar_system,2.437389,39.995528,2011-01-11,2013-10-04,critical,low,Juba,,40.64
+ASSET-0336,solar_system,-3.72256,39.246465,2017-12-07,2018-11-17,operational,medium,Entebbe,,4.19
+ASSET-0337,borehole,-1.8538,40.466579,2017-11-15,2019-04-01,operational,medium,Asmara,25,
+ASSET-0338,borehole,-4.080369,32.27953,2008-05-14,2012-06-18,offline,high,Harare,90,
+ASSET-0339,solar_system,1.43604,33.325132,2021-02-26,2022-02-18,operational,low,Harare,,19.58
+ASSET-0340,borehole,-0.536299,35.315483,2006-01-12,2015-02-08,operational,medium,Juba,56,
+ASSET-0341,solar_system,-3.27229,34.134924,2013-04-11,2015-08-10,operational,high,Bujumbura,,37.37
+ASSET-0342,borehole,2.365473,44.437155,2022-05-01,2022-12-17,degraded,medium,Antananarivo,51,
+ASSET-0343,borehole,13.647951,25.478205,2017-02-23,2021-02-10,degraded,medium,Nairobi,21,
+ASSET-0344,solar_system,10.178583,32.525497,2021-07-22,2023-09-04,operational,low,Nairobi,,49.18
+ASSET-0345,solar_system,14.223701,44.451185,2008-03-12,2014-07-21,operational,high,Dodoma,,45.02
+ASSET-0346,solar_system,4.169161,39.957988,2018-01-10,2019-03-07,degraded,medium,Asmara,,20.63
+ASSET-0347,borehole,8.248879,27.614166,2011-07-18,2017-06-24,critical,high,Mogadishu,70,
+ASSET-0348,solar_system,4.055157,29.672225,2009-07-19,2012-09-06,critical,medium,Bujumbura,,9.04
+ASSET-0349,borehole,4.321102,33.130251,2017-01-08,2021-02-13,offline,low,Antananarivo,59,
+ASSET-0350,solar_system,12.049644,26.808418,2020-05-22,2022-03-06,critical,medium,Lilongwe,,3.46
+ASSET-0351,solar_system,-3.175742,29.964376,2012-12-24,2017-07-04,degraded,medium,Addis Ababa,,14.12
+ASSET-0352,borehole,14.041932,42.092026,2017-06-21,2023-09-21,operational,medium,Nairobi,37,
+ASSET-0353,borehole,-3.766616,40.6192,2009-12-26,2012-12-30,operational,medium,Nairobi,107,
+ASSET-0354,borehole,6.722375,43.348572,2006-09-07,2007-04-03,offline,low,Kisumu,102,
+ASSET-0355,solar_system,-3.160427,41.945509,2012-06-09,2015-04-08,operational,medium,Addis Ababa,,9.65
+ASSET-0356,solar_system,4.922528,32.654589,2014-07-28,2016-08-03,operational,high,Djibouti City,,14.84
+ASSET-0357,solar_system,-4.307011,37.383531,2010-07-07,2017-03-19,operational,high,Addis Ababa,,24.73
+ASSET-0358,borehole,2.660306,33.384696,2019-06-01,2023-12-19,degraded,medium,Lilongwe,89,
+ASSET-0359,borehole,10.638315,32.182242,2017-03-19,2022-09-24,operational,medium,Djibouti City,61,
+ASSET-0360,solar_system,-1.403683,31.377551,2009-11-30,2010-08-27,critical,high,Lilongwe,,4.34
+ASSET-0361,solar_system,2.148658,36.679778,2010-03-22,2013-11-18,operational,medium,Entebbe,,14.43
+ASSET-0362,borehole,6.513842,44.653293,2013-09-17,2017-10-09,offline,high,Harare,42,
+ASSET-0363,borehole,6.85039,41.124205,2020-08-24,2022-09-27,offline,low,Harare,109,
+ASSET-0364,solar_system,6.27213,36.262178,2009-03-23,2020-05-06,degraded,low,Kisumu,,3.34
+ASSET-0365,borehole,7.033256,25.39856,2015-09-21,2015-10-23,operational,medium,Harare,36,
+ASSET-0366,solar_system,13.375616,41.885682,2012-04-04,2013-09-03,operational,medium,Juba,,45.99
+ASSET-0367,borehole,12.213389,44.211175,2013-05-19,2021-05-12,offline,medium,Entebbe,32,
+ASSET-0368,solar_system,1.452064,44.517213,2021-06-05,2022-09-25,critical,high,Maputo,,32.99
+ASSET-0369,borehole,8.871208,43.576904,2022-08-27,2023-03-27,operational,medium,Mwanza,42,
+ASSET-0370,solar_system,9.679899,30.890345,2008-12-26,2009-02-08,offline,high,Maputo,,20.49
+ASSET-0371,borehole,7.047773,43.420764,2018-09-18,2020-01-13,degraded,low,Juba,83,
+ASSET-0372,borehole,9.906867,29.759919,2012-03-02,2016-01-06,degraded,high,Bujumbura,110,
+ASSET-0373,solar_system,-4.772088,29.193686,2020-07-19,2021-01-03,operational,high,Antananarivo,,36.44
+ASSET-0374,borehole,3.764403,33.393065,2008-09-24,2018-02-05,operational,medium,Djibouti City,89,
+ASSET-0375,solar_system,11.57614,40.7746,2017-12-19,2020-07-29,operational,low,Kigali,,42.52
+ASSET-0376,solar_system,1.374338,44.033243,2006-08-31,2014-05-31,operational,medium,Nairobi,,37.0
+ASSET-0377,borehole,6.880611,37.272895,2015-10-30,2023-10-23,operational,high,Bujumbura,41,
+ASSET-0378,solar_system,-3.928885,31.621892,2009-04-06,2018-07-10,degraded,medium,Juba,,36.9
+ASSET-0379,solar_system,0.948013,26.918318,2013-10-24,2020-04-21,degraded,medium,Maputo,,4.14
+ASSET-0380,borehole,-3.247433,41.477946,2019-01-08,2022-06-20,operational,low,Mogadishu,46,
+ASSET-0381,borehole,14.541154,34.471413,2007-08-05,2014-08-04,critical,medium,Maputo,104,
+ASSET-0382,solar_system,7.837328,32.750542,2013-04-28,2023-05-02,operational,low,Dar es Salaam,,3.66
+ASSET-0383,solar_system,0.268016,41.741575,2017-08-28,2018-06-06,operational,medium,Antananarivo,,6.19
+ASSET-0384,solar_system,3.279733,40.129138,2010-02-07,2022-08-08,operational,medium,Mwanza,,26.85
+ASSET-0385,solar_system,12.633077,34.525246,2006-10-09,2015-09-16,offline,medium,Kisumu,,25.85
+ASSET-0386,borehole,13.985096,33.980795,2008-10-01,2013-08-01,critical,low,Kigali,74,
+ASSET-0387,borehole,-0.961614,41.451281,2008-04-26,2021-09-29,operational,high,Mogadishu,28,
+ASSET-0388,borehole,6.127284,36.041084,2011-03-13,2022-12-07,operational,high,Djibouti City,120,
+ASSET-0389,solar_system,3.288848,27.963995,2018-03-10,2019-05-24,offline,medium,Kigali,,6.4
+ASSET-0390,solar_system,12.602716,42.557871,2010-12-04,2019-08-06,degraded,medium,Mwanza,,24.44
+ASSET-0391,borehole,3.059479,37.36489,2020-04-09,2022-08-09,operational,high,Lilongwe,62,
+ASSET-0392,borehole,9.914996,43.4167,2013-05-10,2013-08-30,operational,high,Kampala,59,
+ASSET-0393,solar_system,12.164696,38.697041,2010-02-11,2013-03-17,operational,medium,Dodoma,,39.04
+ASSET-0394,solar_system,9.575988,37.099583,2007-01-02,2011-04-20,operational,high,Lilongwe,,21.25
+ASSET-0395,solar_system,12.343779,41.420348,2016-07-23,2018-06-04,operational,medium,Entebbe,,21.06
+ASSET-0396,borehole,-1.144731,41.658599,2006-04-18,2011-12-21,operational,low,Juba,66,
+ASSET-0397,borehole,2.367039,34.284369,2013-11-26,2021-02-09,offline,medium,Lilongwe,50,
+ASSET-0398,solar_system,6.880872,28.551674,2015-08-24,2022-04-22,degraded,medium,Dodoma,,42.13
+ASSET-0399,solar_system,0.701388,32.731313,2008-08-27,2021-07-27,critical,low,Dar es Salaam,,12.24
+ASSET-0400,borehole,0.381672,33.190144,2005-06-14,2023-01-13,offline,medium,Lusaka,80,
+ASSET-0401,borehole,7.022839,25.169275,2010-08-30,2017-08-05,degraded,medium,Juba,55,
+ASSET-0402,solar_system,12.031723,34.17996,2009-11-23,2020-06-11,operational,medium,Djibouti City,,31.74
+ASSET-0403,borehole,5.230274,38.247109,2013-05-24,2019-10-09,degraded,medium,Nairobi,58,
+ASSET-0404,borehole,-3.723259,44.767219,2019-05-15,2021-04-09,critical,low,Dodoma,111,
+ASSET-0405,solar_system,-2.001414,40.309488,2006-04-11,2019-10-25,operational,medium,Lusaka,,8.29
+ASSET-0406,borehole,14.949382,30.188525,2014-05-22,2019-01-03,operational,low,Dodoma,110,
+ASSET-0407,borehole,9.530998,29.447264,2016-12-28,2022-05-29,offline,medium,Bujumbura,84,
+ASSET-0408,solar_system,11.812774,42.529896,2009-01-23,2015-09-25,operational,low,Juba,,14.04
+ASSET-0409,borehole,8.088693,29.44507,2010-01-04,2016-12-23,operational,high,Bujumbura,67,
+ASSET-0410,solar_system,0.881022,42.024278,2015-07-22,2016-03-27,critical,medium,Kisumu,,47.3
+ASSET-0411,borehole,12.788521,35.009547,2020-04-08,2022-06-28,degraded,medium,Dodoma,39,
+ASSET-0412,borehole,1.853398,44.743832,2015-04-07,2016-12-13,operational,medium,Lusaka,119,
+ASSET-0413,borehole,1.652589,44.732807,2012-01-12,2013-05-31,operational,low,Dodoma,117,
+ASSET-0414,borehole,10.289675,34.791542,2022-02-16,2022-06-16,operational,medium,Kisumu,74,
+ASSET-0415,solar_system,14.306557,32.666328,2005-11-06,2017-11-25,operational,medium,Mogadishu,,2.18
+ASSET-0416,solar_system,-1.188466,38.534963,2019-01-21,2023-04-02,operational,medium,Entebbe,,18.2
+ASSET-0417,borehole,2.67101,36.773414,2008-09-30,2010-04-17,critical,low,Kigali,57,
+ASSET-0418,solar_system,6.927398,31.756703,2020-05-28,2021-03-28,operational,high,Entebbe,,18.92
+ASSET-0419,borehole,13.961687,43.364108,2014-01-18,2014-05-06,operational,medium,Juba,36,
+ASSET-0420,borehole,6.793857,28.379695,2013-03-23,2021-04-12,degraded,low,Nairobi,101,

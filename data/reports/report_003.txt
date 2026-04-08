@@ -1,0 +1,65 @@
+NGO FIELD REPORT - RURAL WATER INFRASTRUCTURE ASSESSMENT
+Report ID: RPT-003
+Date: 2023-07-05
+Organization: WASH Tanzania
+Author: Field Engineer Dr. Amina Hassan
+
+EXECUTIVE SUMMARY
+=================
+Assessment of water infrastructure in Dar es Salaam peri-urban zones and
+Dodoma rural districts. Focus on aging boreholes installed pre-2012.
+
+SITE ASSESSMENTS
+================
+
+Site 1: Temeke District Borehole Cluster (ASSET-0267)
+Location: Dar es Salaam, -6.8235, 39.2695
+Type: Borehole
+Depth: 95 meters
+Current Status: operational
+Installation Date: 2009-03-22
+Last Maintenance: 2023-01-18
+Condition Notes: Despite age (14 years), system is well-maintained. Recent
+rehabilitation in 2022 extended operational life. Yield: 4.2 m³/hour.
+Community water committee active and functioning.
+
+Site 2: Kinondoni Solar Pump Installation (ASSET-0289)
+Location: Dar es Salaam, -6.7924, 39.2512
+Type: Solar System
+Capacity: 18.0 kW
+Current Status: degraded
+Installation Date: 2015-07-14
+Last Maintenance: 2022-08-30
+Condition Notes: Solar panels operating at 70% efficiency due to aging cells
+(8-year-old panels nearing end of life). Controller unit replaced in 2022.
+Output degradation accelerating. Full panel replacement recommended within
+12 months. Estimated cost: USD 8,500.
+
+Site 3: Dodoma Central Borehole (ASSET-0311)
+Location: Dodoma, -6.1630, 35.7395
+Type: Borehole
+Depth: 88 meters
+Current Status: critical
+Installation Date: 2007-11-08
+Last Maintenance: 2021-03-25
+Condition Notes: Borehole is 16 years old and shows significant degradation.
+Sand ingress increasing. Pump runs only 4 hours/day before overheating.
+Casing integrity uncertain. Full borehole assessment required. Serving 3,200
+people who have limited alternative water access. Urgent action required.
+
+Site 4: Arusha Valley Solar Farm (ASSET-0334)
+Location: Arusha, -3.3869, 36.6830
+Type: Solar System
+Capacity: 45.0 kW
+Current Status: operational
+Installation Date: 2020-02-28
+Last Maintenance: 2023-05-10
+Condition Notes: Relatively new installation performing excellently. Part of
+government electrification program. Monitoring IoT sensors installed. System
+expected to serve region for 15+ years without major intervention.
+
+AGING INFRASTRUCTURE ANALYSIS
+==============================
+Of the 23 sites assessed this quarter, 8 are over 12 years old.
+Older installations show disproportionate failure rates.
+Recommended lifecycle replacement budget: USD 185,000 for next 24 months.

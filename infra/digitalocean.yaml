@@ -1,0 +1,36 @@
+name: ai-iil
+
+region: fra1
+
+services:
+  - name: backend
+    source_dir: /backend
+    github:
+      repo: your-org/AI-Infra
+      branch: main
+      deploy_on_push: true
+    build_command: pip install -r requirements.txt
+    run_command: uvicorn main:app --host 0.0.0.0 --port 8080
+    environment_slug: python
+    instance_size_slug: basic-xxs
+    instance_count: 1
+    http_port: 8080
+    envs:
+      - key: DATA_PATH
+        value: /app/data/infrastructure.csv
+      - key: OPENROUTER_API_KEY
+        type: SECRET
+        value: ""
+
+static_sites:
+  - name: frontend
+    source_dir: /frontend
+    github:
+      repo: your-org/AI-Infra
+      branch: main
+      deploy_on_push: true
+    build_command: npm install && npm run build
+    output_dir: dist
+    envs:
+      - key: VITE_API_URL
+        value: ${backend.PUBLIC_URL}

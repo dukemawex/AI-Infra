@@ -1,0 +1,73 @@
+NGO FIELD REPORT - GREAT LAKES REGION ENERGY SURVEY
+Report ID: RPT-004
+Date: 2023-10-31
+Organization: Energy Without Borders - Rwanda/Burundi Program
+Author: Survey Lead Pierre Nkurunziza
+
+EXECUTIVE SUMMARY
+=================
+Comprehensive energy infrastructure survey across Rwanda and Burundi,
+covering 18 installations serving approximately 45,000 beneficiaries.
+
+SITE ASSESSMENTS
+================
+
+Site 1: Kigali Northern Solar Hub (ASSET-0356)
+Location: Kigali, -1.9403, 30.0618
+Type: Solar System
+Capacity: 35.0 kW
+Current Status: operational
+Installation Date: 2019-06-15
+Last Maintenance: 2023-08-22
+Condition Notes: Flagship installation for Rwanda Rural Electrification
+Program. Running at 98% efficiency. Smart monitoring system transmits daily
+reports. Battery storage upgraded in 2022. Zero downtime in past 18 months.
+Community satisfaction survey score: 4.8/5.
+
+Site 2: Musanze District Borehole (ASSET-0372)
+Location: Musanze, -1.4989, 29.6349
+Type: Borehole
+Depth: 55 meters
+Current Status: operational
+Installation Date: 2016-09-30
+Last Maintenance: 2023-04-12
+Condition Notes: Well maintained by local water user association. Yield
+stable at 3.8 m³/hour. Pump replaced preventively in 2022 before failure.
+This site is an example of good community ownership.
+
+Site 3: Bujumbura Peri-Urban Solar Array (ASSET-0389)
+Location: Bujumbura, -3.3822, 29.3644
+Type: Solar System
+Capacity: 12.0 kW
+Current Status: degraded
+Installation Date: 2014-04-18
+Last Maintenance: 2022-12-01
+Condition Notes: Aging 9-year-old installation. Efficiency at 65%.
+Multiple panels replaced last year. Inverter near end of life.
+Vandalism has damaged 3 panels (repaired temporarily with tape - not
+a long-term fix). Full system assessment and budget allocation needed.
+
+Site 4: Lake Kivu Fishing Community Borehole (ASSET-0401)
+Location: Rubavu, -1.6833, 29.2667
+Type: Borehole
+Depth: 42 meters
+Current Status: offline
+Installation Date: 2011-01-20
+Last Maintenance: 2020-07-14
+Condition Notes: Borehole has been non-functional since February 2023.
+Suspected collapsed casing at 38-meter depth. No maintenance for 3+
+years prior to failure. Community of 980 people now travels 4km to
+nearest water source. Complete borehole rehabilitation or new borehole
+required. Estimated cost: USD 22,000.
+
+CROSS-BORDER COORDINATION NOTE
+================================
+Sites in Burundi show consistently higher degradation rates compared to
+Rwanda, attributed to differences in community maintenance programs.
+Recommend cross-border knowledge sharing initiatives.
+
+Budget summary for next fiscal year:
+- Emergency interventions: USD 35,000
+- Preventive maintenance: USD 28,000
+- Capacity building: USD 12,000
+- Total: USD 75,000
