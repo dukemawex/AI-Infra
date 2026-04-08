@@ -1,0 +1,82 @@
+NGO FIELD REPORT - HORN OF AFRICA HUMANITARIAN INFRASTRUCTURE REVIEW
+Report ID: RPT-005
+Date: 2023-11-15
+Organization: Infrastructure for Humanity (IFH)
+Author: Regional Director Fatima Al-Rashid
+
+EXECUTIVE SUMMARY
+=================
+Emergency and development infrastructure review across Ethiopia (Addis Ababa
+and Oromia region) and Djibouti. Context: Post-drought recovery and
+conflict-affected area infrastructure restoration.
+
+SITE ASSESSMENTS
+================
+
+Site 1: Addis Ababa Bole Sub-City Borehole (ASSET-0045)
+Location: Addis Ababa, 9.0192, 38.7525
+Type: Borehole
+Depth: 110 meters
+Current Status: operational
+Installation Date: 2013-05-17
+Last Maintenance: 2023-09-05
+Condition Notes: Deep borehole serving dense urban community. Water
+table depth has increased 8 meters over past decade due to over-extraction.
+Current yield: 5.1 m³/hour (down from 7.2 m³/hour at installation).
+Aquifer recharge monitoring recommended. System structurally sound.
+
+Site 2: Oromia Region Solar Irrigation (ASSET-0078)
+Location: Adama, 8.5400, 39.2700
+Type: Solar System
+Capacity: 28.5 kW
+Current Status: operational
+Installation Date: 2021-03-10
+Last Maintenance: 2023-07-20
+Condition Notes: Climate-smart agriculture program asset. Powers
+irrigation pumps for 120 smallholder farmers. System performing at
+design specifications. Remote monitoring active via satellite link.
+This is a 2021 installation still under manufacturer warranty.
+
+Site 3: Djibouti City Emergency Water Point (ASSET-0129)
+Location: Djibouti City, 11.5886, 43.1451
+Type: Borehole
+Depth: 78 meters
+Current Status: critical
+Installation Date: 2010-08-25
+Last Maintenance: 2022-01-30
+Condition Notes: High-priority emergency asset serving refugee reception
+center and surrounding community (~5,000 people). Pump motor has failed
+twice in 2023. Significant corrosion in pump column due to high salinity
+water. Temporary repairs holding but unreliable. Emergency replacement
+authorized - awaiting procurement. No alternative water source within
+reasonable distance.
+
+Site 4: Hargeisa Solar Health Post (ASSET-0166)
+Location: Hargeisa, 9.5600, 44.0650
+Type: Solar System
+Capacity: 6.5 kW
+Current Status: degraded
+Installation Date: 2017-11-30
+Last Maintenance: 2023-03-15
+Condition Notes: Health post solar system for vaccine refrigeration and
+lighting. System is degraded due to battery capacity loss (45% of original
+capacity). Risk of vaccine cold-chain failure. Battery replacement is
+critical health priority. Cost: USD 4,200. Should be treated as medical
+infrastructure - urgent.
+
+HUMANITARIAN RISK ASSESSMENT
+============================
+Of assessed sites in conflict-affected areas:
+- 40% show deferred maintenance patterns
+- Average time since last maintenance: 18 months
+- Critical infrastructure serving vulnerable populations: 6 sites
+- Population at risk from infrastructure failure: ~28,000 people
+
+POLICY RECOMMENDATION
+=====================
+Humanitarian infrastructure should be classified separately in asset
+management systems with shorter maintenance intervals (6-month max)
+and emergency repair pre-authorization under USD 5,000.
+
+This report has been shared with OCHA, UNHCR regional offices, and
+respective government infrastructure ministries.

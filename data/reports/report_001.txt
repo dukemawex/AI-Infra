@@ -1,0 +1,51 @@
+NGO FIELD REPORT - WATER ACCESS PROGRAM
+Report ID: RPT-001
+Date: 2023-08-14
+Organization: WaterAid East Africa
+Author: Field Officer James Mwangi
+
+EXECUTIVE SUMMARY
+=================
+This report documents field assessment of borehole infrastructure in the Nairobi
+and Kisumu regions conducted between July 28 and August 10, 2023.
+
+SITE ASSESSMENTS
+================
+
+Site 1: Kibera Community Borehole (ASSET-0023)
+Location: Nairobi, -1.3133, 36.7897
+Type: Borehole
+Depth: 65 meters
+Current Status: operational
+Population Served: ~2,400 residents
+Last Maintenance: 2023-03-15
+Condition Notes: Pump motor showing early signs of wear. Recommend inspection
+within 90 days. Water quality tests passed. Flow rate at 85% capacity.
+
+Site 2: Kisumu North Solar Pump (ASSET-0087)
+Location: Kisumu, -0.0917, 34.7680
+Type: Solar System
+Capacity: 15.5 kW
+Current Status: degraded
+Last Maintenance: 2022-11-20
+Condition Notes: Two solar panels are cracked due to hailstorm damage in April
+2023. Battery storage efficiency has dropped to 60%. Urgent panel replacement
+required. Estimated cost: USD 3,200.
+
+Site 3: Mathare Valley Borehole (ASSET-0041)
+Location: Nairobi, -1.2595, 36.8572
+Type: Borehole
+Depth: 48 meters
+Current Status: critical
+Last Maintenance: 2021-06-10
+Condition Notes: Pump has failed intermittently 3 times in the past 60 days.
+Sand contamination detected in water samples. Immediate intervention required.
+Community has resorted to using unsafe surface water sources.
+
+RECOMMENDATIONS
+===============
+1. ASSET-0041 requires emergency maintenance within 30 days.
+2. ASSET-0087 panel replacement should be scheduled within 60 days.
+3. ASSET-0023 should be monitored and inspected in Q4 2023.
+
+Budget Required: USD 18,500 (emergency + preventive maintenance)
