@@ -1,0 +1,87 @@
+NGO FIELD REPORT — RURAL INFRASTRUCTURE ASSESSMENT
+Report ID: RPT-009
+Date: 2023-09-05
+Organization: IRC Nigeria
+Reporting Officer: WASH Officer Ibrahim Garba
+Region: Damaturu, Yobe State, Nigeria
+
+EXECUTIVE SUMMARY
+=================
+Field assessment mission to Damaturu and surrounding LGAs in Yobe State. 4 infrastructure assets inspected over 3 days. Mission focus: water access and energy infrastructure serving rural and peri-urban communities.
+
+SITE ASSESSMENTS
+================
+
+Site 1: Hand-pump borehole (installed 2017) [ID: 0AB3C60F…]
+Location: GPS: 5.1534°N, 14.3448°E — Damaturu
+Asset Type: Borehole
+Install Date: 2017-01-01
+Last Maintenance: 2020-02-22
+Current Status: DEGRADED
+Usage Level: Low
+
+Issue Description:
+  Pump stroke output reduced by approximately 30–40% compared to installation baseline. Sand intrusion observed in water samples. Community of ~527 people partially relying on unsafe surface sources.
+
+Maintenance History:
+  Last maintenance was over 18 months ago. Recommend full pump overhaul within 60 days.
+
+Site 2: Solar PV system (5.0 kW, installed 2023) [ID: 1765BF21…]
+Location: GPS: 4.0590°N, 6.9211°E — Damaturu
+Asset Type: Solar Panel
+Install Date: 2023-06-14
+Last Maintenance: 2024-11-11
+Current Status: FUNCTIONAL
+Usage Level: High
+
+Issue Description:
+  System generating at 94% of rated capacity. Panels clean; no shading issues detected. Battery bank at 91% state of health. Inverter logs show no fault codes in past 90 days. Usage level: high.
+
+Maintenance History:
+  Panel cleaning and connection torque-check performed. System monitoring app online.
+
+Site 3: Hand-pump borehole (installed 2021) [ID: 71212F08…]
+Location: GPS: 8.5542°N, 13.3336°E — Damaturu
+Asset Type: Borehole
+Install Date: 2021-06-15
+Last Maintenance: No record
+Current Status: DEGRADED
+Usage Level: Medium
+
+Issue Description:
+  Pump stroke output reduced by approximately 30–40% compared to installation baseline. Sand intrusion observed in water samples. Community of ~386 people partially relying on unsafe surface sources.
+
+Maintenance History:
+  Last maintenance was over 18 months ago. Recommend full pump overhaul within 60 days.
+
+Site 4: Hand-pump borehole (installed 2018) [ID: 3388F6BA…]
+Location: GPS: 4.4582°N, 5.4348°E — Damaturu
+Asset Type: Borehole
+Install Date: 2018-03-31
+Last Maintenance: 2021-01-07
+Current Status: DEGRADED
+Usage Level: High
+
+Issue Description:
+  Pump stroke output reduced by approximately 30–40% compared to installation baseline. Sand intrusion observed in water samples. High usage has accelerated wear on internal rods. Community of ~565 people partially relying on unsafe surface sources.
+
+Maintenance History:
+  Last maintenance was over 18 months ago. Recommend full pump overhaul within 60 days.
+
+SUMMARY STATISTICS
+==================
+Assets inspected: 4
+  Functional:     1 (25%)
+  Degraded:       3 (75%)
+  Non-functional: 0 (0%)
+
+RECOMMENDATIONS
+===============
+  1. [0AB3C60F…] Schedule maintenance within 30–60 days to prevent failure.
+  2. [1765BF21…] Continue routine monitoring. Next service in 12 months.
+  3. [71212F08…] Schedule maintenance within 30–60 days to prevent failure.
+  4. [3388F6BA…] Schedule maintenance within 30–60 days to prevent failure.
+
+Report prepared by: WASH Officer Ibrahim Garba
+Organization: IRC Nigeria
+Date submitted: 2023-09-05

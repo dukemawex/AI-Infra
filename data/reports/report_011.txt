@@ -1,0 +1,72 @@
+NGO FIELD REPORT — RURAL INFRASTRUCTURE ASSESSMENT
+Report ID: RPT-011
+Date: 2023-11-01
+Organization: WaterAid Nigeria
+Reporting Officer: Field Engineer Aminu Bello
+Region: Gombe, Gombe State, Nigeria
+
+EXECUTIVE SUMMARY
+=================
+Field assessment mission to Gombe and surrounding LGAs in Gombe State. 3 infrastructure assets inspected over 6 days. Mission focus: water access and energy infrastructure serving rural and peri-urban communities.
+
+SITE ASSESSMENTS
+================
+
+Site 1: Hand-pump borehole (installed 2019) [ID: 8F6D2ABC…]
+Location: GPS: 6.4473°N, 3.2308°E — Gombe
+Asset Type: Borehole
+Install Date: 2019-12-03
+Last Maintenance: 2021-04-20
+Current Status: NON-FUNCTIONAL
+Usage Level: High
+
+Issue Description:
+  Borehole completely non-operational. Rising main collapsed — borehole inaccessible. Installed in 2019; last maintenance over 3 years ago. Approximately 791 residents now walking >4 km to nearest water point.
+
+Maintenance History:
+  Emergency rehabilitation or full replacement required. Estimated cost: USD 9,596.
+
+Site 2: Solar PV system (11.8 kW, installed 2022) [ID: AB4BFFD6…]
+Location: GPS: 10.1485°N, 7.9193°E — Gombe
+Asset Type: Solar Panel
+Install Date: 2022-03-04
+Last Maintenance: 2024-12-28
+Current Status: FUNCTIONAL
+Usage Level: Low
+
+Issue Description:
+  System generating at 93% of rated capacity. Panels clean; no shading issues detected. Battery bank at 86% state of health. Inverter logs show no fault codes in past 90 days. Usage level: low.
+
+Maintenance History:
+  Panel cleaning and connection torque-check performed. System monitoring app online.
+
+Site 3: Solar PV system (22.9 kW, installed 2022) [ID: C68DCAE1…]
+Location: GPS: 5.4217°N, 10.2888°E — Gombe
+Asset Type: Solar Panel
+Install Date: 2022-01-15
+Last Maintenance: 2023-06-21
+Current Status: DEGRADED
+Usage Level: Low
+
+Issue Description:
+  Output reduced to approximately 58% of rated capacity. Battery storage capacity degraded to ~60% of original. Intermittent power cuts affecting connected services.
+
+Maintenance History:
+  Maintenance last performed over 2 years ago. Panel inspection and battery replacement scoping required within 45 days.
+
+SUMMARY STATISTICS
+==================
+Assets inspected: 3
+  Functional:     1 (33%)
+  Degraded:       1 (33%)
+  Non-functional: 1 (33%)
+
+RECOMMENDATIONS
+===============
+  1. [8F6D2ABC…] URGENT: Full rehabilitation or replacement required immediately.
+  2. [AB4BFFD6…] Continue routine monitoring. Next service in 12 months.
+  3. [C68DCAE1…] Schedule maintenance within 30–60 days to prevent failure.
+
+Report prepared by: Field Engineer Aminu Bello
+Organization: WaterAid Nigeria
+Date submitted: 2023-11-01

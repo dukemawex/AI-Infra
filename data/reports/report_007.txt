@@ -1,0 +1,87 @@
+NGO FIELD REPORT — RURAL INFRASTRUCTURE ASSESSMENT
+Report ID: RPT-007
+Date: 2023-07-09
+Organization: Oxfam Nigeria
+Reporting Officer: Logistics Officer Musa Danjuma
+Region: Birnin Kebbi, Kebbi State, Nigeria
+
+EXECUTIVE SUMMARY
+=================
+Field assessment mission to Birnin Kebbi and surrounding LGAs in Kebbi State. 4 infrastructure assets inspected over 5 days. Mission focus: water access and energy infrastructure serving rural and peri-urban communities.
+
+SITE ASSESSMENTS
+================
+
+Site 1: Solar PV system (24.2 kW, installed 2016) [ID: 58CDDD5A…]
+Location: GPS: 10.6511°N, 7.1916°E — Birnin Kebbi
+Asset Type: Solar Panel
+Install Date: 2016-09-17
+Last Maintenance: 2022-03-12
+Current Status: NON-FUNCTIONAL
+Usage Level: Low
+
+Issue Description:
+  System completely offline. Battery bank fully discharged and will not hold charge. Installed in 2016; significant age-related component wear. Community facility (clinic / school) without power.
+
+Maintenance History:
+  Full system replacement assessment needed. Estimated replacement cost: USD 9,341.
+
+Site 2: Elevated water storage tank (12,000 L, installed 2020) [ID: 0861E39F…]
+Location: GPS: 8.5711°N, 4.0303°E — Birnin Kebbi
+Asset Type: Water Tank
+Install Date: 2020-08-09
+Last Maintenance: 2020-11-10
+Current Status: DEGRADED
+Usage Level: Medium
+
+Issue Description:
+  Tank losing approximately 7% daily volume through identified seam leak. Overflow pipe blocked causing periodic spillage and wastage. Structural support pillar shows surface spalling.
+
+Maintenance History:
+  Maintenance overdue. Re-sealing and structural inspection required within 30 days. Temporary repair applied to stop immediate leak.
+
+Site 3: Solar PV system (17.8 kW, installed 2015) [ID: 6713DD57…]
+Location: GPS: 6.2464°N, 5.0896°E — Birnin Kebbi
+Asset Type: Solar Panel
+Install Date: 2015-04-11
+Last Maintenance: No record
+Current Status: NON-FUNCTIONAL
+Usage Level: High
+
+Issue Description:
+  System completely offline. Inverter failure — no AC output. Installed in 2015; significant age-related component wear. Community facility (clinic / school) without power.
+
+Maintenance History:
+  Full system replacement assessment needed. Estimated replacement cost: USD 5,660.
+
+Site 4: Hand-pump borehole (installed 2018) [ID: 8EECC840…]
+Location: GPS: 4.1408°N, 6.7453°E — Birnin Kebbi
+Asset Type: Borehole
+Install Date: 2018-04-23
+Last Maintenance: 2020-08-21
+Current Status: NON-FUNCTIONAL
+Usage Level: Low
+
+Issue Description:
+  Borehole completely non-operational. Rising main collapsed — borehole inaccessible. Installed in 2018; last maintenance over 3 years ago. Approximately 735 residents now walking >4 km to nearest water point.
+
+Maintenance History:
+  Emergency rehabilitation or full replacement required. Estimated cost: USD 5,215.
+
+SUMMARY STATISTICS
+==================
+Assets inspected: 4
+  Functional:     0 (0%)
+  Degraded:       1 (25%)
+  Non-functional: 3 (75%)
+
+RECOMMENDATIONS
+===============
+  1. [58CDDD5A…] URGENT: Full rehabilitation or replacement required immediately.
+  2. [0861E39F…] Schedule maintenance within 30–60 days to prevent failure.
+  3. [6713DD57…] URGENT: Full rehabilitation or replacement required immediately.
+  4. [8EECC840…] URGENT: Full rehabilitation or replacement required immediately.
+
+Report prepared by: Logistics Officer Musa Danjuma
+Organization: Oxfam Nigeria
+Date submitted: 2023-07-09

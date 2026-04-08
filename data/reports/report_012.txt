@@ -1,0 +1,72 @@
+NGO FIELD REPORT — RURAL INFRASTRUCTURE ASSESSMENT
+Report ID: RPT-012
+Date: 2023-12-13
+Organization: Rural Water Initiative
+Reporting Officer: Programme Officer Hauwa Musa
+Region: Bauchi, Bauchi State, Nigeria
+
+EXECUTIVE SUMMARY
+=================
+Field assessment mission to Bauchi and surrounding LGAs in Bauchi State. 3 infrastructure assets inspected over 7 days. Mission focus: water access and energy infrastructure serving rural and peri-urban communities.
+
+SITE ASSESSMENTS
+================
+
+Site 1: Elevated water storage tank (20,000 L, installed 2019) [ID: 765FD487…]
+Location: GPS: 9.0766°N, 5.0869°E — Bauchi
+Asset Type: Water Tank
+Install Date: 2019-03-12
+Last Maintenance: 2019-05-13
+Current Status: DEGRADED
+Usage Level: Medium
+
+Issue Description:
+  Tank losing approximately 14% daily volume through identified seam leak. Overflow pipe blocked causing periodic spillage and wastage. Structural support pillar shows surface spalling.
+
+Maintenance History:
+  Maintenance overdue. Re-sealing and structural inspection required within 30 days. Temporary repair applied to stop immediate leak.
+
+Site 2: Hand-pump borehole (installed 2018) [ID: 5BFA0338…]
+Location: GPS: 9.2942°N, 5.9969°E — Bauchi
+Asset Type: Borehole
+Install Date: 2018-03-20
+Last Maintenance: No record
+Current Status: NON-FUNCTIONAL
+Usage Level: High
+
+Issue Description:
+  Borehole completely non-operational. Pump cylinder cracked — no water yield. Installed in 2018; no maintenance recorded in asset register. Approximately 890 residents now walking >4 km to nearest water point.
+
+Maintenance History:
+  Emergency rehabilitation or full replacement required. Estimated cost: USD 4,499.
+
+Site 3: Elevated water storage tank (10,000 L, installed 2024) [ID: E2E4A955…]
+Location: GPS: 12.2806°N, 3.6674°E — Bauchi
+Asset Type: Water Tank
+Install Date: 2024-08-16
+Last Maintenance: 2024-10-19
+Current Status: FUNCTIONAL
+Usage Level: Low
+
+Issue Description:
+  Tank structure sound; no visible cracks or leaks. Current fill level: 77%. Float valve operating correctly. Serving 396 households. Usage level low.
+
+Maintenance History:
+  Internal inspection and chlorination performed during visit. Next inspection in 6 months.
+
+SUMMARY STATISTICS
+==================
+Assets inspected: 3
+  Functional:     1 (33%)
+  Degraded:       1 (33%)
+  Non-functional: 1 (33%)
+
+RECOMMENDATIONS
+===============
+  1. [765FD487…] Schedule maintenance within 30–60 days to prevent failure.
+  2. [5BFA0338…] URGENT: Full rehabilitation or replacement required immediately.
+  3. [E2E4A955…] Continue routine monitoring. Next service in 12 months.
+
+Report prepared by: Programme Officer Hauwa Musa
+Organization: Rural Water Initiative
+Date submitted: 2023-12-13

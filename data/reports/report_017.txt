@@ -1,0 +1,72 @@
+NGO FIELD REPORT — RURAL INFRASTRUCTURE ASSESSMENT
+Report ID: RPT-017
+Date: 2024-05-25
+Organization: Oxfam Nigeria
+Reporting Officer: Logistics Officer Musa Danjuma
+Region: Lafia, Nasarawa State, Nigeria
+
+EXECUTIVE SUMMARY
+=================
+Field assessment mission to Lafia and surrounding LGAs in Nasarawa State. 3 infrastructure assets inspected over 3 days. Mission focus: water access and energy infrastructure serving rural and peri-urban communities.
+
+SITE ASSESSMENTS
+================
+
+Site 1: Solar PV system (9.6 kW, installed 2021) [ID: D7B44A70…]
+Location: GPS: 8.0116°N, 3.4943°E — Lafia
+Asset Type: Solar Panel
+Install Date: 2021-05-12
+Last Maintenance: 2023-04-16
+Current Status: FUNCTIONAL
+Usage Level: Low
+
+Issue Description:
+  System generating at 97% of rated capacity. Panels clean; no shading issues detected. Battery bank at 86% state of health. Inverter logs show no fault codes in past 90 days. Usage level: low.
+
+Maintenance History:
+  Panel cleaning and connection torque-check performed. System monitoring app online.
+
+Site 2: Solar PV system (20.5 kW, installed 2023) [ID: CDBD5D4E…]
+Location: GPS: 7.2117°N, 10.4508°E — Lafia
+Asset Type: Solar Panel
+Install Date: 2023-08-15
+Last Maintenance: No record
+Current Status: DEGRADED
+Usage Level: Medium
+
+Issue Description:
+  Output reduced to approximately 60% of rated capacity. Two panels exhibit micro-cracking from thermal stress. Intermittent power cuts affecting connected services.
+
+Maintenance History:
+  Maintenance last performed over 2 years ago. Panel inspection and battery replacement scoping required within 45 days.
+
+Site 3: Elevated water storage tank (25,000 L, installed 2016) [ID: 3D47BAE2…]
+Location: GPS: 8.1813°N, 14.2522°E — Lafia
+Asset Type: Water Tank
+Install Date: 2016-10-16
+Last Maintenance: 2023-06-08
+Current Status: FUNCTIONAL
+Usage Level: Medium
+
+Issue Description:
+  Tank structure sound; no visible cracks or leaks. Current fill level: 63%. Float valve operating correctly. Serving 211 households. Usage level medium.
+
+Maintenance History:
+  Internal inspection and chlorination performed during visit. Next inspection in 6 months.
+
+SUMMARY STATISTICS
+==================
+Assets inspected: 3
+  Functional:     2 (66%)
+  Degraded:       1 (33%)
+  Non-functional: 0 (0%)
+
+RECOMMENDATIONS
+===============
+  1. [D7B44A70…] Continue routine monitoring. Next service in 12 months.
+  2. [CDBD5D4E…] Schedule maintenance within 30–60 days to prevent failure.
+  3. [3D47BAE2…] Continue routine monitoring. Next service in 12 months.
+
+Report prepared by: Logistics Officer Musa Danjuma
+Organization: Oxfam Nigeria
+Date submitted: 2024-05-25
