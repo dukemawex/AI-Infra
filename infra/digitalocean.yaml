@@ -4,20 +4,20 @@ region: fra1
 
 services:
   - name: backend
-    source_dir: /backend
+    source_dir: /
     github:
       repo: your-org/AI-Infra
       branch: main
       deploy_on_push: true
-    build_command: pip install -r requirements.txt
-    run_command: uvicorn main:app --host 0.0.0.0 --port 8080
+    build_command: pip install -r backend/requirements.txt
+    run_command: uvicorn main:app --host 0.0.0.0 --port 8080 --app-dir backend
     environment_slug: python
     instance_size_slug: basic-xxs
     instance_count: 1
     http_port: 8080
     envs:
       - key: DATA_PATH
-        value: /app/data/infrastructure.csv
+        value: data/infrastructure.csv
       - key: OPENROUTER_API_KEY
         type: SECRET
         value: ""

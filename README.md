@@ -19,7 +19,7 @@
                        │ HTTP/REST (axios)
 ┌──────────────────────▼──────────────────────────────┐
 │                  FastAPI Backend                     │
-│   /backend  (port 8000)                             │
+│   /backend  (port 8080)                            │
 │                                                     │
 │  GET /assets      GET /assets/{id}                  │
 │  GET /risk/{id}   GET /map   POST /ingest/report    │
@@ -64,7 +64,7 @@ cd data && python generate_data.py && cd ..
 docker-compose up --build
 
 # Frontend: http://localhost:3000
-# Backend:  http://localhost:8000
+# Backend:  http://localhost:8000  (maps to container port 8080)
 # API docs: http://localhost:8000/docs
 ```
 
@@ -83,7 +83,7 @@ pip install -r requirements.txt
 cp .env.example .env
 
 # Run dev server
-uvicorn main:app --reload --port 8000
+uvicorn main:app --reload --port 8080
 ```
 
 ### Frontend
@@ -106,7 +106,7 @@ python generate_data.py
 
 ## API Documentation
 
-Full interactive docs available at `http://localhost:8000/docs` (Swagger UI).
+Full interactive docs available at `http://localhost:8080/docs` (Swagger UI) when running natively, or `http://localhost:8000/docs` via Docker Compose.
 
 ### Endpoints
 
@@ -267,7 +267,25 @@ chmod +x backend/api_test.sh
 2. Edit `infra/digitalocean.yaml` — replace `your-org/AI-Infra` with your repo.
 3. In the DigitalOcean control panel: **Create App → From Spec → Upload YAML**.
 4. Add the `OPENROUTER_API_KEY` secret in the environment settings.
-5. Deploy — DigitalOcean will build and run both services automatically.
+5. Deploy — DigitalOcean will build and run the backend automatically.
+
+**Build command:** `pip install -r backend/requirements.txt`
+
+**Run command:** `uvicorn main:app --host 0.0.0.0 --port 8080 --app-dir backend`
+
+**Backend port:** 8080
+
+---
+
+## Deployment on Vercel (Frontend)
+
+1. Import the repository into Vercel.
+2. Set the **Root Directory** to `frontend`.
+3. Vercel auto-detects Vite — build command is `npm run build`, output is `dist`.
+4. Add the environment variable `VITE_API_URL` pointing to your deployed backend URL (e.g. `https://your-app.ondigitalocean.app`).
+5. Deploy.
+
+The `frontend/vercel.json` handles SPA client-side routing automatically.
 
 ---
 
