@@ -2,11 +2,11 @@
 from __future__ import annotations
 
 import sys
-import os
+import pathlib
 from typing import Optional
 
-# Allow importing from the /ai sibling directory
-_ai_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../../ai"))
+# Allow importing from the /ai sibling directory (backend/app/services -> backend -> repo root -> ai)
+_ai_path = str(pathlib.Path(__file__).resolve().parents[3] / "ai")
 if _ai_path not in sys.path:
     sys.path.insert(0, _ai_path)
 

@@ -94,7 +94,7 @@ def _llm_extract(text: str, api_key: str) -> dict:
             extracted = json.loads(json_match.group())
             extracted["confidence"] = 0.85
             extracted["method"] = "llm"
-            # Normalise keys
+            # Normalize keys
             for key in ["asset_type", "location", "status", "last_maintenance"]:
                 extracted.setdefault(key, "unknown")
             return extracted
