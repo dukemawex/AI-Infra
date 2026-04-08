@@ -1,0 +1,72 @@
+NGO FIELD REPORT — RURAL INFRASTRUCTURE ASSESSMENT
+Report ID: RPT-008
+Date: 2023-08-24
+Organization: Save the Children
+Reporting Officer: Field Coordinator Ngozi Eze
+Region: Dutse, Jigawa State, Nigeria
+
+EXECUTIVE SUMMARY
+=================
+Field assessment mission to Dutse and surrounding LGAs in Jigawa State. 3 infrastructure assets inspected over 6 days. Mission focus: water access and energy infrastructure serving rural and peri-urban communities.
+
+SITE ASSESSMENTS
+================
+
+Site 1: Solar PV system (13.8 kW, installed 2017) [ID: B7A06954…]
+Location: GPS: 12.7481°N, 3.0868°E — Dutse
+Asset Type: Solar Panel
+Install Date: 2017-12-12
+Last Maintenance: 2019-02-01
+Current Status: NON-FUNCTIONAL
+Usage Level: Medium
+
+Issue Description:
+  System completely offline. Inverter failure — no AC output. Installed in 2017; significant age-related component wear. Community facility (clinic / school) without power.
+
+Maintenance History:
+  Full system replacement assessment needed. Estimated replacement cost: USD 7,848.
+
+Site 2: Elevated water storage tank (6,000 L, installed 2016) [ID: CF253064…]
+Location: GPS: 11.0389°N, 3.9061°E — Dutse
+Asset Type: Water Tank
+Install Date: 2016-11-12
+Last Maintenance: 2017-05-09
+Current Status: NON-FUNCTIONAL
+Usage Level: Low
+
+Issue Description:
+  Tank out of service. Base slab cracked — risk of structural collapse. Extended period without maintenance compounded deterioration. Community of ~763 without piped storage.
+
+Maintenance History:
+  Decommissioning and replacement recommended. Estimated cost: USD 7,554.
+
+Site 3: Solar PV system (19.2 kW, installed 2016) [ID: CEB74583…]
+Location: GPS: 12.6425°N, 10.2266°E — Dutse
+Asset Type: Solar Panel
+Install Date: 2016-09-10
+Last Maintenance: 2022-02-11
+Current Status: FUNCTIONAL
+Usage Level: Medium
+
+Issue Description:
+  System generating at 91% of rated capacity. Panels clean; no shading issues detected. Battery bank at 83% state of health. Inverter logs show no fault codes in past 90 days. Usage level: medium.
+
+Maintenance History:
+  Panel cleaning and connection torque-check performed. System monitoring app online.
+
+SUMMARY STATISTICS
+==================
+Assets inspected: 3
+  Functional:     1 (33%)
+  Degraded:       0 (0%)
+  Non-functional: 2 (66%)
+
+RECOMMENDATIONS
+===============
+  1. [B7A06954…] URGENT: Full rehabilitation or replacement required immediately.
+  2. [CF253064…] URGENT: Full rehabilitation or replacement required immediately.
+  3. [CEB74583…] Continue routine monitoring. Next service in 12 months.
+
+Report prepared by: Field Coordinator Ngozi Eze
+Organization: Save the Children
+Date submitted: 2023-08-24

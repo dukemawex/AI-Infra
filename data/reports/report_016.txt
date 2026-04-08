@@ -1,0 +1,87 @@
+NGO FIELD REPORT — RURAL INFRASTRUCTURE ASSESSMENT
+Report ID: RPT-016
+Date: 2024-04-03
+Organization: Action Against Hunger
+Reporting Officer: Water Engineer Blessing Nwosu
+Region: Lokoja, Kogi State, Nigeria
+
+EXECUTIVE SUMMARY
+=================
+Field assessment mission to Lokoja and surrounding LGAs in Kogi State. 4 infrastructure assets inspected over 3 days. Mission focus: water access and energy infrastructure serving rural and peri-urban communities.
+
+SITE ASSESSMENTS
+================
+
+Site 1: Solar PV system (18.2 kW, installed 2018) [ID: 90117410…]
+Location: GPS: 5.5898°N, 13.8927°E — Lokoja
+Asset Type: Solar Panel
+Install Date: 2018-01-27
+Last Maintenance: No record
+Current Status: FUNCTIONAL
+Usage Level: Medium
+
+Issue Description:
+  System generating at 93% of rated capacity. Panels clean; no shading issues detected. Battery bank at 84% state of health. Inverter logs show no fault codes in past 90 days. Usage level: medium.
+
+Maintenance History:
+  Panel cleaning and connection torque-check performed. System monitoring app online.
+
+Site 2: Solar PV system (15.0 kW, installed 2022) [ID: 518E304C…]
+Location: GPS: 5.8575°N, 10.3260°E — Lokoja
+Asset Type: Solar Panel
+Install Date: 2022-10-11
+Last Maintenance: 2023-06-05
+Current Status: FUNCTIONAL
+Usage Level: Medium
+
+Issue Description:
+  System generating at 91% of rated capacity. Panels clean; no shading issues detected. Battery bank at 95% state of health. Inverter logs show no fault codes in past 90 days. Usage level: medium.
+
+Maintenance History:
+  Panel cleaning and connection torque-check performed. System monitoring app online.
+
+Site 3: Solar PV system (14.5 kW, installed 2015) [ID: 1443F3C1…]
+Location: GPS: 9.9142°N, 6.9233°E — Lokoja
+Asset Type: Solar Panel
+Install Date: 2015-10-31
+Last Maintenance: 2021-01-23
+Current Status: FUNCTIONAL
+Usage Level: Low
+
+Issue Description:
+  System generating at 90% of rated capacity. Panels clean; no shading issues detected. Battery bank at 95% state of health. Inverter logs show no fault codes in past 90 days. Usage level: low.
+
+Maintenance History:
+  Panel cleaning and connection torque-check performed. System monitoring app online.
+
+Site 4: Elevated water storage tank (7,000 L, installed 2017) [ID: E4A6B9E3…]
+Location: GPS: 10.7145°N, 5.3042°E — Lokoja
+Asset Type: Water Tank
+Install Date: 2017-05-05
+Last Maintenance: 2021-03-28
+Current Status: NON-FUNCTIONAL
+Usage Level: Medium
+
+Issue Description:
+  Tank out of service. Roof hatch missing; open-top contamination risk. Extended period without maintenance compounded deterioration. Community of ~538 without piped storage.
+
+Maintenance History:
+  Decommissioning and replacement recommended. Estimated cost: USD 7,928.
+
+SUMMARY STATISTICS
+==================
+Assets inspected: 4
+  Functional:     3 (75%)
+  Degraded:       0 (0%)
+  Non-functional: 1 (25%)
+
+RECOMMENDATIONS
+===============
+  1. [90117410…] Continue routine monitoring. Next service in 12 months.
+  2. [518E304C…] Continue routine monitoring. Next service in 12 months.
+  3. [1443F3C1…] Continue routine monitoring. Next service in 12 months.
+  4. [E4A6B9E3…] URGENT: Full rehabilitation or replacement required immediately.
+
+Report prepared by: Water Engineer Blessing Nwosu
+Organization: Action Against Hunger
+Date submitted: 2024-04-03

@@ -1,0 +1,72 @@
+NGO FIELD REPORT — RURAL INFRASTRUCTURE ASSESSMENT
+Report ID: RPT-019
+Date: 2024-07-30
+Organization: IRC Nigeria
+Reporting Officer: WASH Officer Ibrahim Garba
+Region: Enugu, Enugu State, Nigeria
+
+EXECUTIVE SUMMARY
+=================
+Field assessment mission to Enugu and surrounding LGAs in Enugu State. 3 infrastructure assets inspected over 4 days. Mission focus: water access and energy infrastructure serving rural and peri-urban communities.
+
+SITE ASSESSMENTS
+================
+
+Site 1: Solar PV system (24.4 kW, installed 2017) [ID: EDD7ED7F…]
+Location: GPS: 13.8445°N, 3.3574°E — Enugu
+Asset Type: Solar Panel
+Install Date: 2017-04-17
+Last Maintenance: 2019-10-29
+Current Status: NON-FUNCTIONAL
+Usage Level: High
+
+Issue Description:
+  System completely offline. Inverter failure — no AC output. Installed in 2017; significant age-related component wear. Community facility (clinic / school) without power.
+
+Maintenance History:
+  Full system replacement assessment needed. Estimated replacement cost: USD 15,473.
+
+Site 2: Solar PV system (24.1 kW, installed 2015) [ID: 3E21F3AD…]
+Location: GPS: 9.0384°N, 14.0450°E — Enugu
+Asset Type: Solar Panel
+Install Date: 2015-06-27
+Last Maintenance: 2023-01-14
+Current Status: DEGRADED
+Usage Level: Medium
+
+Issue Description:
+  Output reduced to approximately 70% of rated capacity. Battery storage capacity degraded to ~60% of original. Intermittent power cuts affecting connected services.
+
+Maintenance History:
+  Maintenance last performed over 2 years ago. Panel inspection and battery replacement scoping required within 45 days.
+
+Site 3: Solar PV system (18.3 kW, installed 2024) [ID: C75FEABF…]
+Location: GPS: 12.4516°N, 14.3946°E — Enugu
+Asset Type: Solar Panel
+Install Date: 2024-03-06
+Last Maintenance: 2024-10-24
+Current Status: FUNCTIONAL
+Usage Level: Medium
+
+Issue Description:
+  System generating at 96% of rated capacity. Panels clean; no shading issues detected. Battery bank at 91% state of health. Inverter logs show no fault codes in past 90 days. Usage level: medium.
+
+Maintenance History:
+  Panel cleaning and connection torque-check performed. System monitoring app online.
+
+SUMMARY STATISTICS
+==================
+Assets inspected: 3
+  Functional:     1 (33%)
+  Degraded:       1 (33%)
+  Non-functional: 1 (33%)
+
+RECOMMENDATIONS
+===============
+  1. [EDD7ED7F…] URGENT: Full rehabilitation or replacement required immediately.
+  2. [3E21F3AD…] Schedule maintenance within 30–60 days to prevent failure.
+  3. [C75FEABF…] Continue routine monitoring. Next service in 12 months.
+
+Report prepared by: WASH Officer Ibrahim Garba
+Organization: IRC Nigeria
+Date submitted: 2024-07-30

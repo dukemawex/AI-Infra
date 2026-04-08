@@ -1,51 +1,102 @@
-NGO FIELD REPORT - WATER ACCESS PROGRAM
+NGO FIELD REPORT — RURAL INFRASTRUCTURE ASSESSMENT
 Report ID: RPT-001
-Date: 2023-08-14
-Organization: WaterAid East Africa
-Author: Field Officer James Mwangi
+Date: 2023-01-18
+Organization: WaterAid Nigeria
+Reporting Officer: Field Engineer Aminu Bello
+Region: Kano, Kano State, Nigeria
 
 EXECUTIVE SUMMARY
 =================
-This report documents field assessment of borehole infrastructure in the Nairobi
-and Kisumu regions conducted between July 28 and August 10, 2023.
+Field assessment mission to Kano and surrounding LGAs in Kano State. 5 infrastructure assets inspected over 6 days. Mission focus: water access and energy infrastructure serving rural and peri-urban communities.
 
 SITE ASSESSMENTS
 ================
 
-Site 1: Kibera Community Borehole (ASSET-0023)
-Location: Nairobi, -1.3133, 36.7897
-Type: Borehole
-Depth: 65 meters
-Current Status: operational
-Population Served: ~2,400 residents
-Last Maintenance: 2023-03-15
-Condition Notes: Pump motor showing early signs of wear. Recommend inspection
-within 90 days. Water quality tests passed. Flow rate at 85% capacity.
+Site 1: Hand-pump borehole (installed 2016) [ID: EB583860…]
+Location: GPS: 9.9049°N, 3.0814°E — Kano
+Asset Type: Borehole
+Install Date: 2016-01-19
+Last Maintenance: 2021-11-17
+Current Status: DEGRADED
+Usage Level: Medium
 
-Site 2: Kisumu North Solar Pump (ASSET-0087)
-Location: Kisumu, -0.0917, 34.7680
-Type: Solar System
-Capacity: 15.5 kW
-Current Status: degraded
-Last Maintenance: 2022-11-20
-Condition Notes: Two solar panels are cracked due to hailstorm damage in April
-2023. Battery storage efficiency has dropped to 60%. Urgent panel replacement
-required. Estimated cost: USD 3,200.
+Issue Description:
+  Pump stroke output reduced by approximately 30–40% compared to installation baseline. Leakage detected at pump head seal. Community of ~453 people partially relying on unsafe surface sources.
 
-Site 3: Mathare Valley Borehole (ASSET-0041)
-Location: Nairobi, -1.2595, 36.8572
-Type: Borehole
-Depth: 48 meters
-Current Status: critical
-Last Maintenance: 2021-06-10
-Condition Notes: Pump has failed intermittently 3 times in the past 60 days.
-Sand contamination detected in water samples. Immediate intervention required.
-Community has resorted to using unsafe surface water sources.
+Maintenance History:
+  Last maintenance was over 18 months ago. Recommend full pump overhaul within 60 days.
+
+Site 2: Solar PV system (6.1 kW, installed 2018) [ID: D9928958…]
+Location: GPS: 5.2100°N, 5.3964°E — Kano
+Asset Type: Solar Panel
+Install Date: 2018-10-16
+Last Maintenance: No record
+Current Status: DEGRADED
+Usage Level: Medium
+
+Issue Description:
+  Output reduced to approximately 51% of rated capacity. Two panels exhibit micro-cracking from thermal stress. Intermittent power cuts affecting connected services.
+
+Maintenance History:
+  Maintenance last performed over 2 years ago. Panel inspection and battery replacement scoping required within 45 days.
+
+Site 3: Hand-pump borehole (installed 2018) [ID: 3388F6BA…]
+Location: GPS: 4.4582°N, 5.4348°E — Kano
+Asset Type: Borehole
+Install Date: 2018-03-31
+Last Maintenance: 2021-01-07
+Current Status: DEGRADED
+Usage Level: High
+
+Issue Description:
+  Pump stroke output reduced by approximately 30–40% compared to installation baseline. Sand intrusion observed in water samples. High usage has accelerated wear on internal rods. Community of ~729 people partially relying on unsafe surface sources.
+
+Maintenance History:
+  Last maintenance was over 18 months ago. Recommend full pump overhaul within 60 days.
+
+Site 4: Elevated water storage tank (19,000 L, installed 2023) [ID: A19900D1…]
+Location: GPS: 7.8001°N, 6.4999°E — Kano
+Asset Type: Water Tank
+Install Date: 2023-01-22
+Last Maintenance: 2024-08-03
+Current Status: FUNCTIONAL
+Usage Level: High
+
+Issue Description:
+  Tank structure sound; no visible cracks or leaks. Current fill level: 80%. Float valve operating correctly. Serving 327 households. Usage level high.
+
+Maintenance History:
+  Internal inspection and chlorination performed during visit. Next inspection in 6 months.
+
+Site 5: Hand-pump borehole (installed 2017) [ID: 79152260…]
+Location: GPS: 4.7099°N, 10.2732°E — Kano
+Asset Type: Borehole
+Install Date: 2017-07-26
+Last Maintenance: No record
+Current Status: FUNCTIONAL
+Usage Level: Low
+
+Issue Description:
+  Borehole operating within expected parameters. Pump rod shows minor surface corrosion consistent with age. Water quality tests: coliform absent, turbidity within WHO limits. Usage classified as low; serving estimated 626 people daily.
+
+Maintenance History:
+  Preventive greasing of pump head completed during visit. Next service due in 12 months.
+
+SUMMARY STATISTICS
+==================
+Assets inspected: 5
+  Functional:     2 (40%)
+  Degraded:       3 (60%)
+  Non-functional: 0 (0%)
 
 RECOMMENDATIONS
 ===============
-1. ASSET-0041 requires emergency maintenance within 30 days.
-2. ASSET-0087 panel replacement should be scheduled within 60 days.
-3. ASSET-0023 should be monitored and inspected in Q4 2023.
+  1. [EB583860…] Schedule maintenance within 30–60 days to prevent failure.
+  2. [D9928958…] Schedule maintenance within 30–60 days to prevent failure.
+  3. [3388F6BA…] Schedule maintenance within 30–60 days to prevent failure.
+  4. [A19900D1…] Continue routine monitoring. Next service in 12 months.
+  5. [79152260…] Continue routine monitoring. Next service in 12 months.
 
-Budget Required: USD 18,500 (emergency + preventive maintenance)
+Report prepared by: Field Engineer Aminu Bello
+Organization: WaterAid Nigeria
+Date submitted: 2023-01-18

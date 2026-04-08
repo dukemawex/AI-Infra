@@ -1,0 +1,4002 @@
+[
+  {
+    "id": "6c152301-8c40-42f6-8847-710587f78ce0",
+    "type": "water_tank",
+    "latitude": 5.113311,
+    "longitude": 11.598606,
+    "install_date": "2017-09-30",
+    "last_maintenance": "2019-01-22",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "eb583860-7d90-4eae-97b6-f7a8f15867d0",
+    "type": "borehole",
+    "latitude": 9.904925,
+    "longitude": 3.081392,
+    "install_date": "2016-01-19",
+    "last_maintenance": "2021-11-17",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "5104e907-dc41-468b-8dfa-2b33a2f132ef",
+    "type": "water_tank",
+    "latitude": 10.498844,
+    "longitude": 9.239298,
+    "install_date": "2017-06-21",
+    "last_maintenance": "2020-10-02",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "d7edbecf-c68b-4694-ab8a-df16e659f441",
+    "type": "borehole",
+    "latitude": 10.981394,
+    "longitude": 6.783006,
+    "install_date": "2016-09-28",
+    "last_maintenance": "2020-09-05",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "3f095f64-072e-4ffc-a5b7-cd1cea049064",
+    "type": "solar_panel",
+    "latitude": 12.474944,
+    "longitude": 9.944712,
+    "install_date": "2024-01-19",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "1dd3b40a-b96e-4002-af30-25d86772f601",
+    "type": "solar_panel",
+    "latitude": 4.788002,
+    "longitude": 6.218139,
+    "install_date": "2022-01-18",
+    "last_maintenance": "2024-08-17",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "3388f6ba-b492-4e9e-bd6a-4f1406b0e9ce",
+    "type": "borehole",
+    "latitude": 4.458244,
+    "longitude": 5.434779,
+    "install_date": "2018-03-31",
+    "last_maintenance": "2021-01-07",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "ebbbc3c1-4cf3-4b14-8c93-3e0180395b90",
+    "type": "solar_panel",
+    "latitude": 10.356844,
+    "longitude": 7.077986,
+    "install_date": "2019-02-25",
+    "last_maintenance": "2022-04-23",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "ee87a795-4c6e-42e4-91a7-c5cd3f7b2369",
+    "type": "borehole",
+    "latitude": 10.09131,
+    "longitude": 4.753664,
+    "install_date": "2023-03-06",
+    "last_maintenance": "2024-08-20",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "fde27353-2b0a-470d-b648-fed2436aaa04",
+    "type": "water_tank",
+    "latitude": 10.88162,
+    "longitude": 5.335382,
+    "install_date": "2018-08-21",
+    "last_maintenance": "2019-06-06",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "d7b44a70-3f81-463f-82cc-b86964f65934",
+    "type": "solar_panel",
+    "latitude": 8.011648,
+    "longitude": 3.494263,
+    "install_date": "2021-05-12",
+    "last_maintenance": "2023-04-16",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "ae01d59b-5df0-4b44-940d-97f923891f2e",
+    "type": "water_tank",
+    "latitude": 8.588519,
+    "longitude": 5.878562,
+    "install_date": "2017-10-07",
+    "last_maintenance": "2023-12-22",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "a1952d5f-b1bf-4958-baad-ea8b21f45646",
+    "type": "water_tank",
+    "latitude": 7.994005,
+    "longitude": 5.331849,
+    "install_date": "2016-07-20",
+    "last_maintenance": "2017-09-25",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "2c9ebd04-b5fe-4404-b649-0e6881f4cdee",
+    "type": "borehole",
+    "latitude": 10.27446,
+    "longitude": 12.204952,
+    "install_date": "2019-09-26",
+    "last_maintenance": "2022-01-21",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "0c8aa3bf-8ae4-490f-9624-b4ae17568242",
+    "type": "water_tank",
+    "latitude": 6.514141,
+    "longitude": 9.338711,
+    "install_date": "2015-02-17",
+    "last_maintenance": "2016-07-30",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "826e7742-767d-4618-bd06-12b3089f98e3",
+    "type": "solar_panel",
+    "latitude": 11.685987,
+    "longitude": 6.782106,
+    "install_date": "2018-04-17",
+    "last_maintenance": "2023-07-18",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "a66db577-9a18-428b-a7dd-a0c8e97d27ca",
+    "type": "water_tank",
+    "latitude": 6.633891,
+    "longitude": 8.707033,
+    "install_date": "2017-01-01",
+    "last_maintenance": "2018-05-11",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "765fd487-183d-4d51-b7f9-00d6b6c228ac",
+    "type": "water_tank",
+    "latitude": 9.076629,
+    "longitude": 5.086933,
+    "install_date": "2019-03-12",
+    "last_maintenance": "2019-05-13",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "99cb4cb4-3e47-4416-bc41-3a212e5d0cd7",
+    "type": "borehole",
+    "latitude": 13.290986,
+    "longitude": 13.244663,
+    "install_date": "2024-04-29",
+    "last_maintenance": "2024-08-28",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "d3faef5b-1752-45a4-8196-36444284098c",
+    "type": "borehole",
+    "latitude": 4.856535,
+    "longitude": 8.531886,
+    "install_date": "2015-10-11",
+    "last_maintenance": "2021-11-29",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "d798a70e-996b-490a-bf6b-be7669b78265",
+    "type": "solar_panel",
+    "latitude": 13.468487,
+    "longitude": 4.681524,
+    "install_date": "2020-12-01",
+    "last_maintenance": "2023-06-15",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "7d1b0211-cbf8-4e43-9808-f18a21fccd9d",
+    "type": "water_tank",
+    "latitude": 10.898676,
+    "longitude": 11.255388,
+    "install_date": "2019-06-23",
+    "last_maintenance": "2023-04-13",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "d9928958-2de8-4dbc-8517-a28373ab2d5d",
+    "type": "solar_panel",
+    "latitude": 5.210042,
+    "longitude": 5.396368,
+    "install_date": "2018-10-16",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "79152260-04ce-4900-b20e-772e2baffcbc",
+    "type": "borehole",
+    "latitude": 4.709931,
+    "longitude": 10.273235,
+    "install_date": "2017-07-26",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "af934f65-96fd-4918-9552-e6aaa256d8a4",
+    "type": "water_tank",
+    "latitude": 6.380046,
+    "longitude": 10.727733,
+    "install_date": "2017-05-27",
+    "last_maintenance": "2023-12-20",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "ec48c3eb-80dc-451c-8212-60bab03a3631",
+    "type": "solar_panel",
+    "latitude": 12.07497,
+    "longitude": 4.984919,
+    "install_date": "2016-02-02",
+    "last_maintenance": "2020-03-23",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "c721b5fa-58b8-4b98-ba0d-ccbb961c2f81",
+    "type": "water_tank",
+    "latitude": 4.541712,
+    "longitude": 10.541466,
+    "install_date": "2022-03-31",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "c9ebcead-bb39-4869-b0ce-ed200ca473cb",
+    "type": "borehole",
+    "latitude": 6.486563,
+    "longitude": 4.982507,
+    "install_date": "2020-01-12",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "18436991-c245-43ba-97fe-1fa8979bcf4e",
+    "type": "borehole",
+    "latitude": 8.431307,
+    "longitude": 13.036189,
+    "install_date": "2021-03-04",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "c9c9071e-58ed-4efb-9be2-3117a34f1958",
+    "type": "borehole",
+    "latitude": 13.689963,
+    "longitude": 13.816404,
+    "install_date": "2024-07-08",
+    "last_maintenance": "2024-10-28",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "2829576d-8c78-40d1-bd22-f2f884985bb0",
+    "type": "solar_panel",
+    "latitude": 13.024429,
+    "longitude": 4.675645,
+    "install_date": "2015-01-09",
+    "last_maintenance": "2018-02-28",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "348bdeb2-59cc-48a7-b765-acd307a0ab6d",
+    "type": "solar_panel",
+    "latitude": 8.230075,
+    "longitude": 14.187812,
+    "install_date": "2023-10-14",
+    "last_maintenance": "2024-12-14",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "57d62046-d87c-40d0-a89a-cf648aa3717e",
+    "type": "borehole",
+    "latitude": 13.687094,
+    "longitude": 9.650163,
+    "install_date": "2021-01-29",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "3d3790f7-354d-4434-8acc-b5e15fdc68d0",
+    "type": "solar_panel",
+    "latitude": 9.028504,
+    "longitude": 12.932639,
+    "install_date": "2016-10-06",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "ec47b18f-dafd-48e2-bd1d-9e6826f030ca",
+    "type": "borehole",
+    "latitude": 9.950351,
+    "longitude": 10.802551,
+    "install_date": "2017-08-21",
+    "last_maintenance": "2024-03-10",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "0333a73f-ace3-4960-9d09-1a9832f455b3",
+    "type": "water_tank",
+    "latitude": 4.819834,
+    "longitude": 10.588478,
+    "install_date": "2021-05-04",
+    "last_maintenance": "2022-12-19",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "b3df0fc1-994a-4bc1-820e-1bca51393a07",
+    "type": "borehole",
+    "latitude": 6.656145,
+    "longitude": 4.270539,
+    "install_date": "2022-03-28",
+    "last_maintenance": "2023-04-15",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "45e17303-050a-4b5c-a5f4-ee0a71d3f33c",
+    "type": "borehole",
+    "latitude": 8.582855,
+    "longitude": 14.681453,
+    "install_date": "2016-02-14",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "8d29d440-fd17-4ace-9757-647e6957156f",
+    "type": "solar_panel",
+    "latitude": 12.808642,
+    "longitude": 13.251243,
+    "install_date": "2019-02-22",
+    "last_maintenance": "2024-03-21",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "b7a706d8-33a3-40b3-8a9f-51d5ee7b0f21",
+    "type": "water_tank",
+    "latitude": 13.838533,
+    "longitude": 12.385199,
+    "install_date": "2020-12-06",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "84c4ded0-c2f0-4ee1-ba78-f04c3e851ee4",
+    "type": "water_tank",
+    "latitude": 5.035865,
+    "longitude": 13.237524,
+    "install_date": "2017-12-19",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "addb3516-beaf-4451-8cae-096d7910e473",
+    "type": "solar_panel",
+    "latitude": 6.817563,
+    "longitude": 5.227556,
+    "install_date": "2018-11-05",
+    "last_maintenance": "2021-12-20",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "816a2ed8-4561-4175-a865-e7f5ad3c14b7",
+    "type": "borehole",
+    "latitude": 4.922985,
+    "longitude": 7.782909,
+    "install_date": "2018-02-07",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "8af11f82-9530-4641-8444-a6df5f4f9b83",
+    "type": "solar_panel",
+    "latitude": 5.61582,
+    "longitude": 8.002026,
+    "install_date": "2022-11-30",
+    "last_maintenance": "2023-02-07",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "407c011b-c8f9-4b81-86b1-cfc977a38b84",
+    "type": "water_tank",
+    "latitude": 13.039286,
+    "longitude": 9.247083,
+    "install_date": "2024-05-11",
+    "last_maintenance": "2024-11-28",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "1e73be7e-fca3-4353-8e50-09159c6408b3",
+    "type": "solar_panel",
+    "latitude": 7.646515,
+    "longitude": 13.897056,
+    "install_date": "2024-08-26",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "79968825-3205-409e-b3be-6246a8a2ed9b",
+    "type": "water_tank",
+    "latitude": 5.027936,
+    "longitude": 12.061395,
+    "install_date": "2024-11-30",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "85aedf30-6282-4064-8807-e3dd1090f36f",
+    "type": "borehole",
+    "latitude": 12.646057,
+    "longitude": 14.414472,
+    "install_date": "2024-02-03",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "74c3bce9-6cd3-4c63-94f6-a796a5973b7e",
+    "type": "solar_panel",
+    "latitude": 11.823865,
+    "longitude": 7.640558,
+    "install_date": "2022-07-06",
+    "last_maintenance": "2024-12-12",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "f87e9b78-e6fd-4ac7-a0a1-c0ccba1c2c22",
+    "type": "water_tank",
+    "latitude": 5.080956,
+    "longitude": 13.166001,
+    "install_date": "2024-08-17",
+    "last_maintenance": "2024-11-10",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "9e768f9a-d7f7-402b-b753-d2ccdcb089bc",
+    "type": "solar_panel",
+    "latitude": 12.205364,
+    "longitude": 13.155876,
+    "install_date": "2017-07-02",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "ca79f9fb-abb3-4bee-9a66-62bbfd7f0e9e",
+    "type": "borehole",
+    "latitude": 13.668891,
+    "longitude": 6.0495,
+    "install_date": "2022-03-12",
+    "last_maintenance": "2024-04-05",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "0ab3c60f-8274-408d-8bf2-353fa8fe4fc4",
+    "type": "borehole",
+    "latitude": 5.153418,
+    "longitude": 14.344807,
+    "install_date": "2017-01-01",
+    "last_maintenance": "2020-02-22",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "212e1715-6033-4423-b211-0add6429863b",
+    "type": "solar_panel",
+    "latitude": 11.285451,
+    "longitude": 6.464128,
+    "install_date": "2021-10-19",
+    "last_maintenance": "2022-08-11",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "a28e7bc8-0d4d-49cb-af3c-74c01601a0df",
+    "type": "solar_panel",
+    "latitude": 4.443865,
+    "longitude": 7.93269,
+    "install_date": "2020-10-30",
+    "last_maintenance": "2024-01-05",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "5d57bf9d-a570-4dd0-96ea-13155f7b7d27",
+    "type": "water_tank",
+    "latitude": 10.706285,
+    "longitude": 7.070658,
+    "install_date": "2015-10-14",
+    "last_maintenance": "2019-08-26",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "411b0409-8573-4952-9277-535fa66703f8",
+    "type": "borehole",
+    "latitude": 11.197543,
+    "longitude": 6.303867,
+    "install_date": "2018-06-20",
+    "last_maintenance": "2022-04-16",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "767567c5-4511-4a59-b8b6-1a529a06ae81",
+    "type": "borehole",
+    "latitude": 5.918401,
+    "longitude": 10.679153,
+    "install_date": "2019-04-02",
+    "last_maintenance": "2024-06-22",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "a790b6ec-9020-41ae-a077-0813c19113c3",
+    "type": "solar_panel",
+    "latitude": 9.479372,
+    "longitude": 2.704871,
+    "install_date": "2018-03-21",
+    "last_maintenance": "2024-11-19",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "60c38092-7974-4c48-bdcd-59fbb05bab83",
+    "type": "solar_panel",
+    "latitude": 8.421598,
+    "longitude": 5.264417,
+    "install_date": "2020-04-22",
+    "last_maintenance": "2024-12-07",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "19528357-621b-4e27-8c82-70721eddde7b",
+    "type": "solar_panel",
+    "latitude": 9.15452,
+    "longitude": 10.29529,
+    "install_date": "2018-10-04",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "6713dd57-b3ed-48b5-80fd-10dfa1969fa4",
+    "type": "solar_panel",
+    "latitude": 6.246407,
+    "longitude": 5.089559,
+    "install_date": "2015-04-11",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "71212f08-a46b-4d75-a028-9df4ae76cf9b",
+    "type": "borehole",
+    "latitude": 8.554162,
+    "longitude": 13.333643,
+    "install_date": "2021-06-15",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "27ac95b4-7ee4-4fee-855d-5d8bb7aa8841",
+    "type": "borehole",
+    "latitude": 5.475713,
+    "longitude": 10.951469,
+    "install_date": "2023-06-03",
+    "last_maintenance": "2023-11-19",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "7db75162-7d54-4fe3-87bd-8683e5c85ba3",
+    "type": "water_tank",
+    "latitude": 9.179578,
+    "longitude": 3.302621,
+    "install_date": "2017-10-17",
+    "last_maintenance": "2019-04-27",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "2ab6971e-fa5e-460b-b204-9364760fedb8",
+    "type": "water_tank",
+    "latitude": 9.311319,
+    "longitude": 9.407103,
+    "install_date": "2018-07-23",
+    "last_maintenance": "2023-09-07",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "411dc3eb-9c17-440f-b32d-01351e483870",
+    "type": "water_tank",
+    "latitude": 8.267408,
+    "longitude": 13.582257,
+    "install_date": "2020-01-01",
+    "last_maintenance": "2024-05-02",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "573c583a-8c8b-40df-81ea-7b2576f67b25",
+    "type": "borehole",
+    "latitude": 12.398629,
+    "longitude": 6.027736,
+    "install_date": "2023-09-21",
+    "last_maintenance": "2024-10-05",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "1ef3bfe8-99ec-42eb-badd-7012a5bc681f",
+    "type": "water_tank",
+    "latitude": 6.857282,
+    "longitude": 5.960581,
+    "install_date": "2018-08-02",
+    "last_maintenance": "2019-08-27",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "4ed1ccc7-064b-48fd-93a6-61003b23d3ee",
+    "type": "water_tank",
+    "latitude": 5.528053,
+    "longitude": 5.267435,
+    "install_date": "2019-08-27",
+    "last_maintenance": "2022-11-10",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "cef8eeb6-03f2-4113-a016-821bf3583df5",
+    "type": "solar_panel",
+    "latitude": 7.894768,
+    "longitude": 11.937549,
+    "install_date": "2022-10-19",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "1765bf21-1e3d-4b3e-a065-b19c15ae6be8",
+    "type": "solar_panel",
+    "latitude": 4.058961,
+    "longitude": 6.921106,
+    "install_date": "2023-06-14",
+    "last_maintenance": "2024-11-11",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "f877544c-8f39-400e-b816-3aa80d9db524",
+    "type": "water_tank",
+    "latitude": 11.346341,
+    "longitude": 12.298418,
+    "install_date": "2017-06-22",
+    "last_maintenance": "2020-09-11",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "b69cfeae-2dce-412b-a46d-696c008a4474",
+    "type": "solar_panel",
+    "latitude": 10.688736,
+    "longitude": 12.277708,
+    "install_date": "2023-02-14",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "d6af3076-c21d-421e-a175-eb69d003acf8",
+    "type": "water_tank",
+    "latitude": 9.341236,
+    "longitude": 13.583146,
+    "install_date": "2021-08-21",
+    "last_maintenance": "2021-12-14",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "02f91edf-031f-45b2-bee7-27ef969ba589",
+    "type": "solar_panel",
+    "latitude": 5.81729,
+    "longitude": 5.821876,
+    "install_date": "2018-09-02",
+    "last_maintenance": "2022-07-01",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "0c4c8f08-6fd0-4807-aad9-30d3653e64ab",
+    "type": "solar_panel",
+    "latitude": 11.520098,
+    "longitude": 12.683091,
+    "install_date": "2017-10-30",
+    "last_maintenance": "2023-04-08",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "15e15ee4-803d-4e9a-a372-884eefb786eb",
+    "type": "solar_panel",
+    "latitude": 6.242222,
+    "longitude": 3.52342,
+    "install_date": "2022-04-23",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "384fd382-3a41-4195-9c93-702373dcb81d",
+    "type": "borehole",
+    "latitude": 10.213357,
+    "longitude": 5.562539,
+    "install_date": "2020-04-23",
+    "last_maintenance": "2023-08-21",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "3f21d80b-2582-4746-bfd2-45582cd7d2f5",
+    "type": "solar_panel",
+    "latitude": 11.668981,
+    "longitude": 4.71347,
+    "install_date": "2021-10-23",
+    "last_maintenance": "2022-08-13",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "11f45751-8e49-42c4-b8ac-14e83b4bbe89",
+    "type": "solar_panel",
+    "latitude": 5.080987,
+    "longitude": 3.008141,
+    "install_date": "2018-07-01",
+    "last_maintenance": "2022-11-14",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "9f280d7f-dcf9-4209-bc4e-f8b144a3b3a8",
+    "type": "borehole",
+    "latitude": 9.920979,
+    "longitude": 12.66686,
+    "install_date": "2017-09-21",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "7d6ecf15-1684-485f-b106-47aa83b40886",
+    "type": "water_tank",
+    "latitude": 12.05528,
+    "longitude": 12.254727,
+    "install_date": "2021-05-07",
+    "last_maintenance": "2023-06-17",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "34344769-5c7f-404f-ae80-0b95c40f6b78",
+    "type": "borehole",
+    "latitude": 9.059608,
+    "longitude": 6.794774,
+    "install_date": "2024-07-11",
+    "last_maintenance": "2024-11-10",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "af978c0b-ced2-46db-aff7-24bc63645a89",
+    "type": "water_tank",
+    "latitude": 12.91575,
+    "longitude": 8.216872,
+    "install_date": "2016-09-18",
+    "last_maintenance": "2022-09-24",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "c1950771-5e88-481c-a1d3-fb9e6198b290",
+    "type": "water_tank",
+    "latitude": 11.746415,
+    "longitude": 8.278485,
+    "install_date": "2024-04-05",
+    "last_maintenance": "2024-08-11",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "0ad472aa-7faa-43e8-a6b0-8e4687c80813",
+    "type": "borehole",
+    "latitude": 6.789282,
+    "longitude": 8.109624,
+    "install_date": "2023-06-01",
+    "last_maintenance": "2024-08-22",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "6a33bead-1ce2-4ee6-9862-2eafc2086a9e",
+    "type": "solar_panel",
+    "latitude": 5.818399,
+    "longitude": 5.245438,
+    "install_date": "2023-12-12",
+    "last_maintenance": "2024-07-02",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "8e4bb2a2-116f-4333-a823-e86dce26cc5f",
+    "type": "solar_panel",
+    "latitude": 9.55791,
+    "longitude": 8.899527,
+    "install_date": "2017-02-21",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "fb72f04f-faf1-4b59-84be-03a3249c2c94",
+    "type": "borehole",
+    "latitude": 10.906093,
+    "longitude": 10.450835,
+    "install_date": "2020-07-03",
+    "last_maintenance": "2020-10-06",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "0b644257-6598-46d9-b6a6-788ffbb8f574",
+    "type": "water_tank",
+    "latitude": 6.433052,
+    "longitude": 10.66752,
+    "install_date": "2019-02-20",
+    "last_maintenance": "2023-02-27",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "41ca9f72-8ee0-4021-8644-daf89bf1fbbd",
+    "type": "solar_panel",
+    "latitude": 7.518105,
+    "longitude": 8.144943,
+    "install_date": "2018-06-09",
+    "last_maintenance": "2019-12-15",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "3eed726c-b1f9-4750-90b8-f85488695755",
+    "type": "water_tank",
+    "latitude": 9.35864,
+    "longitude": 11.846275,
+    "install_date": "2017-01-28",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "367a4182-bfe1-48d2-bd68-7cfc6626100e",
+    "type": "water_tank",
+    "latitude": 13.76607,
+    "longitude": 8.995642,
+    "install_date": "2018-03-05",
+    "last_maintenance": "2020-07-07",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "7591c0a6-1d11-449f-bf79-65c9a04a58fb",
+    "type": "solar_panel",
+    "latitude": 4.141484,
+    "longitude": 9.109621,
+    "install_date": "2018-01-28",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "49b91f40-7f86-4758-a37f-c67391021047",
+    "type": "borehole",
+    "latitude": 10.378697,
+    "longitude": 11.733506,
+    "install_date": "2016-02-25",
+    "last_maintenance": "2022-10-02",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "2fc9386b-8a35-47ab-ac16-307fad2163a1",
+    "type": "solar_panel",
+    "latitude": 5.843637,
+    "longitude": 3.316521,
+    "install_date": "2024-08-30",
+    "last_maintenance": "2024-11-06",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "ef63ad23-a51b-4306-8c94-e849a014b1b8",
+    "type": "water_tank",
+    "latitude": 10.86451,
+    "longitude": 4.520724,
+    "install_date": "2024-02-05",
+    "last_maintenance": "2024-09-07",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "9d4b36e9-58b4-4d52-87e3-c35c116ae925",
+    "type": "water_tank",
+    "latitude": 11.644434,
+    "longitude": 9.975812,
+    "install_date": "2023-11-13",
+    "last_maintenance": "2024-10-05",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "198a3775-5881-4e0d-9772-c1e7e839f327",
+    "type": "solar_panel",
+    "latitude": 12.601667,
+    "longitude": 14.580375,
+    "install_date": "2018-06-04",
+    "last_maintenance": "2019-04-06",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "c920192c-9810-425e-ab03-8a48bc6feb46",
+    "type": "borehole",
+    "latitude": 10.25515,
+    "longitude": 5.875754,
+    "install_date": "2015-11-29",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "36b33e34-2abe-4a43-a8dd-23b22a9874e3",
+    "type": "borehole",
+    "latitude": 8.085176,
+    "longitude": 10.972454,
+    "install_date": "2020-04-08",
+    "last_maintenance": "2021-09-24",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "6acc5c98-ea38-4201-aee4-c25e61da09ee",
+    "type": "solar_panel",
+    "latitude": 4.711798,
+    "longitude": 5.501086,
+    "install_date": "2017-12-19",
+    "last_maintenance": "2024-09-28",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "ff1a9d43-763b-4841-a73d-3956d80b60d8",
+    "type": "solar_panel",
+    "latitude": 5.147763,
+    "longitude": 5.397713,
+    "install_date": "2016-09-02",
+    "last_maintenance": "2018-06-06",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "cfb1fa79-dd5d-4eb5-8650-6afd42abe93a",
+    "type": "solar_panel",
+    "latitude": 9.95044,
+    "longitude": 12.590884,
+    "install_date": "2018-03-28",
+    "last_maintenance": "2023-08-28",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "fcbf2b65-f3f4-441a-9cb8-470ae886b62d",
+    "type": "solar_panel",
+    "latitude": 9.004722,
+    "longitude": 8.625543,
+    "install_date": "2015-11-26",
+    "last_maintenance": "2020-11-28",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "26d14f0e-ad97-4260-9908-833b998d69a2",
+    "type": "borehole",
+    "latitude": 4.913269,
+    "longitude": 14.242933,
+    "install_date": "2024-05-17",
+    "last_maintenance": "2024-12-13",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "b1340df8-f237-4db5-9a96-6b99ba43b8a5",
+    "type": "water_tank",
+    "latitude": 12.214212,
+    "longitude": 9.614964,
+    "install_date": "2023-07-23",
+    "last_maintenance": "2024-05-18",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "dfff8d72-bf15-4ed9-ba0a-272280f10a00",
+    "type": "solar_panel",
+    "latitude": 5.814891,
+    "longitude": 9.723956,
+    "install_date": "2022-02-13",
+    "last_maintenance": "2024-12-31",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "cae4afde-da85-432f-8953-122aa1fcfee9",
+    "type": "solar_panel",
+    "latitude": 7.210583,
+    "longitude": 3.955199,
+    "install_date": "2016-10-20",
+    "last_maintenance": "2024-09-29",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "9276c66a-a1e6-435a-af52-60d9ab540b52",
+    "type": "solar_panel",
+    "latitude": 12.13566,
+    "longitude": 9.301159,
+    "install_date": "2020-02-06",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "3c119893-3899-472c-809d-e6204e702fd7",
+    "type": "solar_panel",
+    "latitude": 12.649106,
+    "longitude": 12.599126,
+    "install_date": "2015-01-05",
+    "last_maintenance": "2021-04-05",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "0e14db0c-de7c-4f03-a990-00867e13f1ed",
+    "type": "water_tank",
+    "latitude": 7.617794,
+    "longitude": 11.777318,
+    "install_date": "2022-01-05",
+    "last_maintenance": "2022-06-19",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "3c684100-41da-47dd-89bc-805a3e860258",
+    "type": "solar_panel",
+    "latitude": 8.381161,
+    "longitude": 11.079,
+    "install_date": "2016-05-12",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "b5c9eb2d-8b39-4cd8-9c7d-cb6708307186",
+    "type": "water_tank",
+    "latitude": 5.583782,
+    "longitude": 9.310068,
+    "install_date": "2021-03-12",
+    "last_maintenance": "2022-08-14",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "08963a35-7d87-4fd5-aae8-cfb7ff99ceff",
+    "type": "solar_panel",
+    "latitude": 13.470607,
+    "longitude": 10.472516,
+    "install_date": "2016-09-22",
+    "last_maintenance": "2024-12-04",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "26ebe3ad-6557-454e-b8cd-93d3eff7cb31",
+    "type": "solar_panel",
+    "latitude": 12.347239,
+    "longitude": 14.462936,
+    "install_date": "2017-09-25",
+    "last_maintenance": "2019-07-09",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "c17703cf-7d2e-477d-a775-a309225437e0",
+    "type": "water_tank",
+    "latitude": 11.462925,
+    "longitude": 4.3381,
+    "install_date": "2015-10-13",
+    "last_maintenance": "2024-10-20",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "7afc3eb6-cdbe-4b75-b178-6694b6e2b3b2",
+    "type": "water_tank",
+    "latitude": 6.671727,
+    "longitude": 2.730783,
+    "install_date": "2023-02-21",
+    "last_maintenance": "2024-12-13",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "97e9813c-92e3-4d7d-9e72-d0482befd68f",
+    "type": "borehole",
+    "latitude": 8.465474,
+    "longitude": 8.512097,
+    "install_date": "2018-09-23",
+    "last_maintenance": "2024-12-25",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "8659e974-7831-4feb-8e71-339e902b822b",
+    "type": "borehole",
+    "latitude": 13.807746,
+    "longitude": 5.565667,
+    "install_date": "2019-04-18",
+    "last_maintenance": "2023-10-22",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "662ce68b-f9e5-48c6-b1d9-087aff0b0138",
+    "type": "solar_panel",
+    "latitude": 11.052279,
+    "longitude": 12.436907,
+    "install_date": "2019-05-01",
+    "last_maintenance": "2023-12-08",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "a16ac1e5-9c60-447f-96a7-31005597989d",
+    "type": "solar_panel",
+    "latitude": 13.648244,
+    "longitude": 4.214955,
+    "install_date": "2021-08-14",
+    "last_maintenance": "2022-05-06",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "4e0ecde0-75f6-4092-94f0-934e5460b99a",
+    "type": "water_tank",
+    "latitude": 13.104417,
+    "longitude": 2.884171,
+    "install_date": "2016-08-13",
+    "last_maintenance": "2024-02-14",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "4fea2889-14fc-43a2-9660-b573619ab99b",
+    "type": "solar_panel",
+    "latitude": 7.385612,
+    "longitude": 11.012455,
+    "install_date": "2022-04-15",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "a19900d1-d4db-4982-aaa1-71e57cea8b3c",
+    "type": "water_tank",
+    "latitude": 7.800094,
+    "longitude": 6.499934,
+    "install_date": "2023-01-22",
+    "last_maintenance": "2024-08-03",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "d9bb5d12-ebd5-498c-80f7-bc8fd01c7dda",
+    "type": "borehole",
+    "latitude": 6.347702,
+    "longitude": 10.912795,
+    "install_date": "2018-03-23",
+    "last_maintenance": "2019-05-27",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "cf253064-076b-458c-871a-4b54bd057bd6",
+    "type": "water_tank",
+    "latitude": 11.038908,
+    "longitude": 3.906087,
+    "install_date": "2016-11-12",
+    "last_maintenance": "2017-05-09",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "cda04993-8eda-4bee-9ed6-afa6739b97f7",
+    "type": "solar_panel",
+    "latitude": 7.584633,
+    "longitude": 7.868241,
+    "install_date": "2017-09-27",
+    "last_maintenance": "2024-04-01",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "4dbca4fe-8403-4e47-8ead-0aabf3848458",
+    "type": "borehole",
+    "latitude": 4.789684,
+    "longitude": 13.150075,
+    "install_date": "2021-12-13",
+    "last_maintenance": "2024-11-26",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "31e8caf5-4fce-4d68-98b8-d30688d8ba21",
+    "type": "solar_panel",
+    "latitude": 10.379046,
+    "longitude": 8.214846,
+    "install_date": "2022-06-24",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "04e1fdba-33ef-4cc4-962c-b6c0b08df3ae",
+    "type": "water_tank",
+    "latitude": 9.465981,
+    "longitude": 3.586343,
+    "install_date": "2018-11-16",
+    "last_maintenance": "2022-05-24",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "c41eb79f-b4a8-48e5-ae56-48c358963a30",
+    "type": "solar_panel",
+    "latitude": 8.568358,
+    "longitude": 6.32546,
+    "install_date": "2019-04-25",
+    "last_maintenance": "2020-01-28",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "325b4a53-52b7-4ab4-a952-463f6dec7e22",
+    "type": "water_tank",
+    "latitude": 6.958724,
+    "longitude": 11.091349,
+    "install_date": "2015-03-31",
+    "last_maintenance": "2022-10-16",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "a7194d7f-4fa0-4a12-a515-820b42c15be3",
+    "type": "water_tank",
+    "latitude": 11.783116,
+    "longitude": 14.383234,
+    "install_date": "2021-10-19",
+    "last_maintenance": "2023-07-27",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "dc4c2d57-8d6a-45fe-adc5-1fdb9208548f",
+    "type": "solar_panel",
+    "latitude": 6.190045,
+    "longitude": 4.981584,
+    "install_date": "2017-10-23",
+    "last_maintenance": "2019-07-05",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "6f927d7b-aa71-4d27-8f96-e98152c2a7f5",
+    "type": "water_tank",
+    "latitude": 4.394226,
+    "longitude": 12.163326,
+    "install_date": "2015-05-17",
+    "last_maintenance": "2023-10-01",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "f264ebca-58e1-4b15-8140-4f08f4720232",
+    "type": "solar_panel",
+    "latitude": 11.474809,
+    "longitude": 4.807681,
+    "install_date": "2016-06-25",
+    "last_maintenance": "2020-09-30",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "9a957ba3-20d5-49bf-ba52-1eeb89b83dbf",
+    "type": "borehole",
+    "latitude": 6.569701,
+    "longitude": 12.596278,
+    "install_date": "2020-05-27",
+    "last_maintenance": "2022-03-22",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "5593adb4-a703-454b-94ad-02f36410b0e8",
+    "type": "borehole",
+    "latitude": 8.683314,
+    "longitude": 3.603592,
+    "install_date": "2023-06-17",
+    "last_maintenance": "2024-10-29",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "7a2ff8fc-5eb3-430e-9e81-dca861df86c6",
+    "type": "solar_panel",
+    "latitude": 13.672697,
+    "longitude": 12.355052,
+    "install_date": "2019-02-07",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "a8f10d2f-5e9c-42e3-b815-6a622d25c92e",
+    "type": "borehole",
+    "latitude": 8.54786,
+    "longitude": 10.773941,
+    "install_date": "2022-07-16",
+    "last_maintenance": "2023-10-09",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "1d53589f-4a52-47fc-84f0-23d26e1b8c1c",
+    "type": "borehole",
+    "latitude": 10.748366,
+    "longitude": 8.357722,
+    "install_date": "2021-12-12",
+    "last_maintenance": "2023-12-13",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "e05d6b8b-a90e-4fa7-8c23-85296f289d6e",
+    "type": "borehole",
+    "latitude": 10.354039,
+    "longitude": 8.27121,
+    "install_date": "2022-11-11",
+    "last_maintenance": "2024-03-03",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "38645847-a047-4e0b-8c26-ee58ea3468ec",
+    "type": "borehole",
+    "latitude": 7.043646,
+    "longitude": 8.611495,
+    "install_date": "2016-02-03",
+    "last_maintenance": "2022-04-13",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "98028dcf-ebbe-4343-ae0b-61f35a807198",
+    "type": "water_tank",
+    "latitude": 13.493808,
+    "longitude": 11.057808,
+    "install_date": "2021-01-21",
+    "last_maintenance": "2022-02-01",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "a2088e63-da56-4c9e-9733-52655a2f102e",
+    "type": "solar_panel",
+    "latitude": 10.156522,
+    "longitude": 13.968637,
+    "install_date": "2018-02-19",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "fadb5dd5-83a9-40e9-ada3-c9c80159dbac",
+    "type": "borehole",
+    "latitude": 12.554502,
+    "longitude": 3.892255,
+    "install_date": "2022-09-09",
+    "last_maintenance": "2024-08-29",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "abce6cf1-afc6-45be-b991-eb9e58b23017",
+    "type": "borehole",
+    "latitude": 13.682069,
+    "longitude": 14.088129,
+    "install_date": "2024-03-29",
+    "last_maintenance": "2024-11-13",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "b40bbe81-6ec8-4c4a-bd91-3bbde5b232ad",
+    "type": "borehole",
+    "latitude": 4.505785,
+    "longitude": 6.70211,
+    "install_date": "2016-05-30",
+    "last_maintenance": "2018-11-16",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "97e68f57-9b5c-4d46-a6b8-1f729e2e057f",
+    "type": "borehole",
+    "latitude": 9.863831,
+    "longitude": 12.456636,
+    "install_date": "2017-08-12",
+    "last_maintenance": "2019-06-07",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "232cb9cc-c3e7-422d-b237-4555aff0d69d",
+    "type": "solar_panel",
+    "latitude": 12.584061,
+    "longitude": 4.436256,
+    "install_date": "2016-06-16",
+    "last_maintenance": "2018-07-30",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "727c2721-46c7-4d51-bb6b-87ff06df5a5b",
+    "type": "borehole",
+    "latitude": 4.148603,
+    "longitude": 12.179816,
+    "install_date": "2017-09-01",
+    "last_maintenance": "2018-01-03",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "975fc62b-c5c9-49a1-b24f-3586b7d3a137",
+    "type": "water_tank",
+    "latitude": 8.209606,
+    "longitude": 4.063792,
+    "install_date": "2015-09-18",
+    "last_maintenance": "2024-08-07",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "3e21f3ad-88be-4dd7-9ca3-81b5e8389e0d",
+    "type": "solar_panel",
+    "latitude": 9.038387,
+    "longitude": 14.044988,
+    "install_date": "2015-06-27",
+    "last_maintenance": "2023-01-14",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "e0609db8-c8d4-4d96-8563-5c7bcb3ae639",
+    "type": "borehole",
+    "latitude": 4.608254,
+    "longitude": 8.447783,
+    "install_date": "2019-07-04",
+    "last_maintenance": "2020-04-10",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "f9b6bff8-903b-43c3-b829-dd5fbb30ca35",
+    "type": "borehole",
+    "latitude": 12.992668,
+    "longitude": 6.565342,
+    "install_date": "2016-08-30",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "07d44a3e-1e54-45be-92e0-9a1fd65f1f0c",
+    "type": "water_tank",
+    "latitude": 11.121528,
+    "longitude": 7.270853,
+    "install_date": "2021-09-12",
+    "last_maintenance": "2024-05-28",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "b2a0c5ad-a6ef-4969-b1d5-13034298ad7e",
+    "type": "water_tank",
+    "latitude": 5.144141,
+    "longitude": 10.556555,
+    "install_date": "2024-11-04",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "48387738-fa35-44b9-a53d-35b04538be57",
+    "type": "solar_panel",
+    "latitude": 12.88091,
+    "longitude": 7.665763,
+    "install_date": "2024-04-12",
+    "last_maintenance": "2024-09-25",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "58cddd5a-04a4-4d79-9bf2-0fd73dc8a0fe",
+    "type": "solar_panel",
+    "latitude": 10.651079,
+    "longitude": 7.191612,
+    "install_date": "2016-09-17",
+    "last_maintenance": "2022-03-12",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "7c664e7e-349e-4588-819e-bf8bfac42c97",
+    "type": "borehole",
+    "latitude": 8.318765,
+    "longitude": 11.635068,
+    "install_date": "2019-03-07",
+    "last_maintenance": "2020-01-06",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "21345db4-4e76-4544-b0c8-08e0c0a896b2",
+    "type": "solar_panel",
+    "latitude": 10.700133,
+    "longitude": 7.629704,
+    "install_date": "2024-10-18",
+    "last_maintenance": "2024-12-29",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "36033c30-0bb4-4f3f-8705-cf24d41cc5cc",
+    "type": "borehole",
+    "latitude": 13.683986,
+    "longitude": 9.904921,
+    "install_date": "2018-12-11",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "a0249ed9-93b6-4823-8130-58c83f50fc7d",
+    "type": "solar_panel",
+    "latitude": 6.242449,
+    "longitude": 3.998621,
+    "install_date": "2024-06-24",
+    "last_maintenance": "2024-09-21",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "c75feabf-a438-4e4d-80b8-7bc282d87bf9",
+    "type": "solar_panel",
+    "latitude": 12.451552,
+    "longitude": 14.394559,
+    "install_date": "2024-03-06",
+    "last_maintenance": "2024-10-24",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "3eed9276-0ae3-474a-ad08-ce27d8bdd60b",
+    "type": "water_tank",
+    "latitude": 12.294608,
+    "longitude": 5.909373,
+    "install_date": "2017-01-08",
+    "last_maintenance": "2020-08-25",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "8ef3ac72-730a-4de7-ae89-5d0e532244a7",
+    "type": "borehole",
+    "latitude": 12.698627,
+    "longitude": 9.495853,
+    "install_date": "2019-06-30",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "83909876-7fb4-4830-b75b-1dc4fa1a4a17",
+    "type": "borehole",
+    "latitude": 11.461118,
+    "longitude": 5.281595,
+    "install_date": "2019-09-16",
+    "last_maintenance": "2020-10-02",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "a00d8e90-bf3a-4bcd-be27-cb7a4da26563",
+    "type": "water_tank",
+    "latitude": 9.962238,
+    "longitude": 13.300106,
+    "install_date": "2016-09-29",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "036943fc-8894-43a2-a548-e57a482859ce",
+    "type": "solar_panel",
+    "latitude": 8.43113,
+    "longitude": 7.788177,
+    "install_date": "2021-10-22",
+    "last_maintenance": "2023-07-03",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "cc6341f0-2678-4b02-bf5b-4c35103bfc1d",
+    "type": "solar_panel",
+    "latitude": 8.299136,
+    "longitude": 6.098958,
+    "install_date": "2022-08-11",
+    "last_maintenance": "2024-04-01",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "edd7ed7f-cb1b-4bf0-aa51-e449d975da67",
+    "type": "solar_panel",
+    "latitude": 13.844457,
+    "longitude": 3.357384,
+    "install_date": "2017-04-17",
+    "last_maintenance": "2019-10-29",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "8288b24a-a423-45c4-a8cf-73825cb50e01",
+    "type": "solar_panel",
+    "latitude": 7.281224,
+    "longitude": 2.792759,
+    "install_date": "2023-05-18",
+    "last_maintenance": "2023-11-26",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "5a45f4a8-be46-4ab2-af19-51ddd33a9cb1",
+    "type": "water_tank",
+    "latitude": 9.587236,
+    "longitude": 10.716578,
+    "install_date": "2018-12-21",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "6a77ab4e-d116-4061-bb02-7d2dfc780004",
+    "type": "borehole",
+    "latitude": 8.597543,
+    "longitude": 3.634351,
+    "install_date": "2018-07-06",
+    "last_maintenance": "2023-03-18",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "965ae046-03cb-4ee4-bf8e-e512af02679c",
+    "type": "borehole",
+    "latitude": 8.050323,
+    "longitude": 14.294396,
+    "install_date": "2016-12-04",
+    "last_maintenance": "2024-01-08",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "b5d0b382-0c01-43aa-91f7-dbc2ec536416",
+    "type": "solar_panel",
+    "latitude": 4.881299,
+    "longitude": 12.833812,
+    "install_date": "2017-09-23",
+    "last_maintenance": "2022-05-20",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "5d4bbecc-3bfc-4bbe-bddb-2b65c709ab2d",
+    "type": "solar_panel",
+    "latitude": 11.458048,
+    "longitude": 5.358865,
+    "install_date": "2023-09-27",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "1c89dd77-85de-4d93-a375-b1e75d23aa48",
+    "type": "water_tank",
+    "latitude": 5.939037,
+    "longitude": 12.014739,
+    "install_date": "2018-12-09",
+    "last_maintenance": "2020-10-03",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "e8d680e6-be0f-475f-8203-65e0d69ae54f",
+    "type": "borehole",
+    "latitude": 5.73499,
+    "longitude": 4.534437,
+    "install_date": "2023-07-07",
+    "last_maintenance": "2023-12-04",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "a01a5b45-4dcc-4c58-a662-a21e7fc1ac69",
+    "type": "solar_panel",
+    "latitude": 11.544458,
+    "longitude": 11.818526,
+    "install_date": "2020-01-13",
+    "last_maintenance": "2023-05-13",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "ceb74583-a79b-43ac-8e80-103ef3fc1f3c",
+    "type": "solar_panel",
+    "latitude": 12.642469,
+    "longitude": 10.226609,
+    "install_date": "2016-09-10",
+    "last_maintenance": "2022-02-11",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "1443f3c1-905b-49c8-8a1d-f36710304750",
+    "type": "solar_panel",
+    "latitude": 9.914198,
+    "longitude": 6.923307,
+    "install_date": "2015-10-31",
+    "last_maintenance": "2021-01-23",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "775d71a9-7cae-45fe-8522-cb9fc1e9f1e4",
+    "type": "solar_panel",
+    "latitude": 4.76731,
+    "longitude": 13.071,
+    "install_date": "2024-08-04",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "9609477f-6fb1-4080-8466-a13c9de5402a",
+    "type": "water_tank",
+    "latitude": 9.543164,
+    "longitude": 12.201814,
+    "install_date": "2015-06-18",
+    "last_maintenance": "2024-09-15",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "46e6fe08-4dc9-40a3-bf14-c059c89ab729",
+    "type": "water_tank",
+    "latitude": 8.75629,
+    "longitude": 4.510333,
+    "install_date": "2015-09-11",
+    "last_maintenance": "2024-12-13",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "d5962fc2-ae4c-4687-bfd5-f1e96e16712e",
+    "type": "water_tank",
+    "latitude": 4.843291,
+    "longitude": 10.453525,
+    "install_date": "2015-06-10",
+    "last_maintenance": "2020-07-06",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "871b2aa7-ddc4-43ef-a59b-eb7943ae93c0",
+    "type": "water_tank",
+    "latitude": 5.587462,
+    "longitude": 7.174224,
+    "install_date": "2018-03-04",
+    "last_maintenance": "2022-02-16",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "6a3603fb-36a5-4bb0-863d-6bc534407e7f",
+    "type": "water_tank",
+    "latitude": 10.473054,
+    "longitude": 3.490942,
+    "install_date": "2016-01-23",
+    "last_maintenance": "2020-07-23",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "dd8bb578-60e7-4545-91f6-84cb1e10336c",
+    "type": "water_tank",
+    "latitude": 13.6441,
+    "longitude": 9.93241,
+    "install_date": "2016-09-07",
+    "last_maintenance": "2023-05-20",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "cb370cee-8a76-4111-b78a-5fab1f31f6f9",
+    "type": "solar_panel",
+    "latitude": 13.676965,
+    "longitude": 11.08176,
+    "install_date": "2019-05-25",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "d5e62ea0-c1d9-4b25-9eb8-daa04ad40eff",
+    "type": "water_tank",
+    "latitude": 7.766793,
+    "longitude": 12.199943,
+    "install_date": "2024-02-13",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "32db4817-3577-4148-a8b3-56e8145aee85",
+    "type": "water_tank",
+    "latitude": 13.12448,
+    "longitude": 3.821436,
+    "install_date": "2022-07-09",
+    "last_maintenance": "2023-09-12",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "1fa32876-94dc-481d-8d80-b0bc91999a2b",
+    "type": "borehole",
+    "latitude": 7.417323,
+    "longitude": 11.893874,
+    "install_date": "2017-02-25",
+    "last_maintenance": "2018-11-10",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "df749de9-dac4-4290-b32b-6ab6bf9c3530",
+    "type": "borehole",
+    "latitude": 9.076897,
+    "longitude": 9.177249,
+    "install_date": "2023-04-14",
+    "last_maintenance": "2023-07-21",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "68478b05-08e8-4d20-9345-cd38a8f8a396",
+    "type": "water_tank",
+    "latitude": 5.31049,
+    "longitude": 7.220638,
+    "install_date": "2016-10-26",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "a484d56c-f6e0-4da8-8dba-d9275228791e",
+    "type": "borehole",
+    "latitude": 11.21183,
+    "longitude": 3.224309,
+    "install_date": "2019-02-01",
+    "last_maintenance": "2021-11-29",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "1c97182b-94b0-4fbc-b2d0-2d59f467069c",
+    "type": "water_tank",
+    "latitude": 11.838004,
+    "longitude": 5.508035,
+    "install_date": "2017-09-06",
+    "last_maintenance": "2023-02-08",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "bedbdeb6-d48f-46ce-8d90-fea536d66b6e",
+    "type": "water_tank",
+    "latitude": 13.471302,
+    "longitude": 14.513278,
+    "install_date": "2020-03-06",
+    "last_maintenance": "2024-09-14",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "bd10d258-4886-464e-a291-b8b30123bd76",
+    "type": "borehole",
+    "latitude": 12.168912,
+    "longitude": 12.315111,
+    "install_date": "2016-07-20",
+    "last_maintenance": "2017-04-19",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "f01886e6-f8da-4f6e-baf4-a0c3a0e32bd3",
+    "type": "water_tank",
+    "latitude": 13.342936,
+    "longitude": 11.236812,
+    "install_date": "2020-10-14",
+    "last_maintenance": "2022-07-19",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "a48540c3-c976-4879-8eb8-d87d34c8c140",
+    "type": "solar_panel",
+    "latitude": 13.053062,
+    "longitude": 4.468184,
+    "install_date": "2019-11-27",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "d02d4955-9be5-4fcc-acdc-d068ed28b620",
+    "type": "solar_panel",
+    "latitude": 13.304719,
+    "longitude": 7.678763,
+    "install_date": "2019-06-12",
+    "last_maintenance": "2020-12-05",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "d1d8d19a-e620-48d3-bb32-497ba6117b7b",
+    "type": "borehole",
+    "latitude": 4.281875,
+    "longitude": 13.869911,
+    "install_date": "2024-05-30",
+    "last_maintenance": "2024-10-22",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "75b3e041-eba7-4c61-b11e-452c03b338a3",
+    "type": "solar_panel",
+    "latitude": 13.173962,
+    "longitude": 8.369459,
+    "install_date": "2024-04-27",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "0b66d7cb-1cd9-46fc-991b-1e6cbe0195fe",
+    "type": "borehole",
+    "latitude": 13.058575,
+    "longitude": 2.928047,
+    "install_date": "2017-06-02",
+    "last_maintenance": "2023-09-26",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "4538c746-a46d-40ae-a26b-008d97358fc1",
+    "type": "solar_panel",
+    "latitude": 5.111869,
+    "longitude": 6.157219,
+    "install_date": "2018-05-18",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "0861e39f-1349-4537-800a-e93ad4ea14d8",
+    "type": "water_tank",
+    "latitude": 8.571136,
+    "longitude": 4.030295,
+    "install_date": "2020-08-09",
+    "last_maintenance": "2020-11-10",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "fe5542f9-300f-449f-ac42-0cccca282f41",
+    "type": "water_tank",
+    "latitude": 5.435768,
+    "longitude": 7.850867,
+    "install_date": "2021-11-23",
+    "last_maintenance": "2024-05-24",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "d67c9001-bc6e-4e4a-86ba-609a92f5d777",
+    "type": "water_tank",
+    "latitude": 13.746545,
+    "longitude": 3.512152,
+    "install_date": "2020-11-24",
+    "last_maintenance": "2023-11-28",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "ab031346-733c-49dd-b43d-b068fc00d5d0",
+    "type": "solar_panel",
+    "latitude": 4.435344,
+    "longitude": 7.342576,
+    "install_date": "2019-03-10",
+    "last_maintenance": "2019-07-14",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "47d7a48d-a6d5-4ddf-9c2b-039b41dbbf38",
+    "type": "borehole",
+    "latitude": 11.32941,
+    "longitude": 10.239084,
+    "install_date": "2023-08-27",
+    "last_maintenance": "2024-11-16",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "ce8063e9-c3f1-4a8d-be57-605fc04d44a0",
+    "type": "water_tank",
+    "latitude": 7.385473,
+    "longitude": 10.413547,
+    "install_date": "2024-04-24",
+    "last_maintenance": "2024-10-19",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "0dc2b518-d101-4c7b-9178-c13e5a379770",
+    "type": "borehole",
+    "latitude": 12.114977,
+    "longitude": 3.457206,
+    "install_date": "2023-09-15",
+    "last_maintenance": "2023-12-02",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "34c5882c-be8d-4268-ac81-90524ccb9ae2",
+    "type": "borehole",
+    "latitude": 12.857904,
+    "longitude": 6.48715,
+    "install_date": "2018-06-24",
+    "last_maintenance": "2024-09-24",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "7eae0251-815f-43c9-b629-76872567a691",
+    "type": "water_tank",
+    "latitude": 5.911034,
+    "longitude": 6.98369,
+    "install_date": "2023-10-04",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "98081b4e-eea7-4491-b654-e398dfa691e0",
+    "type": "solar_panel",
+    "latitude": 8.369514,
+    "longitude": 7.500261,
+    "install_date": "2019-12-07",
+    "last_maintenance": "2022-04-06",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "03a7ce8a-ebbd-421a-82a0-b57474464e81",
+    "type": "water_tank",
+    "latitude": 8.975234,
+    "longitude": 13.791726,
+    "install_date": "2020-10-27",
+    "last_maintenance": "2021-06-13",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "4a69a349-7c58-4dcf-badb-491b2748e008",
+    "type": "water_tank",
+    "latitude": 13.950982,
+    "longitude": 4.865478,
+    "install_date": "2018-04-18",
+    "last_maintenance": "2019-05-10",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "9039229a-6cd0-4ddc-99ac-c703fe26eddd",
+    "type": "solar_panel",
+    "latitude": 10.026216,
+    "longitude": 7.813393,
+    "install_date": "2022-09-26",
+    "last_maintenance": "2024-02-25",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "ab4bffd6-7c24-4524-a0cf-a82e2035ea1b",
+    "type": "solar_panel",
+    "latitude": 10.148515,
+    "longitude": 7.919286,
+    "install_date": "2022-03-04",
+    "last_maintenance": "2024-12-28",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "c92810f7-938c-4e05-b780-2c5abb9c8fff",
+    "type": "solar_panel",
+    "latitude": 7.633111,
+    "longitude": 12.313152,
+    "install_date": "2022-08-14",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "0f7f698f-7f08-45d2-891e-36f4027b492c",
+    "type": "water_tank",
+    "latitude": 11.81312,
+    "longitude": 3.117588,
+    "install_date": "2015-10-03",
+    "last_maintenance": "2023-02-25",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "0118df59-b4ba-424f-a45f-a2f0ad0e0235",
+    "type": "water_tank",
+    "latitude": 4.323853,
+    "longitude": 4.541258,
+    "install_date": "2020-01-17",
+    "last_maintenance": "2022-04-17",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "ef7b380d-ee3b-45cd-871b-be7b5ec7a4ed",
+    "type": "borehole",
+    "latitude": 9.294599,
+    "longitude": 7.476409,
+    "install_date": "2022-04-14",
+    "last_maintenance": "2022-10-07",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "2687c1de-bf0e-4aa8-92e1-3d4dc4b79fe0",
+    "type": "water_tank",
+    "latitude": 7.869874,
+    "longitude": 9.440073,
+    "install_date": "2017-12-08",
+    "last_maintenance": "2023-02-07",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "e55e6656-f09f-4e37-9f71-8981d7f4ff80",
+    "type": "water_tank",
+    "latitude": 13.164789,
+    "longitude": 8.594402,
+    "install_date": "2016-05-17",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "d2218db3-6f5f-4013-b68c-b7713462b79d",
+    "type": "water_tank",
+    "latitude": 8.451112,
+    "longitude": 3.753489,
+    "install_date": "2022-08-25",
+    "last_maintenance": "2023-09-16",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "3bdd3da0-b5a2-4dbf-a021-ee0ca2dc7c21",
+    "type": "water_tank",
+    "latitude": 9.421714,
+    "longitude": 13.39598,
+    "install_date": "2024-07-19",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "c72703fe-5f7c-4a25-8ec4-d8148de6e363",
+    "type": "borehole",
+    "latitude": 11.936964,
+    "longitude": 8.805069,
+    "install_date": "2016-05-12",
+    "last_maintenance": "2018-01-30",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "05211c03-f6f0-4dc4-aef0-e8db3c100838",
+    "type": "solar_panel",
+    "latitude": 9.540214,
+    "longitude": 7.126934,
+    "install_date": "2024-01-05",
+    "last_maintenance": "2024-05-10",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "42a0ecae-8ac2-4006-809c-f88b705a8268",
+    "type": "solar_panel",
+    "latitude": 7.9816,
+    "longitude": 11.303203,
+    "install_date": "2020-05-14",
+    "last_maintenance": "2024-11-04",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "b98720af-21e0-402a-bf48-0f4d46ed38f5",
+    "type": "borehole",
+    "latitude": 13.723797,
+    "longitude": 10.408063,
+    "install_date": "2020-01-18",
+    "last_maintenance": "2023-02-10",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "85a4d760-6b4e-47aa-9749-a86ba2c6b5f2",
+    "type": "water_tank",
+    "latitude": 10.397939,
+    "longitude": 4.883558,
+    "install_date": "2016-06-12",
+    "last_maintenance": "2017-03-25",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "edc856eb-47c2-41dd-b289-42e6a09ab37d",
+    "type": "solar_panel",
+    "latitude": 5.646571,
+    "longitude": 6.571929,
+    "install_date": "2022-12-15",
+    "last_maintenance": "2024-07-28",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "d0b2b5f6-a296-41b5-9c0b-fb76ecf51716",
+    "type": "solar_panel",
+    "latitude": 5.963019,
+    "longitude": 14.17622,
+    "install_date": "2018-01-29",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "2bed03e4-3c97-44aa-86f3-f81ecb88ebf4",
+    "type": "water_tank",
+    "latitude": 10.409874,
+    "longitude": 9.801701,
+    "install_date": "2021-07-06",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "f202c6de-5388-4a9e-ac1e-2dd5eb22d6d6",
+    "type": "water_tank",
+    "latitude": 7.376196,
+    "longitude": 13.787157,
+    "install_date": "2015-06-18",
+    "last_maintenance": "2015-12-11",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "5ec1d43f-902a-4119-862d-699ba116d742",
+    "type": "water_tank",
+    "latitude": 6.646559,
+    "longitude": 5.229701,
+    "install_date": "2021-06-01",
+    "last_maintenance": "2021-10-01",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "4a5b7df7-53d9-49f0-a569-8fc07e4670cc",
+    "type": "solar_panel",
+    "latitude": 10.419073,
+    "longitude": 6.325129,
+    "install_date": "2017-09-30",
+    "last_maintenance": "2022-06-19",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "36d61e58-5dc6-4efc-a4bb-05b7cca8cf31",
+    "type": "borehole",
+    "latitude": 5.580804,
+    "longitude": 7.687461,
+    "install_date": "2020-03-17",
+    "last_maintenance": "2023-10-10",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "b2a1bfa1-51b5-49c4-a7cf-9951cae2cff2",
+    "type": "solar_panel",
+    "latitude": 11.341998,
+    "longitude": 13.029328,
+    "install_date": "2019-06-22",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "22cdb151-3603-491c-bab2-c383a83db903",
+    "type": "solar_panel",
+    "latitude": 6.417379,
+    "longitude": 4.170263,
+    "install_date": "2020-01-16",
+    "last_maintenance": "2020-09-30",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "3d47bae2-2429-4bd3-9a8d-7b87bd407be4",
+    "type": "water_tank",
+    "latitude": 8.181347,
+    "longitude": 14.25223,
+    "install_date": "2016-10-16",
+    "last_maintenance": "2023-06-08",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "f77a911f-0128-41a7-8455-2fd4d089f849",
+    "type": "borehole",
+    "latitude": 8.982655,
+    "longitude": 8.876698,
+    "install_date": "2020-08-04",
+    "last_maintenance": "2023-07-18",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "dc7bcd02-2b4c-4ec8-b19c-ab84922af438",
+    "type": "water_tank",
+    "latitude": 8.572306,
+    "longitude": 5.588744,
+    "install_date": "2021-07-17",
+    "last_maintenance": "2021-12-27",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "b0daa266-dd30-46e3-bba2-c038f38abb5a",
+    "type": "water_tank",
+    "latitude": 10.725206,
+    "longitude": 6.128981,
+    "install_date": "2015-02-03",
+    "last_maintenance": "2020-02-02",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "129cc793-f80b-467d-91c0-f226a28d2e5a",
+    "type": "solar_panel",
+    "latitude": 11.638568,
+    "longitude": 7.091248,
+    "install_date": "2019-06-29",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "21afcf07-f26c-44cd-a007-415d055c4a73",
+    "type": "solar_panel",
+    "latitude": 4.735317,
+    "longitude": 8.751066,
+    "install_date": "2023-07-28",
+    "last_maintenance": "2024-11-21",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "b0a47365-df0a-4111-8e74-4796595ae78c",
+    "type": "borehole",
+    "latitude": 5.286634,
+    "longitude": 3.860178,
+    "install_date": "2019-03-09",
+    "last_maintenance": "2023-02-24",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "d32352cb-9a8b-4a32-a997-6650660ea66c",
+    "type": "borehole",
+    "latitude": 5.990579,
+    "longitude": 8.80947,
+    "install_date": "2020-08-10",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "b8c38b9c-d005-4bc5-8b4e-f2ec242d3634",
+    "type": "solar_panel",
+    "latitude": 9.193327,
+    "longitude": 4.487288,
+    "install_date": "2020-10-12",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "c9364d2d-be89-45d2-a4d9-0935290a763d",
+    "type": "solar_panel",
+    "latitude": 13.906157,
+    "longitude": 11.571832,
+    "install_date": "2018-05-10",
+    "last_maintenance": "2024-03-16",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "2d6ecae0-3030-4f7d-803c-a390f334883e",
+    "type": "water_tank",
+    "latitude": 9.629243,
+    "longitude": 8.398711,
+    "install_date": "2015-03-10",
+    "last_maintenance": "2022-11-27",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "c224a1bf-c281-4cc5-bf28-8382207c1e58",
+    "type": "solar_panel",
+    "latitude": 11.967548,
+    "longitude": 11.403891,
+    "install_date": "2022-09-19",
+    "last_maintenance": "2024-07-21",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "18c4769a-110f-4774-b8e2-94f5cdb0016e",
+    "type": "water_tank",
+    "latitude": 9.776344,
+    "longitude": 11.356801,
+    "install_date": "2021-07-18",
+    "last_maintenance": "2024-08-24",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "795c9da9-e3c1-44b0-9d79-40c8afc4838e",
+    "type": "solar_panel",
+    "latitude": 5.477757,
+    "longitude": 10.868723,
+    "install_date": "2015-05-10",
+    "last_maintenance": "2023-05-17",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "38bbd8a9-b471-476d-aae5-b0e29bd535d6",
+    "type": "solar_panel",
+    "latitude": 8.187803,
+    "longitude": 7.655521,
+    "install_date": "2017-04-15",
+    "last_maintenance": "2024-04-22",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "cfc0b362-b156-40e8-9303-e54786b389e8",
+    "type": "water_tank",
+    "latitude": 11.274021,
+    "longitude": 11.169303,
+    "install_date": "2020-10-25",
+    "last_maintenance": "2022-10-20",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "449659ad-065b-47f2-b255-53a0ed26fcef",
+    "type": "solar_panel",
+    "latitude": 7.137526,
+    "longitude": 4.778189,
+    "install_date": "2020-12-23",
+    "last_maintenance": "2023-02-16",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "334fcec3-5e8f-44b9-9460-6f6fa9ac8ab6",
+    "type": "water_tank",
+    "latitude": 10.433091,
+    "longitude": 11.01976,
+    "install_date": "2021-11-03",
+    "last_maintenance": "2023-05-21",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "d65b585c-776f-4708-ba55-0aaa166774a6",
+    "type": "solar_panel",
+    "latitude": 11.711743,
+    "longitude": 11.158811,
+    "install_date": "2022-09-28",
+    "last_maintenance": "2023-10-17",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "1f4dca50-09d6-48ef-9192-f93e0086638e",
+    "type": "water_tank",
+    "latitude": 6.734575,
+    "longitude": 4.162489,
+    "install_date": "2022-08-03",
+    "last_maintenance": "2023-11-10",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "4a6815fa-fc21-423a-ac59-c0e9bd175d45",
+    "type": "borehole",
+    "latitude": 6.904527,
+    "longitude": 6.151564,
+    "install_date": "2023-01-04",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "31f7a63f-944b-41ae-92ba-136c335ead3b",
+    "type": "water_tank",
+    "latitude": 8.790793,
+    "longitude": 5.124816,
+    "install_date": "2021-01-15",
+    "last_maintenance": "2024-05-10",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "ded8ee5d-69d7-47e8-bd8b-8834c937f28c",
+    "type": "water_tank",
+    "latitude": 11.40891,
+    "longitude": 5.571385,
+    "install_date": "2015-07-27",
+    "last_maintenance": "2021-09-08",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "f4dd1a2f-9cdd-4248-ac35-3e9f9d8ad41f",
+    "type": "borehole",
+    "latitude": 8.133014,
+    "longitude": 11.308297,
+    "install_date": "2016-02-16",
+    "last_maintenance": "2017-10-31",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "8467c485-b7b4-4cca-ac2c-5d6f0387b047",
+    "type": "borehole",
+    "latitude": 8.069075,
+    "longitude": 13.920385,
+    "install_date": "2024-11-06",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "cdbd5d4e-bbd9-4274-84ad-331da8a76daf",
+    "type": "solar_panel",
+    "latitude": 7.211677,
+    "longitude": 10.450775,
+    "install_date": "2023-08-15",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "9877772f-e43e-4294-a2f1-e7999521bf9b",
+    "type": "water_tank",
+    "latitude": 12.503331,
+    "longitude": 3.147579,
+    "install_date": "2016-12-18",
+    "last_maintenance": "2019-02-06",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "0d4b5ef2-6181-4199-a43d-4a40b52bd447",
+    "type": "solar_panel",
+    "latitude": 11.879606,
+    "longitude": 4.93574,
+    "install_date": "2023-05-26",
+    "last_maintenance": "2024-05-16",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "f9553ab1-2793-42af-bc36-753e3c495712",
+    "type": "water_tank",
+    "latitude": 10.02783,
+    "longitude": 13.841458,
+    "install_date": "2018-10-04",
+    "last_maintenance": "2024-10-19",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "6d905608-b970-4b97-8817-9a21da131c8e",
+    "type": "water_tank",
+    "latitude": 8.680208,
+    "longitude": 5.013737,
+    "install_date": "2016-04-06",
+    "last_maintenance": "2024-08-16",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "8eecc840-1b9d-429c-94f1-1482f7ec8207",
+    "type": "borehole",
+    "latitude": 4.140842,
+    "longitude": 6.745346,
+    "install_date": "2018-04-23",
+    "last_maintenance": "2020-08-21",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "f1f2b127-80b2-4508-8896-fb134ad73fc8",
+    "type": "solar_panel",
+    "latitude": 12.269898,
+    "longitude": 8.883368,
+    "install_date": "2015-12-22",
+    "last_maintenance": "2017-03-16",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "5f4fe9da-41e4-4f6e-9922-162c7b2d9e0f",
+    "type": "solar_panel",
+    "latitude": 13.358254,
+    "longitude": 2.781961,
+    "install_date": "2019-04-21",
+    "last_maintenance": "2023-09-10",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "231b2abf-f37d-4470-b00e-80841710ebec",
+    "type": "water_tank",
+    "latitude": 11.228825,
+    "longitude": 2.837229,
+    "install_date": "2022-05-01",
+    "last_maintenance": "2023-02-26",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "9c5a5de1-5822-42b0-b6e3-0bab58724441",
+    "type": "solar_panel",
+    "latitude": 5.597168,
+    "longitude": 10.932883,
+    "install_date": "2024-12-15",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "be973a84-c392-46c5-8e95-ab754d8bde2b",
+    "type": "solar_panel",
+    "latitude": 7.675439,
+    "longitude": 5.350191,
+    "install_date": "2016-07-01",
+    "last_maintenance": "2021-10-06",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "b54f6c2b-31e5-44a6-8315-297a7cf1a426",
+    "type": "solar_panel",
+    "latitude": 11.019407,
+    "longitude": 13.653563,
+    "install_date": "2023-06-30",
+    "last_maintenance": "2024-08-03",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "11d2d3f9-7a8c-4edd-bd1f-ad1f2463b9dc",
+    "type": "water_tank",
+    "latitude": 11.547395,
+    "longitude": 13.177621,
+    "install_date": "2015-12-02",
+    "last_maintenance": "2022-01-02",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "a1ecd7c5-859c-4079-bb3c-3382bc3be6ba",
+    "type": "water_tank",
+    "latitude": 5.122088,
+    "longitude": 12.645289,
+    "install_date": "2020-09-01",
+    "last_maintenance": "2023-11-04",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "d3f3072b-611d-4d19-ac83-87469b1d9d8f",
+    "type": "water_tank",
+    "latitude": 8.418406,
+    "longitude": 10.863543,
+    "install_date": "2023-01-15",
+    "last_maintenance": "2023-06-17",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "57140dff-5e42-487e-8050-ff30d2325d07",
+    "type": "borehole",
+    "latitude": 8.534323,
+    "longitude": 8.858974,
+    "install_date": "2020-02-15",
+    "last_maintenance": "2023-06-03",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "7b07fe83-0993-4c59-b3cf-3fe1dd26e72f",
+    "type": "water_tank",
+    "latitude": 4.217705,
+    "longitude": 5.753487,
+    "install_date": "2015-01-13",
+    "last_maintenance": "2021-09-06",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "cef537ff-2a8e-405b-836d-e926acf822be",
+    "type": "water_tank",
+    "latitude": 4.637599,
+    "longitude": 14.629484,
+    "install_date": "2015-10-10",
+    "last_maintenance": "2021-03-25",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "d7cef105-320d-4952-8a40-f664bcafafd1",
+    "type": "borehole",
+    "latitude": 11.658277,
+    "longitude": 14.439999,
+    "install_date": "2022-03-30",
+    "last_maintenance": "2023-06-16",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "d745745b-4699-442b-9e7d-aab54ac497a4",
+    "type": "solar_panel",
+    "latitude": 7.756455,
+    "longitude": 10.892764,
+    "install_date": "2022-06-03",
+    "last_maintenance": "2022-12-16",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "d96b22ae-91f0-4c2a-a6ad-16dc52904d14",
+    "type": "borehole",
+    "latitude": 13.928468,
+    "longitude": 7.416704,
+    "install_date": "2016-06-05",
+    "last_maintenance": "2019-02-02",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "c6313ffc-b115-4260-8c64-2c87f56e5953",
+    "type": "solar_panel",
+    "latitude": 8.630039,
+    "longitude": 11.329128,
+    "install_date": "2019-10-04",
+    "last_maintenance": "2024-07-15",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "c756e5a5-3912-4361-b458-4618244309e7",
+    "type": "borehole",
+    "latitude": 6.756497,
+    "longitude": 13.948924,
+    "install_date": "2023-02-17",
+    "last_maintenance": "2023-05-20",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "b2c39816-52b7-43c4-80b0-058a65314ca7",
+    "type": "borehole",
+    "latitude": 6.406663,
+    "longitude": 3.507491,
+    "install_date": "2021-08-29",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "8f6d2abc-fa33-4ab9-9acb-f40065d31966",
+    "type": "borehole",
+    "latitude": 6.447342,
+    "longitude": 3.230841,
+    "install_date": "2019-12-03",
+    "last_maintenance": "2021-04-20",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "6d8d9826-b4bf-4089-a59e-cf2981ad4f02",
+    "type": "borehole",
+    "latitude": 9.038958,
+    "longitude": 6.171161,
+    "install_date": "2024-02-24",
+    "last_maintenance": "2024-09-18",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "b7f66d36-bdce-4d88-b666-3ac74da248da",
+    "type": "water_tank",
+    "latitude": 12.183825,
+    "longitude": 5.542848,
+    "install_date": "2024-10-29",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "aaf52ef5-c6c8-477a-a7c0-e41818cf1948",
+    "type": "solar_panel",
+    "latitude": 6.751539,
+    "longitude": 9.380617,
+    "install_date": "2021-08-20",
+    "last_maintenance": "2022-10-12",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "672269b5-0f66-4f59-8f94-0a073aa321f3",
+    "type": "solar_panel",
+    "latitude": 4.468841,
+    "longitude": 6.832978,
+    "install_date": "2022-03-20",
+    "last_maintenance": "2024-07-31",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "fab729ee-adcd-4afd-b185-c64bc17e6638",
+    "type": "solar_panel",
+    "latitude": 5.492176,
+    "longitude": 7.217522,
+    "install_date": "2023-06-18",
+    "last_maintenance": "2023-12-18",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "e874e5bd-f188-4f6c-b85d-49f9a131e54a",
+    "type": "water_tank",
+    "latitude": 5.443517,
+    "longitude": 8.256302,
+    "install_date": "2015-08-25",
+    "last_maintenance": "2020-06-25",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "b5c26cb3-e3dd-4b55-8cc5-c2ee9a3889df",
+    "type": "borehole",
+    "latitude": 6.549956,
+    "longitude": 6.663156,
+    "install_date": "2015-11-20",
+    "last_maintenance": "2020-03-17",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "3b5a0ee5-0c43-4e6a-b478-7471ad1d4d6f",
+    "type": "borehole",
+    "latitude": 4.515366,
+    "longitude": 7.226016,
+    "install_date": "2021-10-13",
+    "last_maintenance": "2022-05-10",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "e4a6b9e3-609c-4da1-b3d5-e4fe0a9d5ca5",
+    "type": "water_tank",
+    "latitude": 10.714505,
+    "longitude": 5.304198,
+    "install_date": "2017-05-05",
+    "last_maintenance": "2021-03-28",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "bcce56ea-42cb-4d10-b2c3-df17bf76a0c0",
+    "type": "borehole",
+    "latitude": 13.371598,
+    "longitude": 14.244931,
+    "install_date": "2016-04-25",
+    "last_maintenance": "2024-12-08",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "b47d3d78-0f33-4b49-9003-1aee1ed88874",
+    "type": "water_tank",
+    "latitude": 11.037686,
+    "longitude": 7.459585,
+    "install_date": "2017-09-07",
+    "last_maintenance": "2021-01-08",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "335b8654-1f20-4e9c-b906-2e47659efb0f",
+    "type": "solar_panel",
+    "latitude": 7.084223,
+    "longitude": 7.015735,
+    "install_date": "2024-11-24",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "f9772fef-dff8-40e3-b067-5dbe6276cc36",
+    "type": "solar_panel",
+    "latitude": 11.61629,
+    "longitude": 6.542799,
+    "install_date": "2017-04-12",
+    "last_maintenance": "2022-01-31",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "67c06aa1-4976-40e1-887b-8e3943511f43",
+    "type": "water_tank",
+    "latitude": 5.459227,
+    "longitude": 5.829289,
+    "install_date": "2021-07-20",
+    "last_maintenance": "2024-01-21",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "32ca4b4d-5698-499d-88d1-9e82fefde37a",
+    "type": "borehole",
+    "latitude": 7.798398,
+    "longitude": 12.700353,
+    "install_date": "2020-08-07",
+    "last_maintenance": "2024-08-08",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "849a6810-f921-41a7-8baf-8bc60618ed04",
+    "type": "solar_panel",
+    "latitude": 13.665083,
+    "longitude": 10.400333,
+    "install_date": "2020-07-02",
+    "last_maintenance": "2024-10-09",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "62adc8cf-972b-4653-b041-be6e7c1b27bf",
+    "type": "water_tank",
+    "latitude": 9.465463,
+    "longitude": 4.908573,
+    "install_date": "2024-12-21",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "a8600518-3556-44b6-af05-234e2391d02d",
+    "type": "borehole",
+    "latitude": 12.390685,
+    "longitude": 3.591965,
+    "install_date": "2024-03-04",
+    "last_maintenance": "2024-11-14",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "592b3551-a4c6-434b-baec-0f4f879fce42",
+    "type": "water_tank",
+    "latitude": 6.314334,
+    "longitude": 11.186035,
+    "install_date": "2015-02-07",
+    "last_maintenance": "2020-05-18",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "999033b0-2260-4099-9d1c-9482e97963e8",
+    "type": "water_tank",
+    "latitude": 13.339037,
+    "longitude": 13.653017,
+    "install_date": "2022-05-24",
+    "last_maintenance": "2022-07-29",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "5bfa0338-feb7-473e-8e99-469c5a964dbc",
+    "type": "borehole",
+    "latitude": 9.294176,
+    "longitude": 5.996889,
+    "install_date": "2018-03-20",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "180d517c-9650-433b-b469-0e10007b065c",
+    "type": "borehole",
+    "latitude": 5.070164,
+    "longitude": 3.855767,
+    "install_date": "2016-09-01",
+    "last_maintenance": "2023-10-13",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "b81919f1-900c-47cf-ae65-259fe67e5dfc",
+    "type": "solar_panel",
+    "latitude": 11.949363,
+    "longitude": 3.648231,
+    "install_date": "2019-07-22",
+    "last_maintenance": "2021-01-30",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "e2e4a955-788f-4c61-8e2a-3a50ffce2340",
+    "type": "water_tank",
+    "latitude": 12.280621,
+    "longitude": 3.667403,
+    "install_date": "2024-08-16",
+    "last_maintenance": "2024-10-19",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "86fa8c2f-2bc9-438b-a474-2180b5ed94ba",
+    "type": "water_tank",
+    "latitude": 8.760051,
+    "longitude": 10.340977,
+    "install_date": "2022-11-18",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "35bf76e0-4fc8-4664-b7da-7af37044a850",
+    "type": "solar_panel",
+    "latitude": 9.658566,
+    "longitude": 12.995524,
+    "install_date": "2016-01-26",
+    "last_maintenance": "2016-09-16",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "af2823eb-cba1-4ba1-ba09-94313a797a5f",
+    "type": "water_tank",
+    "latitude": 12.875543,
+    "longitude": 8.406003,
+    "install_date": "2015-07-10",
+    "last_maintenance": "2023-05-12",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "64a9e94c-865b-409b-abd8-71e510c0b58d",
+    "type": "water_tank",
+    "latitude": 10.581092,
+    "longitude": 4.852254,
+    "install_date": "2024-07-15",
+    "last_maintenance": "2024-10-09",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "59755d0e-cb65-4036-af21-173bd8cf1808",
+    "type": "water_tank",
+    "latitude": 12.209024,
+    "longitude": 13.846499,
+    "install_date": "2018-05-10",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "545cb00f-d521-450f-b0ef-0894174c465e",
+    "type": "solar_panel",
+    "latitude": 10.77035,
+    "longitude": 9.186749,
+    "install_date": "2019-04-22",
+    "last_maintenance": "2020-04-02",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "e6680134-7a3c-4e82-98fc-a3532772f36b",
+    "type": "borehole",
+    "latitude": 9.007929,
+    "longitude": 14.39188,
+    "install_date": "2015-08-08",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "0091e1bb-2169-425c-9c65-8fc627a11d1a",
+    "type": "water_tank",
+    "latitude": 11.690057,
+    "longitude": 14.158301,
+    "install_date": "2019-06-13",
+    "last_maintenance": "2021-06-10",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "59054137-7360-4613-a1d8-603d1b8f22ed",
+    "type": "solar_panel",
+    "latitude": 8.906035,
+    "longitude": 6.969734,
+    "install_date": "2019-03-18",
+    "last_maintenance": "2023-08-20",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "6a7fd84a-b833-479b-a45f-ed7cd1e3452d",
+    "type": "borehole",
+    "latitude": 11.131085,
+    "longitude": 3.684456,
+    "install_date": "2016-09-23",
+    "last_maintenance": "2024-01-01",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "5923caec-4ab4-47e6-ab86-087f7aba162b",
+    "type": "solar_panel",
+    "latitude": 5.065509,
+    "longitude": 2.762343,
+    "install_date": "2018-06-16",
+    "last_maintenance": "2021-08-23",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "0a6cf7e0-3c90-4dd3-a6c3-41b72c89582f",
+    "type": "solar_panel",
+    "latitude": 8.488437,
+    "longitude": 9.35688,
+    "install_date": "2019-07-30",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "bf9ae7de-13f4-4b70-a34e-4156d7dcd9f3",
+    "type": "water_tank",
+    "latitude": 9.980438,
+    "longitude": 6.593164,
+    "install_date": "2019-04-27",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "a83a9797-2af7-4dfc-b206-8bc92b385fb0",
+    "type": "water_tank",
+    "latitude": 13.01136,
+    "longitude": 13.562491,
+    "install_date": "2017-09-21",
+    "last_maintenance": "2019-10-15",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "978dc1a6-1dab-4d14-bf81-6aee51b408da",
+    "type": "solar_panel",
+    "latitude": 7.011313,
+    "longitude": 8.617487,
+    "install_date": "2015-09-17",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "a76503f2-261d-46dd-857e-df0ee7d41eb5",
+    "type": "borehole",
+    "latitude": 7.611249,
+    "longitude": 14.030668,
+    "install_date": "2023-01-31",
+    "last_maintenance": "2024-11-29",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "026be7d4-049e-4786-a388-f2715c03564b",
+    "type": "borehole",
+    "latitude": 7.04658,
+    "longitude": 14.085882,
+    "install_date": "2018-09-22",
+    "last_maintenance": "2023-02-24",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "8c892e7c-6a66-47d5-9a5b-bfbb0d83938b",
+    "type": "solar_panel",
+    "latitude": 8.306162,
+    "longitude": 12.582423,
+    "install_date": "2022-04-20",
+    "last_maintenance": "2022-11-05",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "f66ed284-0d29-4b98-b64d-affba7c9a70f",
+    "type": "water_tank",
+    "latitude": 6.008515,
+    "longitude": 6.470199,
+    "install_date": "2019-06-20",
+    "last_maintenance": "2021-04-06",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "706acf2e-caa9-4ae0-8ac0-a1275c9d9247",
+    "type": "water_tank",
+    "latitude": 11.819744,
+    "longitude": 6.610635,
+    "install_date": "2018-02-22",
+    "last_maintenance": "2022-09-18",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "58d44017-eecb-4d0b-8f63-8414d9ece224",
+    "type": "borehole",
+    "latitude": 9.92227,
+    "longitude": 9.247549,
+    "install_date": "2022-08-24",
+    "last_maintenance": "2022-11-19",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "7e9aba6c-0d61-4996-870d-5d6c266c8c10",
+    "type": "water_tank",
+    "latitude": 6.096484,
+    "longitude": 12.272226,
+    "install_date": "2024-04-27",
+    "last_maintenance": "2024-10-08",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "dddc510c-3d8c-47e9-83cc-d3231eef75fc",
+    "type": "solar_panel",
+    "latitude": 6.420212,
+    "longitude": 10.603956,
+    "install_date": "2023-01-08",
+    "last_maintenance": "2024-03-29",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "283bb98c-1f84-406a-bd4b-4dc7f7aa065c",
+    "type": "solar_panel",
+    "latitude": 9.82244,
+    "longitude": 9.112409,
+    "install_date": "2024-10-02",
+    "last_maintenance": "2024-12-18",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "2e75fed0-327f-4305-9a72-363698acfdc4",
+    "type": "water_tank",
+    "latitude": 12.955015,
+    "longitude": 9.142872,
+    "install_date": "2022-02-26",
+    "last_maintenance": "2022-08-16",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "873542ae-c730-4ab8-ba6e-e26f7fb6cc79",
+    "type": "solar_panel",
+    "latitude": 5.663385,
+    "longitude": 10.052135,
+    "install_date": "2021-04-25",
+    "last_maintenance": "2023-09-20",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "ead17c41-8139-4e8a-9e3a-4bfd373d6b99",
+    "type": "solar_panel",
+    "latitude": 5.059446,
+    "longitude": 3.883279,
+    "install_date": "2017-06-28",
+    "last_maintenance": "2023-06-21",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "247a4bb8-6df0-408c-ad30-92d8e572903e",
+    "type": "borehole",
+    "latitude": 8.457786,
+    "longitude": 7.39361,
+    "install_date": "2023-08-30",
+    "last_maintenance": "2024-10-16",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "86051c5b-cb75-41b4-8c37-ed5e51d63257",
+    "type": "borehole",
+    "latitude": 8.827711,
+    "longitude": 6.245187,
+    "install_date": "2015-12-18",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "0a45ef6e-3f68-4a0a-8a00-04038353c566",
+    "type": "solar_panel",
+    "latitude": 7.430667,
+    "longitude": 12.11124,
+    "install_date": "2020-11-04",
+    "last_maintenance": "2023-09-05",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "835d6a17-e9cb-44f1-84be-03be847714ed",
+    "type": "solar_panel",
+    "latitude": 7.189095,
+    "longitude": 6.303169,
+    "install_date": "2024-02-01",
+    "last_maintenance": "2024-04-12",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "fd82ec1d-8550-477d-85bf-db1f072c2a07",
+    "type": "water_tank",
+    "latitude": 12.000501,
+    "longitude": 13.859069,
+    "install_date": "2023-04-22",
+    "last_maintenance": "2023-12-16",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "43588906-46b2-4506-af46-a2377716565a",
+    "type": "solar_panel",
+    "latitude": 13.584626,
+    "longitude": 5.482267,
+    "install_date": "2019-07-18",
+    "last_maintenance": "2020-10-01",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "7fb7cd31-25e1-41df-8f35-a13ecb34684e",
+    "type": "borehole",
+    "latitude": 11.373884,
+    "longitude": 13.297168,
+    "install_date": "2020-01-16",
+    "last_maintenance": "2022-05-21",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "0f718eb4-1c00-4f67-8ccc-24c229334921",
+    "type": "solar_panel",
+    "latitude": 11.523255,
+    "longitude": 12.404757,
+    "install_date": "2015-09-14",
+    "last_maintenance": "2024-10-30",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "5506ee94-3736-43e5-b0aa-ce8a2aaa017b",
+    "type": "solar_panel",
+    "latitude": 5.970743,
+    "longitude": 4.06746,
+    "install_date": "2022-07-10",
+    "last_maintenance": "2024-03-01",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "74d7060a-254a-4f09-b2b2-8217f6fce90b",
+    "type": "solar_panel",
+    "latitude": 10.113084,
+    "longitude": 9.744057,
+    "install_date": "2018-11-26",
+    "last_maintenance": "2024-03-14",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "0df14a1a-f359-4289-be80-47bc8f7a0a1e",
+    "type": "water_tank",
+    "latitude": 12.006134,
+    "longitude": 13.724191,
+    "install_date": "2021-08-14",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "2e3a5f82-50c9-48ec-a33e-f83f7394f812",
+    "type": "solar_panel",
+    "latitude": 5.169489,
+    "longitude": 7.179673,
+    "install_date": "2016-08-02",
+    "last_maintenance": "2021-06-10",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "518e304c-632e-496c-8c67-bdaf68e9caa4",
+    "type": "solar_panel",
+    "latitude": 5.857537,
+    "longitude": 10.32602,
+    "install_date": "2022-10-11",
+    "last_maintenance": "2023-06-05",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "6c381a27-476d-455b-bf29-eb18ebf91674",
+    "type": "borehole",
+    "latitude": 5.870986,
+    "longitude": 12.803823,
+    "install_date": "2021-12-12",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "57b19622-b7ed-4b8c-a4e7-21a82afa4bfb",
+    "type": "borehole",
+    "latitude": 5.951285,
+    "longitude": 7.30733,
+    "install_date": "2021-04-19",
+    "last_maintenance": "2024-03-27",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "2abe5361-55a7-4753-b57a-da72ad60a3e7",
+    "type": "water_tank",
+    "latitude": 12.398918,
+    "longitude": 8.564394,
+    "install_date": "2015-12-05",
+    "last_maintenance": "2024-08-16",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "550d8f65-9669-449d-a4e8-28733e97e88b",
+    "type": "borehole",
+    "latitude": 9.376086,
+    "longitude": 4.718508,
+    "install_date": "2020-02-17",
+    "last_maintenance": "2024-08-16",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "9501d22e-375a-44ed-84aa-46f79397bbe3",
+    "type": "borehole",
+    "latitude": 9.727141,
+    "longitude": 5.914667,
+    "install_date": "2021-02-02",
+    "last_maintenance": "2023-04-24",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "21981de1-4bf5-42b6-95d1-c5e00b30c81f",
+    "type": "water_tank",
+    "latitude": 8.413666,
+    "longitude": 5.322503,
+    "install_date": "2019-10-08",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "b7a06954-a366-4a25-a351-9d071bc37b94",
+    "type": "solar_panel",
+    "latitude": 12.748098,
+    "longitude": 3.086765,
+    "install_date": "2017-12-12",
+    "last_maintenance": "2019-02-01",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "3cd5059f-95bd-4fb3-a34a-7fea45141c23",
+    "type": "borehole",
+    "latitude": 6.098782,
+    "longitude": 11.551356,
+    "install_date": "2022-09-23",
+    "last_maintenance": "2024-11-18",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "19ee8693-04c4-4188-85c6-0c01f3b55f46",
+    "type": "water_tank",
+    "latitude": 5.39235,
+    "longitude": 5.179436,
+    "install_date": "2017-04-27",
+    "last_maintenance": "2023-11-17",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "0f33a93c-1f35-40e1-aef2-6081bda43ef2",
+    "type": "water_tank",
+    "latitude": 5.683774,
+    "longitude": 14.448002,
+    "install_date": "2018-04-13",
+    "last_maintenance": "2021-06-11",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "bacc8a0d-3a56-4643-a330-668d943840a1",
+    "type": "water_tank",
+    "latitude": 12.151809,
+    "longitude": 4.327067,
+    "install_date": "2023-05-31",
+    "last_maintenance": "2023-09-28",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "43215fd9-c880-44aa-9af7-594b0ab9741d",
+    "type": "borehole",
+    "latitude": 11.014265,
+    "longitude": 4.29229,
+    "install_date": "2016-08-22",
+    "last_maintenance": "2019-07-31",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "c68dcae1-7305-4835-a3c5-55d5faa87438",
+    "type": "solar_panel",
+    "latitude": 5.421716,
+    "longitude": 10.288824,
+    "install_date": "2022-01-15",
+    "last_maintenance": "2023-06-21",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "bb34a171-ca1c-4d3b-83f4-70edc915b4b1",
+    "type": "borehole",
+    "latitude": 8.028508,
+    "longitude": 11.697629,
+    "install_date": "2022-10-16",
+    "last_maintenance": "2023-12-27",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "e31a9920-57ff-4ac4-a3ca-74b91f52280b",
+    "type": "water_tank",
+    "latitude": 4.024731,
+    "longitude": 11.989623,
+    "install_date": "2023-03-21",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "bcf2d3e2-2ae1-4807-8929-863dbc1ae19b",
+    "type": "water_tank",
+    "latitude": 7.582227,
+    "longitude": 3.459968,
+    "install_date": "2020-12-29",
+    "last_maintenance": "2023-07-26",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "feeb0fd2-fbf4-4794-8ad8-215aeb14cb51",
+    "type": "solar_panel",
+    "latitude": 12.283436,
+    "longitude": 6.753062,
+    "install_date": "2021-06-25",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "6552134c-476c-4656-a92c-4c34105f5f1a",
+    "type": "water_tank",
+    "latitude": 11.62254,
+    "longitude": 3.251315,
+    "install_date": "2022-01-08",
+    "last_maintenance": "2024-10-05",
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "bfe42372-0d77-47c7-950a-a494a36abcae",
+    "type": "borehole",
+    "latitude": 8.412859,
+    "longitude": 2.708111,
+    "install_date": "2019-10-19",
+    "last_maintenance": "2023-10-28",
+    "status": "non-functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "90117410-14c4-4826-8b32-6f30c2978860",
+    "type": "solar_panel",
+    "latitude": 5.589775,
+    "longitude": 13.892707,
+    "install_date": "2018-01-27",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "31ef8c3e-06af-4d72-8806-36b797faaa63",
+    "type": "water_tank",
+    "latitude": 13.038003,
+    "longitude": 4.686301,
+    "install_date": "2019-06-12",
+    "last_maintenance": "2023-09-05",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "ef80767b-b9d0-4958-8735-a8311ea84ca0",
+    "type": "water_tank",
+    "latitude": 4.911992,
+    "longitude": 3.842204,
+    "install_date": "2017-05-24",
+    "last_maintenance": "2019-01-17",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "bf889153-d8a5-48a1-a121-a5436161c70a",
+    "type": "solar_panel",
+    "latitude": 4.092869,
+    "longitude": 11.047165,
+    "install_date": "2024-02-29",
+    "last_maintenance": null,
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "4f1a09ef-ca7e-45ad-85ac-511748985998",
+    "type": "solar_panel",
+    "latitude": 4.708283,
+    "longitude": 7.296839,
+    "install_date": "2023-03-13",
+    "last_maintenance": "2023-08-25",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "e1f17ad5-1bbe-4c7c-8bbd-656cf9ed8a2d",
+    "type": "borehole",
+    "latitude": 7.82721,
+    "longitude": 12.460415,
+    "install_date": "2024-10-21",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "dd0ecb1f-dbb7-47ac-abb8-55740d3ffe69",
+    "type": "water_tank",
+    "latitude": 9.632912,
+    "longitude": 10.023831,
+    "install_date": "2016-11-03",
+    "last_maintenance": "2019-05-24",
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "ae8faae4-3e94-434d-aa8d-e50c97dbadb1",
+    "type": "solar_panel",
+    "latitude": 10.16076,
+    "longitude": 8.008606,
+    "install_date": "2017-06-08",
+    "last_maintenance": null,
+    "status": "non-functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "ec82c897-2d88-4fe6-83b8-c168dbe3f9f1",
+    "type": "water_tank",
+    "latitude": 11.300091,
+    "longitude": 6.918428,
+    "install_date": "2019-10-25",
+    "last_maintenance": "2020-10-05",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "1ce4f41a-6f46-45b1-b8ac-8f1ed919f90f",
+    "type": "borehole",
+    "latitude": 9.533966,
+    "longitude": 9.900094,
+    "install_date": "2021-10-24",
+    "last_maintenance": "2022-02-15",
+    "status": "degraded",
+    "usage_level": "high"
+  },
+  {
+    "id": "74046e65-ce03-4ede-82b6-1547f8f6bf35",
+    "type": "solar_panel",
+    "latitude": 6.054457,
+    "longitude": 9.983122,
+    "install_date": "2017-02-11",
+    "last_maintenance": "2020-08-04",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "b7688ad3-3062-4844-8772-f9d29e7f3aba",
+    "type": "borehole",
+    "latitude": 8.948877,
+    "longitude": 4.052924,
+    "install_date": "2020-08-08",
+    "last_maintenance": "2021-03-01",
+    "status": "non-functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "28231a30-7ac2-476b-b0cd-e2b6123e2d6d",
+    "type": "solar_panel",
+    "latitude": 13.339244,
+    "longitude": 4.283795,
+    "install_date": "2024-08-26",
+    "last_maintenance": "2024-12-17",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "99c7de5c-3332-42de-bce1-bc336a11aca6",
+    "type": "solar_panel",
+    "latitude": 13.54453,
+    "longitude": 11.944405,
+    "install_date": "2015-03-10",
+    "last_maintenance": "2015-07-04",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "34a5a01f-3844-4e29-a04e-36f8fbe984f5",
+    "type": "borehole",
+    "latitude": 13.4868,
+    "longitude": 7.4757,
+    "install_date": "2018-03-19",
+    "last_maintenance": "2023-12-30",
+    "status": "functional",
+    "usage_level": "high"
+  },
+  {
+    "id": "8326fca2-c1bb-4a67-af6f-ec182c189837",
+    "type": "solar_panel",
+    "latitude": 4.824278,
+    "longitude": 9.138778,
+    "install_date": "2021-11-28",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "f2008e48-45d0-4188-9051-b32e3a01dea7",
+    "type": "borehole",
+    "latitude": 13.743134,
+    "longitude": 4.564526,
+    "install_date": "2018-08-31",
+    "last_maintenance": "2019-07-27",
+    "status": "degraded",
+    "usage_level": "medium"
+  },
+  {
+    "id": "76ea7001-df89-49ee-af19-767bfd4d2e3a",
+    "type": "borehole",
+    "latitude": 4.579059,
+    "longitude": 3.734554,
+    "install_date": "2019-11-15",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "medium"
+  },
+  {
+    "id": "629bfa64-918c-4c98-aca4-469923e027fb",
+    "type": "water_tank",
+    "latitude": 11.416935,
+    "longitude": 11.587898,
+    "install_date": "2016-05-04",
+    "last_maintenance": null,
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "73d36079-34b7-4656-90eb-563497d4aff8",
+    "type": "solar_panel",
+    "latitude": 13.530162,
+    "longitude": 8.976064,
+    "install_date": "2023-10-13",
+    "last_maintenance": "2024-04-22",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "72c55aa5-b062-48de-9f53-cd1a5ab70b9d",
+    "type": "solar_panel",
+    "latitude": 11.329358,
+    "longitude": 4.116681,
+    "install_date": "2015-05-01",
+    "last_maintenance": "2020-04-22",
+    "status": "functional",
+    "usage_level": "low"
+  },
+  {
+    "id": "70f09679-aa31-451d-8dcd-fb6f6befc2f9",
+    "type": "water_tank",
+    "latitude": 13.750506,
+    "longitude": 10.230394,
+    "install_date": "2020-07-25",
+    "last_maintenance": "2022-09-30",
+    "status": "degraded",
+    "usage_level": "low"
+  },
+  {
+    "id": "2cc32f12-ac79-4045-a8ca-2326e288f907",
+    "type": "borehole",
+    "latitude": 7.676878,
+    "longitude": 5.761393,
+    "install_date": "2016-02-26",
+    "last_maintenance": "2023-11-17",
+    "status": "functional",
+    "usage_level": "medium"
+  }
+]

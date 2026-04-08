@@ -1,0 +1,72 @@
+NGO FIELD REPORT — RURAL INFRASTRUCTURE ASSESSMENT
+Report ID: RPT-020
+Date: 2024-08-06
+Organization: Plan International
+Reporting Officer: Engineer Zainab Abubakar
+Region: Abakaliki, Ebonyi State, Nigeria
+
+EXECUTIVE SUMMARY
+=================
+Field assessment mission to Abakaliki and surrounding LGAs in Ebonyi State. 3 infrastructure assets inspected over 6 days. Mission focus: water access and energy infrastructure serving rural and peri-urban communities.
+
+SITE ASSESSMENTS
+================
+
+Site 1: Solar PV system (9.1 kW, installed 2023) [ID: DDDC510C…]
+Location: GPS: 6.4202°N, 10.6040°E — Abakaliki
+Asset Type: Solar Panel
+Install Date: 2023-01-08
+Last Maintenance: 2024-03-29
+Current Status: NON-FUNCTIONAL
+Usage Level: Low
+
+Issue Description:
+  System completely offline. Inverter failure — no AC output. Installed in 2023; significant age-related component wear. Community facility (clinic / school) without power.
+
+Maintenance History:
+  Full system replacement assessment needed. Estimated replacement cost: USD 16,941.
+
+Site 2: Hand-pump borehole (installed 2021) [ID: 3B5A0EE5…]
+Location: GPS: 4.5154°N, 7.2260°E — Abakaliki
+Asset Type: Borehole
+Install Date: 2021-10-13
+Last Maintenance: 2022-05-10
+Current Status: DEGRADED
+Usage Level: Low
+
+Issue Description:
+  Pump stroke output reduced by approximately 30–40% compared to installation baseline. Leakage detected at pump head seal. Community of ~886 people partially relying on unsafe surface sources.
+
+Maintenance History:
+  Last maintenance was over 18 months ago. Recommend full pump overhaul within 60 days.
+
+Site 3: Hand-pump borehole (installed 2020) [ID: FB72F04F…]
+Location: GPS: 10.9061°N, 10.4508°E — Abakaliki
+Asset Type: Borehole
+Install Date: 2020-07-03
+Last Maintenance: 2020-10-06
+Current Status: FUNCTIONAL
+Usage Level: Low
+
+Issue Description:
+  Borehole operating within expected parameters. Pump rod shows minor surface corrosion consistent with age. Water quality tests: coliform absent, turbidity within WHO limits. Usage classified as low; serving estimated 600 people daily.
+
+Maintenance History:
+  Preventive greasing of pump head completed during visit. Next service due in 12 months.
+
+SUMMARY STATISTICS
+==================
+Assets inspected: 3
+  Functional:     1 (33%)
+  Degraded:       1 (33%)
+  Non-functional: 1 (33%)
+
+RECOMMENDATIONS
+===============
+  1. [DDDC510C…] URGENT: Full rehabilitation or replacement required immediately.
+  2. [3B5A0EE5…] Schedule maintenance within 30–60 days to prevent failure.
+  3. [FB72F04F…] Continue routine monitoring. Next service in 12 months.
+
+Report prepared by: Engineer Zainab Abubakar
+Organization: Plan International
+Date submitted: 2024-08-06

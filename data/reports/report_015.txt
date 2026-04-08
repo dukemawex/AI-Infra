@@ -1,0 +1,102 @@
+NGO FIELD REPORT — RURAL INFRASTRUCTURE ASSESSMENT
+Report ID: RPT-015
+Date: 2024-03-14
+Organization: Catholic Relief Services
+Reporting Officer: Infrastructure Manager Peter Adeyemi
+Region: Ilorin, Kwara State, Nigeria
+
+EXECUTIVE SUMMARY
+=================
+Field assessment mission to Ilorin and surrounding LGAs in Kwara State. 5 infrastructure assets inspected over 4 days. Mission focus: water access and energy infrastructure serving rural and peri-urban communities.
+
+SITE ASSESSMENTS
+================
+
+Site 1: Hand-pump borehole (installed 2018) [ID: 97E9813C…]
+Location: GPS: 8.4655°N, 8.5121°E — Ilorin
+Asset Type: Borehole
+Install Date: 2018-09-23
+Last Maintenance: 2024-12-25
+Current Status: NON-FUNCTIONAL
+Usage Level: Medium
+
+Issue Description:
+  Borehole completely non-operational. Rising main collapsed — borehole inaccessible. Installed in 2018; last maintenance over 3 years ago. Approximately 1154 residents now walking >4 km to nearest water point.
+
+Maintenance History:
+  Emergency rehabilitation or full replacement required. Estimated cost: USD 4,458.
+
+Site 2: Hand-pump borehole (installed 2017) [ID: 9F280D7F…]
+Location: GPS: 9.9210°N, 12.6669°E — Ilorin
+Asset Type: Borehole
+Install Date: 2017-09-21
+Last Maintenance: No record
+Current Status: NON-FUNCTIONAL
+Usage Level: High
+
+Issue Description:
+  Borehole completely non-operational. Pump cylinder cracked — no water yield. Installed in 2017; no maintenance recorded in asset register. Approximately 624 residents now walking >4 km to nearest water point.
+
+Maintenance History:
+  Emergency rehabilitation or full replacement required. Estimated cost: USD 8,716.
+
+Site 3: Hand-pump borehole (installed 2022) [ID: CA79F9FB…]
+Location: GPS: 13.6689°N, 6.0495°E — Ilorin
+Asset Type: Borehole
+Install Date: 2022-03-12
+Last Maintenance: 2024-04-05
+Current Status: FUNCTIONAL
+Usage Level: High
+
+Issue Description:
+  Borehole operating within expected parameters. Pump rod shows minor surface corrosion consistent with age. Water quality tests: coliform absent, turbidity within WHO limits. Usage classified as high; serving estimated 597 people daily.
+
+Maintenance History:
+  Preventive greasing of pump head completed during visit. Next service due in 12 months.
+
+Site 4: Hand-pump borehole (installed 2018) [ID: D9BB5D12…]
+Location: GPS: 6.3477°N, 10.9128°E — Ilorin
+Asset Type: Borehole
+Install Date: 2018-03-23
+Last Maintenance: 2019-05-27
+Current Status: FUNCTIONAL
+Usage Level: Medium
+
+Issue Description:
+  Borehole operating within expected parameters. Pump rod shows minor surface corrosion consistent with age. Water quality tests: coliform absent, turbidity within WHO limits. Usage classified as medium; serving estimated 563 people daily.
+
+Maintenance History:
+  Preventive greasing of pump head completed during visit. Next service due in 12 months.
+
+Site 5: Elevated water storage tank (16,000 L, installed 2019) [ID: F66ED284…]
+Location: GPS: 6.0085°N, 6.4702°E — Ilorin
+Asset Type: Water Tank
+Install Date: 2019-06-20
+Last Maintenance: 2021-04-06
+Current Status: DEGRADED
+Usage Level: Medium
+
+Issue Description:
+  Tank losing approximately 10% daily volume through identified seam leak. Overflow pipe blocked causing periodic spillage and wastage. Structural support pillar shows surface spalling.
+
+Maintenance History:
+  Maintenance overdue. Re-sealing and structural inspection required within 30 days. Temporary repair applied to stop immediate leak.
+
+SUMMARY STATISTICS
+==================
+Assets inspected: 5
+  Functional:     2 (40%)
+  Degraded:       1 (20%)
+  Non-functional: 2 (40%)
+
+RECOMMENDATIONS
+===============
+  1. [97E9813C…] URGENT: Full rehabilitation or replacement required immediately.
+  2. [9F280D7F…] URGENT: Full rehabilitation or replacement required immediately.
+  3. [CA79F9FB…] Continue routine monitoring. Next service in 12 months.
+  4. [D9BB5D12…] Continue routine monitoring. Next service in 12 months.
+  5. [F66ED284…] Schedule maintenance within 30–60 days to prevent failure.
+
+Report prepared by: Infrastructure Manager Peter Adeyemi
+Organization: Catholic Relief Services
+Date submitted: 2024-03-14

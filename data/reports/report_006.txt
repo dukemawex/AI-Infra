@@ -1,0 +1,102 @@
+NGO FIELD REPORT — RURAL INFRASTRUCTURE ASSESSMENT
+Report ID: RPT-006
+Date: 2023-06-15
+Organization: Action Against Hunger
+Reporting Officer: Water Engineer Blessing Nwosu
+Region: Gusau, Zamfara State, Nigeria
+
+EXECUTIVE SUMMARY
+=================
+Field assessment mission to Gusau and surrounding LGAs in Zamfara State. 5 infrastructure assets inspected over 4 days. Mission focus: water access and energy infrastructure serving rural and peri-urban communities.
+
+SITE ASSESSMENTS
+================
+
+Site 1: Solar PV system (8.7 kW, installed 2019) [ID: C6313FFC…]
+Location: GPS: 8.6300°N, 11.3291°E — Gusau
+Asset Type: Solar Panel
+Install Date: 2019-10-04
+Last Maintenance: 2024-07-15
+Current Status: FUNCTIONAL
+Usage Level: Low
+
+Issue Description:
+  System generating at 93% of rated capacity. Panels clean; no shading issues detected. Battery bank at 92% state of health. Inverter logs show no fault codes in past 90 days. Usage level: low.
+
+Maintenance History:
+  Panel cleaning and connection torque-check performed. System monitoring app online.
+
+Site 2: Solar PV system (18.1 kW, installed 2023) [ID: 348BDEB2…]
+Location: GPS: 8.2301°N, 14.1878°E — Gusau
+Asset Type: Solar Panel
+Install Date: 2023-10-14
+Last Maintenance: 2024-12-14
+Current Status: FUNCTIONAL
+Usage Level: Medium
+
+Issue Description:
+  System generating at 93% of rated capacity. Panels clean; no shading issues detected. Battery bank at 90% state of health. Inverter logs show no fault codes in past 90 days. Usage level: medium.
+
+Maintenance History:
+  Panel cleaning and connection torque-check performed. System monitoring app online.
+
+Site 3: Solar PV system (12.4 kW, installed 2022) [ID: C92810F7…]
+Location: GPS: 7.6331°N, 12.3132°E — Gusau
+Asset Type: Solar Panel
+Install Date: 2022-08-14
+Last Maintenance: No record
+Current Status: NON-FUNCTIONAL
+Usage Level: Low
+
+Issue Description:
+  System completely offline. Battery bank fully discharged and will not hold charge. Theft of charge controller reported to local police. Installed in 2022; significant age-related component wear. Community facility (clinic / school) without power.
+
+Maintenance History:
+  Full system replacement assessment needed. Estimated replacement cost: USD 7,230.
+
+Site 4: Elevated water storage tank (42,000 L, installed 2024) [ID: 7E9ABA6C…]
+Location: GPS: 6.0965°N, 12.2722°E — Gusau
+Asset Type: Water Tank
+Install Date: 2024-04-27
+Last Maintenance: 2024-10-08
+Current Status: FUNCTIONAL
+Usage Level: Medium
+
+Issue Description:
+  Tank structure sound; no visible cracks or leaks. Current fill level: 66%. Float valve operating correctly. Serving 279 households. Usage level medium.
+
+Maintenance History:
+  Internal inspection and chlorination performed during visit. Next inspection in 6 months.
+
+Site 5: Elevated water storage tank (11,000 L, installed 2020) [ID: 411DC3EB…]
+Location: GPS: 8.2674°N, 13.5823°E — Gusau
+Asset Type: Water Tank
+Install Date: 2020-01-01
+Last Maintenance: 2024-05-02
+Current Status: FUNCTIONAL
+Usage Level: High
+
+Issue Description:
+  Tank structure sound; no visible cracks or leaks. Current fill level: 70%. Float valve operating correctly. Serving 430 households. Usage level high.
+
+Maintenance History:
+  Internal inspection and chlorination performed during visit. Next inspection in 6 months.
+
+SUMMARY STATISTICS
+==================
+Assets inspected: 5
+  Functional:     4 (80%)
+  Degraded:       0 (0%)
+  Non-functional: 1 (20%)
+
+RECOMMENDATIONS
+===============
+  1. [C6313FFC…] Continue routine monitoring. Next service in 12 months.
+  2. [348BDEB2…] Continue routine monitoring. Next service in 12 months.
+  3. [C92810F7…] URGENT: Full rehabilitation or replacement required immediately.
+  4. [7E9ABA6C…] Continue routine monitoring. Next service in 12 months.
+  5. [411DC3EB…] Continue routine monitoring. Next service in 12 months.
+
+Report prepared by: Water Engineer Blessing Nwosu
+Organization: Action Against Hunger
+Date submitted: 2023-06-15

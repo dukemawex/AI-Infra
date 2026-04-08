@@ -1,73 +1,102 @@
-NGO FIELD REPORT - GREAT LAKES REGION ENERGY SURVEY
+NGO FIELD REPORT — RURAL INFRASTRUCTURE ASSESSMENT
 Report ID: RPT-004
-Date: 2023-10-31
-Organization: Energy Without Borders - Rwanda/Burundi Program
-Author: Survey Lead Pierre Nkurunziza
+Date: 2023-04-11
+Organization: UNICEF WASH Nigeria
+Reporting Officer: WASH Specialist Fatima Yusuf
+Region: Sokoto, Sokoto State, Nigeria
 
 EXECUTIVE SUMMARY
 =================
-Comprehensive energy infrastructure survey across Rwanda and Burundi,
-covering 18 installations serving approximately 45,000 beneficiaries.
+Field assessment mission to Sokoto and surrounding LGAs in Sokoto State. 5 infrastructure assets inspected over 3 days. Mission focus: water access and energy infrastructure serving rural and peri-urban communities.
 
 SITE ASSESSMENTS
 ================
 
-Site 1: Kigali Northern Solar Hub (ASSET-0356)
-Location: Kigali, -1.9403, 30.0618
-Type: Solar System
-Capacity: 35.0 kW
-Current Status: operational
-Installation Date: 2019-06-15
-Last Maintenance: 2023-08-22
-Condition Notes: Flagship installation for Rwanda Rural Electrification
-Program. Running at 98% efficiency. Smart monitoring system transmits daily
-reports. Battery storage upgraded in 2022. Zero downtime in past 18 months.
-Community satisfaction survey score: 4.8/5.
+Site 1: Solar PV system (7.4 kW, installed 2024) [ID: 28231A30…]
+Location: GPS: 13.3392°N, 4.2838°E — Sokoto
+Asset Type: Solar Panel
+Install Date: 2024-08-26
+Last Maintenance: 2024-12-17
+Current Status: DEGRADED
+Usage Level: Medium
 
-Site 2: Musanze District Borehole (ASSET-0372)
-Location: Musanze, -1.4989, 29.6349
-Type: Borehole
-Depth: 55 meters
-Current Status: operational
-Installation Date: 2016-09-30
-Last Maintenance: 2023-04-12
-Condition Notes: Well maintained by local water user association. Yield
-stable at 3.8 m³/hour. Pump replaced preventively in 2022 before failure.
-This site is an example of good community ownership.
+Issue Description:
+  Output reduced to approximately 61% of rated capacity. Two panels exhibit micro-cracking from thermal stress. Intermittent power cuts affecting connected services.
 
-Site 3: Bujumbura Peri-Urban Solar Array (ASSET-0389)
-Location: Bujumbura, -3.3822, 29.3644
-Type: Solar System
-Capacity: 12.0 kW
-Current Status: degraded
-Installation Date: 2014-04-18
-Last Maintenance: 2022-12-01
-Condition Notes: Aging 9-year-old installation. Efficiency at 65%.
-Multiple panels replaced last year. Inverter near end of life.
-Vandalism has damaged 3 panels (repaired temporarily with tape - not
-a long-term fix). Full system assessment and budget allocation needed.
+Maintenance History:
+  Maintenance last performed over 2 years ago. Panel inspection and battery replacement scoping required within 45 days.
 
-Site 4: Lake Kivu Fishing Community Borehole (ASSET-0401)
-Location: Rubavu, -1.6833, 29.2667
-Type: Borehole
-Depth: 42 meters
-Current Status: offline
-Installation Date: 2011-01-20
-Last Maintenance: 2020-07-14
-Condition Notes: Borehole has been non-functional since February 2023.
-Suspected collapsed casing at 38-meter depth. No maintenance for 3+
-years prior to failure. Community of 980 people now travels 4km to
-nearest water source. Complete borehole rehabilitation or new borehole
-required. Estimated cost: USD 22,000.
+Site 2: Elevated water storage tank (49,000 L, installed 2023) [ID: A19900D1…]
+Location: GPS: 7.8001°N, 6.4999°E — Sokoto
+Asset Type: Water Tank
+Install Date: 2023-01-22
+Last Maintenance: 2024-08-03
+Current Status: FUNCTIONAL
+Usage Level: High
 
-CROSS-BORDER COORDINATION NOTE
-================================
-Sites in Burundi show consistently higher degradation rates compared to
-Rwanda, attributed to differences in community maintenance programs.
-Recommend cross-border knowledge sharing initiatives.
+Issue Description:
+  Tank structure sound; no visible cracks or leaks. Current fill level: 60%. Float valve operating correctly. Serving 686 households. Usage level high.
 
-Budget summary for next fiscal year:
-- Emergency interventions: USD 35,000
-- Preventive maintenance: USD 28,000
-- Capacity building: USD 12,000
-- Total: USD 75,000
+Maintenance History:
+  Internal inspection and chlorination performed during visit. Next inspection in 6 months.
+
+Site 3: Solar PV system (9.7 kW, installed 2022) [ID: 15E15EE4…]
+Location: GPS: 6.2422°N, 3.5234°E — Sokoto
+Asset Type: Solar Panel
+Install Date: 2022-04-23
+Last Maintenance: No record
+Current Status: FUNCTIONAL
+Usage Level: Low
+
+Issue Description:
+  System generating at 94% of rated capacity. Panels clean; no shading issues detected. Battery bank at 89% state of health. Inverter logs show no fault codes in past 90 days. Usage level: low.
+
+Maintenance History:
+  Panel cleaning and connection torque-check performed. System monitoring app online.
+
+Site 4: Hand-pump borehole (installed 2016) [ID: D7EDBECF…]
+Location: GPS: 10.9814°N, 6.7830°E — Sokoto
+Asset Type: Borehole
+Install Date: 2016-09-28
+Last Maintenance: 2020-09-05
+Current Status: FUNCTIONAL
+Usage Level: Low
+
+Issue Description:
+  Borehole operating within expected parameters. Pump rod shows minor surface corrosion consistent with age. Water quality tests: coliform absent, turbidity within WHO limits. Usage classified as low; serving estimated 306 people daily.
+
+Maintenance History:
+  Preventive greasing of pump head completed during visit. Next service due in 12 months.
+
+Site 5: Elevated water storage tank (18,000 L, installed 2021) [ID: FE5542F9…]
+Location: GPS: 5.4358°N, 7.8509°E — Sokoto
+Asset Type: Water Tank
+Install Date: 2021-11-23
+Last Maintenance: 2024-05-24
+Current Status: FUNCTIONAL
+Usage Level: Low
+
+Issue Description:
+  Tank structure sound; no visible cracks or leaks. Current fill level: 93%. Float valve operating correctly. Serving 321 households. Usage level low.
+
+Maintenance History:
+  Internal inspection and chlorination performed during visit. Next inspection in 6 months.
+
+SUMMARY STATISTICS
+==================
+Assets inspected: 5
+  Functional:     4 (80%)
+  Degraded:       1 (20%)
+  Non-functional: 0 (0%)
+
+RECOMMENDATIONS
+===============
+  1. [28231A30…] Schedule maintenance within 30–60 days to prevent failure.
+  2. [A19900D1…] Continue routine monitoring. Next service in 12 months.
+  3. [15E15EE4…] Continue routine monitoring. Next service in 12 months.
+  4. [D7EDBECF…] Continue routine monitoring. Next service in 12 months.
+  5. [FE5542F9…] Continue routine monitoring. Next service in 12 months.
+
+Report prepared by: WASH Specialist Fatima Yusuf
+Organization: UNICEF WASH Nigeria
+Date submitted: 2023-04-11
